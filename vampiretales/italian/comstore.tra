@@ -1,0 +1,253 @@
+@1 = ~Simbolo di Corellon Larethian~
+
+@2 = ~Questo simbolo magico del dio degli elfi, Corellon Larethian, venne dato a molti guerrieri della Mano dei Seldarine. Il simbolo ricorda l'epica battaglia  che Corellon combatté contro Gruumsh il Guercio. Chiunque indossi questo oggetto lo troverà particolarmente utile per combattere gli orchi.
+
+STATISTICHE:
+
+THAC0: +2~
+
+@3 = ~Fermaglio del Mantello di Bron~
+
+@4 = ~Questo piccolo talismano era il fermaglio di un mantello di proprietà del forte guerriero noto come Bron Balhon. In almeno dieci casi diversi nel corso della sua vita, Bron venne dato per morto dopo essere rimasto coinvolto in qualche orribile situazione. Alcuni dei suoi nemici lo trafiggevano con decine di quadrelli da balestra e lo gettavano in mare con dei pesi di piombo legati ai piedi solo per venire uccisi dalla sua stessa mano un mese dopo in una taverna lontana seimila chilometri. In un'altra occasione, i compagni vigliacchi di Bron lo avevano abbandonato quando erano stati attaccati da un branco di lupi crudeli nelle terre selvagge. Due settimane dopo Bron era ricomparso nell'accampamento con aria spavalda e portando un carico di pelli di lupo. Che tutte le storie su Bron siano vere o meno, pare che alla fine sia morto definitivamente sul Dorso del Mondo, nel corso di una lotta con dei vermi polari.
+
+STATISTICHE:
+
+Conferisce al portatore una resistenza del 5% ai danni Perforanti, Taglienti, e agli attacchi sa Lancio.
+Non utilizzabile da:~
+
+@5 = ~Frecce della Confusione +3~
+
+@6 = ~Oltre all'incredibile fattura di queste frecce, è possibile notare che la loro superficie è ricoperta di piccole rune di potere. È evidente che crearle è costato molta fatica; inoltre, anche se non è immediatamente apparente, sembrano irradiare una debole luminescenza bluastra.
+
+STATISTICHE:
+
+Danno: 1D6 +3 
+THAC0: +3
+Tipo di danno: Proiettile (perforante)
+Speciale: 10% di possibilità che il bersaglio diventi Confuso
+Peso: 0
+Dispositivo di lancio: Arco
+Non utilizzabile da:
+Chierico
+Druido
+Mago~
+
+@7 = ~Frecce della Morte Congelante +3~
+
+@8 = ~Questa freccia ghiacciata é stata magicamente incantata in modo tale esploda in una palla di ghiaccio e gelo quando viene scoccata. Quando la freccia colpisce la sua vittima, uno collasso di freddo colpirà il corpo del bersaglio con molto ardore e violenza.
+
+STATISTICHE:
+
+Danno: 1D6 +3
+Tipo di danno: missile (perforante)
+Speciale: 1D2 di dannoda freddo (senza tiro salvezza)
+15% di possibilità che il bersaglio sia congelato fino alla morte
+Peso: 0
+Dispositivo di lancio: Arco
+Nonutilizzabile da:
+Chierico
+Druido
+Mago~
+
+@9 = ~La Lama del Celebrante~
+
+@10 = ~Questa meravigliosa ascia è stata creata con grande cura da Briath Silverhand, un grande artigiano e fedele di Moradin. Briath creò l'arma per celebrare il completamento di un glorioso monumento al suo dio, il padre della razza nanica. La pose poi all'interno del monumento, nel caso in cui un eroe avesse avuto bisogno di aiuto per liberare le Sale di Dorn.
+
+STATISTICHE:
+
+Danno: 1D8 +4
+THAC0: +4
+Tipo di danno: Tagliente
+Peso: 5
+Fattore velocità: 3
+Tipo di competenza: Ascia
+Tipo: ad una mano
+Non utilizzabile da:
+Druido
+Chierico
+Mago
+Ladro~
+
+@11 = ~Strada Solitaria~
+
+@12 = ~Quest'arma apparteneva ad un'anima maledetta, condannata a vagare per il Faerun per i suoi crimini contro gli elfi di Myth Drannor.  Denell Harband era infatti coinvolto nella creazione del "Sentiero di Halfaxe". Agli ordini del suo comandante, Halvan l'Oscuro, si spinse nel profondo delle foreste degli elfi a dispetto delle loro proteste e dei loro ripetuti attacchi. Quando alla fine fu catturato, affermò con convinzione che era libero da ogni colpa perché stava solo eseguendo gli ordini. Il concilio elfico decretò che Denell fosse posto sotto una Costrizione che gli imponeva di portare la sua ascia dalla Costa della Spada del Faerun ai suoi confini orientali,e dal Grande Ghiacciaio a Lurien. Ci vollero trent'anni perché Denell riuscisse a portare a termine la sua missione. Quando vi riuscì, era ormai diventato un guerriero esperto, indurito da anni di vita in terra straniera. Sulla via per tornare a casa, passò vicino a Harrowdale e vide una statua di legno di Halvan l'Oscuro nella piazza di una cittadina. Con un solo colpo, piantò la sua grande ascia nella fronte di Halvan. Senza fermarsi fece poi ritorno alla sua casa, dove visse il resto dei suoi giorni da contadino.
+
+STATISTICHE:
+
+Danno: 1D10 +3
+THAC0: +3
+Speciale: +1 alla Costituzione quando viene brandita
+Tipo di danno: Tagliente
+Peso: 10
+Fattore velocità: 6
+Tipo di competenza: Ascia
+Tipo: a due mani
+Non utilizzabile da:
+Druido
+Chierico
+Mago
+Ladro~
+
+@13 = ~Bordo di Fuoco~
+
+@14 = ~Il Bordo di Fuoco é una creazione di un nano derro del Sottosuolo. Lavorava spesso con il fuoco e tutte le armi fabbricate da lui provocano danni da fuoco. Si dice che andò incontro al suo destino nelle gelide Terre delle Valli del Nord.
+
+STATISTICHE:
+
+Abilità di Combattimento: 2d4 di danni da fuoco 
+Danno: 3D6 +3
+THAC0 +3
+Tipo di danno (da mischia): tagliente
+Tipo di danno (da lancio): proiettile (perforante)
+Speciale: Una volta lanciata ritorna in mano del bersaglio
+Peso: 2
+Fattore velocità: 1
+Tipo di competenza: Ascia
+Tipo: ad una mano
+Richiede: 4 alla Forza
+Non utilizzabile da:
+Personaggi di Allineamento Buono
+Druido
+Chierico
+Mago
+Ladro~
+
+@15 = ~Cotta di Maglia Elfica della Mano +3~
+
+@16 = ~Durante l'Età dell'Oro tra gli Elfi della Mano dei Seldarine e i Nani delle Sale di Dorn vennero create delle versioni speciali della nota cotta di maglia elfica che fornivano una protezione ulteriore contro le rigide condizioni climatiche del nord.
+
+STATISTICHE:
+
+Classe Armatura: 2
+Bonus alla Resistenza: +20% di Resistenza al Freddo
+Peso: 15
+Non utilizzabile da:
+Druido
+Mago~
+
+@17 = ~Alabarda +3, La Rovina di Auril~
+
+@18 = ~La Rovina di Auril é l'arma scelta dalle guardie dei Tempi di Auril. La maggior parte di queste Alabarde si trova nelle fredde terre del Nord.
+
+STATISTICHE:
+
+THAC0: bonus +3
+Danno: 1D10 +3, +1D3 di Danni da freddo
+10% di possibilità che ad ogni colpo andato a buon fine congelerà il bersaglio.
+Tipo di danno: perforante
+Peso: 12
+Fattore velocità: 4
+Tipo di competenza: Alabarda
+Tipo: a due mani
+Richiede: 13 alla Forza
+Non utilizzabile da:
+Druido
+Chierico
+Mago
+Ladro~
+
+@19 = ~Martello del Signore delle Tempeste +3~
+
+@20 = ~Il "Martello delle Tempeste" é un altro nome con cui é conosciuto questo martello. A Gilgleam, un Sommo Sacerdote di Talos, piaceva talmente tanto la luce che ne "catturò" un pò e la incantò in questo Martello da guerra. In questo modo pensava di essere talmente potente che andò in Guerra con circa 1,000 orchi e venne sconfitto.
+
+STATISTICHE:
+
+Bonus:
+15% di resistenza alla luce
+Thac0: bonus di +3
+Danno: 2D4 +3 +2D4 di Danni elettrici
+Tipo di danno: schiacciamento
+Peso: 4
+Fattore velocità: 1
+Tipo di competenza: Martello da Guerra
+Tipo: ad una mano
+Richiede: 18 alla Forza
+Non utilizzabile da:
+Druido
+Mago
+Ladro~
+
+@21 = ~Lavata-Nel-Sangue~
+
+@22 = ~Kheros il Rosso indossò questa corazza in piastre durante molti degli anni che trascorse combattendo per la chiesa di Tempus. Era il figlio di umili agricoltori nei pressi di Calaunt. Da giovane era partito per la città per offrirsi come mercenario. Dopo molti sforzi coronati dal successo, Kheros divenne un membro temporaneo di molte compagnie di mercenari. Conducendo quel genere di vita, nonostante le sue molte vittorie, Kheros iniziò a provare disgusto e terrore alla vista del sangue.
+Alla fine la sua paura ebbe il sopravvento,  e lo precipitò nella follia. I sacerdoti di Tempus trovarono l'enorme guerriero e gli diedero un rifugio sicuro. I sacerdoti ritenevano di poter curare la paura di Kheros. Nel corso di molti anni, Kheros apprese i dogmi della religione di Tempus e alla fine divenne egli stesso un sacerdote.
+Il suo passo finale per vincere la sua paura fu essere immerso in una vasca piena di sangue fino quasi ad annegare. Per tutto il tempo che venne tenuto nel liquido, non lottò mai, né trasalì, né tentò di fuggire. Anni dopo fece creare un'armatura che gli ricordasse il suo passato..
+
+STATISTICHE:
+
+Classe Armatura: -1
+Peso: 55
+Non utilizzabile da:
+Druido
+Mago
+Ladro
+Bardo~
+
+@23 = ~Anello della Stregoneria di Kontik~
+
+@24 = ~Kontik, un potente mago al servizio di Auril, reclamò per sé questo anello da un mago nemico sconfitto, Nill l'Infernale. Nill, un arcimago specializzatosi nella magia del fuoco, aveva creato l'anello nel corso di un periodo di cinque anni. Il potente oggetto aiutò Nill in molti dei suoi lunghi viaggi. Purtroppo per Nill, non poté proteggerlo dai potenti servitori e dagli incantesimi di Kontik. È costruito da un metallo grigio-biancastro estremamente insolito chiamato tungsteno.
+
+STATISTICHE:
+
+Raddoppia l'ammontare degli incantesimi di 1° livello che un mago può memorizzare
+Raddoppia l'ammontare degli incantesimi di 2° livello che un mago può memorizzare
+Tutti i danni da freddo inferti dal personaggio aumentano del 15%.
+Utilizzabile solamente da:
+Mago (Singolo, Duale, e Multiclasse)~
+
+@25 = ~La Lama della Signora delle Nevi~
+
+@26 = ~Le sole parti materiali di quest'arma gelida sono l'elsa, l'impugnatura e il pomolo, intarsiati in ferro e in argento splendente. Venne creata nel 1099 CV dall'Eletta di Auril, Ihanora la Misericordiosa. Ihanora vagava per il nord, guidando attacchi spietati contro chiunque cercasse di trovare riparo dal gelo o di contrastarne gli effetti. Viaggiava in compagnia di uno strano assortimento di yeti, vermi polari, giganti e con un dragone bianco, e congelava tutto ciò che si lasciava alle spalle. Ihanora venne sconfitta nel 1108 CV dalla famosa Brigata della Maschera Rossa, guidata dallo spietato assassino doto come Harley il Cupo.
+
+STATISTICHE:
+
+Danno: 2D4 +2
+THAC0: +2
+Speciale: 2% di possibilità di trasformare il bersaglio in ghiaccio solido
+Tipo di danno: da Freddo
+Peso: 10
+Fattore velocità:  6
+Tipo di competenza: Spada Grande
+Tipo: ad una mano
+Non utilizzabile da:
+Druido
+Chierico
+Mago
+Ladro~
+
+@27 = ~Lo Scudo d'Argento~
+
+@28 = ~Questo scudo d'argento un tempo risiedeva presso la Mano dei Seldarine, dove era usato per proteggere il suo portatore dalle magie e dagli attacchi in mischia. Per via delle sue caratteristiche razziali, i selvaggi orchi e goblin l'hanno lasciato nella torre. La Vergine Ilmadia l'ha recuperato dalle rovine.
+
+STATISTICHE:
+
+Bonus alla Classe Armatura: 3
+Bonus di Resistenza: +25% alla Resistenza Magica
+Peso: 5
+Utilizzabile solamente da:
+Elfi
+Mezzelfi
+Non utilizzabile da:
+Druido
+Ladro
+Mago
+Bardo~
+
+@29 = ~Scudo Grande di Freddo +4~
+
+@30 = ~Questo é un potente scudo che viene dal "Freddo Nord". Questo scudo protegge dal freddo gelido.
+
+STATISTICHE:
+Concede il 20% di Resistenza al Freddo
+Bonus alla Classe Armatura: 3
+Speciale: +1 contro armi da Lancio
+Peso: 4
+Richiede: 10 alla Forza
+Non utilizzabile da:
+Bardo
+Druido
+Mago
+Ladro~
+
+@31 = ~Asgrim il Folle~
+@32 = ~Articoli di Asgrim~

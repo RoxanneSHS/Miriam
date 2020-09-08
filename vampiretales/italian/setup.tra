@@ -1,0 +1,667 @@
+﻿
+@400 = ~Ratava Sartsym~ 
+ 
+@401 = ~Marial Delsol~ 
+
+@402 = ~Lilith~ 
+  
+@403 = ~Blood Raven~ 
+
+@100 = ~Arco Lungo~ 
+@101 = ~L'Arco Nero~ 
+@102 = ~L'arco lungo è simile a quello corto, ma il sostegno è alto quasi quanto l'arciere, di solito da 1,8 a 2 m. Presenta due vantaggi rispetto all'arco corto: migliore gittata e maggiore precisione.  
+
+STATISTICHE:
+
+Danno:  
+THAC0: +1
+Peso: 3
+Fattore velocità: 7
+Tipo di competenza: Arco Lungo
+Tipo: a due mani
+Richiede una Forza minima di 12
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago
+ Ladro~
+@103 = ~L'Arco Nero, un rozzo arco dall'aspetto impolverato, venne creato come uno strumento di vendetta da un colone Cormyreano nelle Terre Centrali Occidentali del Faerun. Un ex-soldato di nome Jonan di Suzail, dopo molte campagne combattute in nome della corona, fece finalmente ritorno a casa per sposarsi col suo amore di gioventù. In tutti gli anni passati nell'esercito era rimasto fedele al suo vero amore e aveva messo da parte tutti i suoi guadagni. Non appena sposato, si trasferì ad ovest nella speranza di trovare una terra di frontiera da colonizzare. Nelle terre a nord di Baldur's Gate e ad est della Foresta dei Troll Jonan costruì una casa e una fattoria. Dopo cinque anni, tuttavia, la zona venne invasa dai predoni e tutt'intorno alla tenuta di Jonan le fattorie vennero distrutte. Alla fine, i predoni presero di mira anche la casa di Jonan, uccidendo sua moglie, suo figlio e lasciando lo stesso Jonan per morto. La sua fattoria venne completamente bruciata. Settimane dopo, Jonan costruì quest'arco e strofinò le ceneri della sua fattoria e della sua famiglia sulla corteccia del legno. Poi diedi sfogo al suo istinto omicida e uccise tutti i banditi che incontrava, passando poi ad uccidere chiunque avesse avuto a che fare con loro. I saggi disquisiscono sul modo in cui l'arco divenne incantato, ma i più credono che dopo la morte di Jonan sia stato benedetto da un dio. Alcuni dicono che fu benedetto da Tyr, altri dicono da Bhaal. La teoria dipende dall'opinione che l'oratore ha delle azioni di Jonan, se le considera giuste, vendicative o bestiali.
+
+STATISTICHE:
+
+Danno: +3
+THACO: +4
+Peso: 3
+Fattore velocità: 4
+Tipo di competenza: Arco lungo
+Tipo: a due mani
+Richiede una Forza minima di 12
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago
+ Ladro~
+
+@104 = ~Martello da Guerra~ 
+@105 = ~Sangue del Mestogelo~ 
+@106 = ~I cavalieri non possono usare con efficacia armi in asta quando sono a cavallo, e come risultato molte armi sono state adattate su aste più corte in modo da poter essere impugnate con una sola mano. Le mazze e i mazzafrusti sono due esempi in merito, il martello da guerra è un altro. Il martello da guerra del cavaliere è il discendente del martello di Lucerna. E' fatto interamente in acciaio, con rondelle che proteggono e rinforzano l'impugnatura. Le rondelle sono piccoli dischi di metallo spesso ornati con motivi decorativi. L'asta è lunga circa 54 cm.
+
+STATISTICHE:
+
+Danno: 1D4 +1
+Tipo di danno: Schiacciamento
+Peso: 6
+Fattore velocità: 4
+Tipo di competenza: Martelli
+Tipo: ad una mano
+Non utilizzabile da:
+ Druido
+ Mago 
+ Ladro~
+@107 = ~Quest'arma é stata forgiata da un nano cieco di nome Tiernon che viveva tra le pareti artiche del nord della Spina del mondo. Sebbene Tiernon era un fabbro ed un artigiano molto capace, dovette chiedere l'aiuto di un gruppo di avventurieri per creare quest'arma, affinché anche i loro poteri potessero essere trasmessi anche all'arma durante la sua creazione. L'arma stessa è fatta con il ghiaccio del Ghiacciaio del Mestogelo, ma al tocco è soltanto leggermente fredda e non si scioglie, nemmeno se esposta alla più calda della fiamme.
+
+STATISTICHE:
+
+Danno: 1D4 +5
+THAC0: +4
+Tipo di danno: Schiacciamento
+Speciale: +10% di Resistenza al Fuoco, +10% di Resistenza al Freddo, Scudo di Tempesta 1 volta al giorno, 5% di possibilità di guarire 2-12 punti di danno
+Peso: 3
+Fattore velocità: 1
+Tipo di competenza: Martello
+Tipo: ad una mano
+Utilizzabile solamente da:
+ Nani
+Non utilizzabile da:
+ Druido
+ Mago
+ Ladro~ 
+
+@108 = ~Ascia da Battaglia +3 "Fuoco Infernale"~
+@109 = ~Le asce magiche da battaglia sono solitamente fabbricate dai nani per difendere i loro guerrieri dai loro nemici confinanti più duri da battere. Questo tipo di asce magiche hanno visto molte battaglia ma i loro incantamenti e la loro maestria di fabbricazione le hanno rese un'arma molto efficace. Quest'ascia in particolare conferisce un danno supplementare di fuoco.
+
+STATISTICHE:
+
+THAC0: +3 di bonus
+Danno: 1D8 +3
++2D4 di Danno da Fuoco
+Tipo di danno: Tagliente
+Peso: 5
+Fattore velocità: 5
+Tipo di competenza: Ascia
+Tipo: ad una mano
+Richiede: 10 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago 
+ Ladro~ 
+
+@110 = ~Spada Corta~ 
+@111 = ~Spada Corta +4 "Inferno"~ 
+@112 = ~La spada corta fu la prima spada prodotta. Per dare un'idea approssimativa della forma, la spada corta può essere assimilata a una sorta di pugnale con lama così lunga da non poter più essere considerata tale. Il termine spada corta non esiste nella classificazione delle spade. Tuttavia, definisce una lama a doppio taglio di circa 60 cm. Solitamente l'estremità è appuntita, l'ideale per trafiggere.  
+
+STATISTICHE:
+
+Danno: 1D6
+Tipo di danno: perforante
+Peso: 3
+Fattore velocità: 3
+Tipo di competenza: Spada Corta
+Tipo: ad una mano
+Richiede: 5 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico 
+ Mago~ 
+@113 = ~La spada corta fu la prima spada prodotta. Per dare un'idea approssimativa della forma, la spada corta può essere assimilata a una sorta di pugnale con lama così lunga da non poter più essere considerata tale. Il termine spada corta non esiste nella classificazione delle spade. Tuttavia, definisce una lama a doppio taglio di circa 60 cm. Solitamente l'estremità è appuntita, l'ideale per trafiggere. 
+
+STATISTICHE:
+
+Danno: 1D6 +4, +1 da Fuoco
+THAC0: +3
+Tipo di danno: perforante
+Peso: 3
+Fattore velocità: 1
+Tipo di competenza: Spada Corta
+Tipo: ad una mano
+Richiede: 5 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico 
+ Mago~ 
+
+@114 = ~Strana Armatura~ 
+@115 = ~Scaglia di Drago Nero~ 
+@116 = ~Questa armatura ha un insolito aspetto e tessuto. Da una certa distanza, sembrerebbe essere di comunissimo cuoio. Ispezionata più da vicino si notano chiaramente le piccole scaglie nere molto flessibili di cui è in realtà composta.~ 
+@117 = ~Quest'armatura è stata preparata da fabbri e sacerdoti nani del Clan Battlehammer quando uno di loro, Bruenhal, condusse un gruppo di eroi a sconfiggere un drago nero nel lontano sud.  Alcuni nani storcono il naso al pensiero di indossare un'armatura fatta con i resti di un drago, ma Bruenhal indossò con orgoglio l'armatura fino alla fine dei suoi giorni.
+
+STATISTICHE:
+
+Classe Armatura: 4
+Bonus alle Resistenze: 
+  +25% di Resistenza all'Acido
+  +2 al Tiro Salvezza contro gli Incantesimi
+Peso: 10
+Non utilizzabile da:
+ Mago~
+
+@118 = ~Abito del Sommo Templare~ 
+@119 = ~Questo potente abito da mago offre protezione da tutte le forme di attacco fisico aumentando al contempo la resistenza alla magia e i tiri-salvezza dell'individuo. Per la natura dell'incantesimo, può essere indossato solo da maghi di allineamento buono e neutrale.
+
+STATISTICHE:
+
+Classe Armatura: +2 di Bonus
+Resistenza Magica: 25%
+Tiro Salvezza: +3 di bonus
+Peso: 6
+Utilizzabile solamente da:
+Mago (singolo, duale, e multiclasse)
+Personaggi di Allineamento Neutrale e Buono~ 
+
+@120 = ~Bastone Rinforzato~ 
+@121 = ~Bastone della Natura~ 
+@122 = ~Il bastone rinforzato è la più semplice e umile delle armi lunghe ed è costituito da un pezzo di legno lungo da 1,8 a 2,7 m. I bastoni rinforzati di alta qualità vengono fatti in duro legno di quercia e sono ricoperti di metallo a entrambe le estremità. Quest'arma deve essere brandita con entrambe le mani.  
+
+STATISTICHE:
+
+Danno: 1D6
+Tipo di danno: schiacciamento
+Peso: 4
+Fattore velocità: 4
+Tipo di competenza: Bastone
+Tipo: a due mani
+Richiede: 5 alla Forza~
+@123 = ~Il bastone rinforzato è la più semplice e umile delle armi lunghe ed è costituito da un pezzo di legno lungo da 1,8 a 2,7 m. I bastoni rinforzati di alta qualità vengono fatti in duro legno di quercia e sono ricoperti di metallo a entrambe le estremità. Quest'arma deve essere brandita con entrambe le mani.  
+
+STATISTICHE:
+
+Danno: 1D6 +3, +2 da Freddo, +2 da Fuoco
+THACO Bonus: +3
+Speciale: 1 Incantesimo Bonus per livelli 1-5
+Tipo di danno: schiacciamento
+Peso: 2
+Fattore velocità: 3
+Tipo di competenza: Bastone
+Tipo: a due mani
+Richiede: 6 alla Forza
+Utilizzabile solamente da:
+Druido (Singolo, Multiclasse e Duale)~ 
+
+@124 = ~Cintura di Protezione~ 
+@125 = ~Questa cinta proteggerà colui che la indossa dai danni causati nella sua vita da avventuriero.  
+
+STATISTICS
+
++1 alla Classe Armatura
+Lancia Barriera di Lame tre volte al giorno~
+
+@126 = ~Ascia da Battaglia +3 "La Storditrice"~ 
+@127 = ~Quest'ascia é stata fabbricata dal folle nano Magnuson Thorhammer. Durante il tentativo di forgiare un'ascia perfetta ma si dimenticò di forgiare un oggetto cruciale rendendo colui che brandisce quest'arma penalizzato di -2 alla sua costituzione poiché si sente malato.  
+
+STATISTICHE: 
+
+Speciale:
++2 alla Destrezza
+-2 alla Costituzione
+Abilità di combattimento: 
+Guadagna un attacco supplementare per round 
+20% di possibilità di stordire l 'avversario per 20 secondi 
+
+Thac0: +3 
+Danno: 1D8 +3 
+Peso: 10 
+Fattore velocità: 1 
+Tipo di competenza: Ascia 
+Tipo: ad una mano 
+Richiede: 10 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago 
+ Ladro~ 
+
+@128 = ~Ascia Polare~ 
+@129 = ~Ascia Polare +2~ 
+@130 = ~La versione più comune dell'ascia polare consiste in un robusto palo di circa 120 centimetri di lunghezza con una lama singola, a forma di tromba, montata da una parte.  
+
+STATISTICHE:
+
+Danno: 1D8
+Tipo di danno: tagliente
+Peso: 7
+Fattore velocità: 7
+Tipo di competenza: Ascia
+Tipo: ad una mano
+Richiede: 10 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago 
+ Ladro~ 
+@131 = ~La versione più comune dell'ascia polare consiste in un robusto palo di circa 120 centimetri di lunghezza con una lama singola, a forma di tromba, montata da una parte.  
+  
+
+STATISTICHE:
+
+Danno: 1D10 +2
+THACO: +2 di bonus
+Tipo di danno: perforante
+Peso: 12
+Fattore velocità: 7
+Tipo di competenza: Alabarda
+Tipo: a due meni
+Richiede: 13 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago
+ Ladro~ 
+
+@132 = ~Stivali~ 
+@133 = ~Stivali per Muoversi silenziosamente~ 
+@134 = ~Gli stivali vengono di solito fatti a mano dai ciabattini. Gli stivali comuni sono fatti utilizzando una forma, ma quelli di buona qualità sono fatti su misura per il piede di chi li indosserà. 
+
+STATISTICHE:
+
+Peso: 4~
+@135 = ~Questi Stivali per Muoversi silenziosamente sono idonei soprattutto per ladri e ranger, che hanno bisogno di bonus al Muoversi silenziosamente. 
+
+STATISTICHE:
+
+Bonus al Nascondersi nelle Ombre: +30%
+Peso: 4
+Utilizzabile da:
+Ranger
+Ladro~ 
+
+@136 = ~Mantello di Ballister~ 
+@137 = ~Ballister era un ladro halfling che lucrava molto nel suo commercio. Un giorno mise la mano nella tasca sbagliata dopodiché non si sentì e ne si vide più.
+
+STATISTICHE
+
+Abilità Speciali: 
+20% di Scopri Trappole 
+20% di Svuotare Tasche~ 
+
+@138 = ~Arco~ 
+@139 = ~Arco di Immolazione~ 
+@140 = ~Gli archi corti furono i primi ad apparire, anche se non con questo nome. Più che altro questo è un termine generico che si riferisce a ogni arma di questo tipo che non è un arco lungo. Le aste degli archi corti hanno lunghezza media di 1,5 m. Con il trascorrere degli anni si è cercato di aumentare la gittata degli archi costruendoli con aste più lunghe, oppure con maggiore flessibilità senza modificarne la lunghezza giungendo, nel primo caso, alla creazione dell'arco lungo. 
+
+STATISTICHE: 
+Danno: 1d6 
+Peso: 2 
+Fattore velocità: 6 
+Tipo di competenza: Arco 
+Tipo di armi: a due mani
+Non utilizzabile da:
+Druido
+Chierico
+Mago~ 
+@141 = ~L'Arco di Immolazione non lancia solo frecce da fuoco normali al nemico ma anche Palle di fuoco. 
+
+STATISTICHE:
+
+THAC0: +2
+Danno: +2
+Peso: 2
+Fattore velocità: 4
+Tipo di competenza: Archi
+Tipo: a dua mani
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago~ 
+
+@142 = ~Abito~ 
+@143 = ~Abito delle Ombre del Monaco~ 
+@144 = ~Fin dall'era di Netheril, i maghi hanno imparato ad attribuire varie proprietà magiche agli oggetti che li circondano. Uno degli oggetti preferiti per questi incantesimi è il abito comune. E leggero, economico e tiene bene l'incantesimo, facendone l'equipaggiamento ideale per un mago. Per il loro patrimonio magico, tuttavia, solo i maghi di classe singola, duale e multiclasse possono indossare questi abiti incantati.~ 
+@145 = ~Ungh Chi era un nobile Monaco dell'ordine dei Valorosi. Era un nobile ordine che si dedicava alla lotta contro i draghi malvagi per tutti i reami. Il Maestro Chi si trovava nell'Amn all'inseguimento di un drago rosso dopodiché si persero le sue tracce.
+
+STATISTICHE:
+
+Resistenza al Fuoco: +20% di bonus
+Muoversi silenziosamente: +20% di bonus
+Thac0 +1
+Peso:  1
+Utilizzabile solamente da:
+Monaco~ 
+
+@146 = ~Guanti di Gabrielle~ 
+@147 = ~Gabrielle era una potente guerriera/maga dell'esercito dei re. Un giorno lei ed un gruppo di guardie reali subirono un'imboscata da una banda di 1000 orchi. A differenza di alcuni eroi comuni popolari lei non riuscì a sopravvivere. 
+
+STATISTICHE
+
+THAC0: +3 di Bonus
++1 alla Forza
+Speciale: Guadagna un attacco supplementare per round 
+Peso: 1~ 
+
+@148 = ~Rovina di Kali~ 
+@149 = ~La Rovina di Kali apparteneva all'antica dea, Kali era la dea della Guerra e della morte. Durante la battaglia era solita andare in uno stato di furia berserk alla vista del sangue, cercandone sempre di più per la sua insaziabile fame. Subì il destino degli altri Dei dei tempi antichi dimenticati con il passare del tempo.
+
+STATISTICHE:
+
+Abilità di combattimento: ad ogni colpo andato a buon fine lancia Risucchio minore di Larloch sul bersaglio (senza tiro salvezza) e Risucchio di Livelli
+
+-2 alla Saggezza
+-2 all'Intelligenza
+
+THACO: +3 di bonus
+Danno: 2D4 +3
+Tipo di danno: tagliente
+Peso:  5
+Fattore velocità: 3
+Tipo di competenza: Spada Bastarda
+Tipo: ad una mano
+Richiede: 11 alla Forza
+Non utilizzabile da:
+Personaggi di allineamento Buono e Neutrale
+ Druido
+ Chierico
+ Mago
+ Ladro~ 
+
+@150 = ~Pugnale del Sacrificio~ 
+@151 = ~Pugnale del Sacrificio "Maledizione di Kali".
+
+Sulla lama di questo pugnale sono incise le parole "Morte" e "Sangue".
+
+Danno: 1D4 +4
+THACO: +4 di bonus
+Effetto: 20% di possibilità di Risucchio di Livelli
+5% di possibilità di morire. Tu o il tuo nemico?
+Tipo di danno: perforante
+Peso: 1
+Fattore velocità: 0
+Tipo di competenza: Pugnale
+Tipo: ad una mano
+Richiede: 3 alla Forza
+Non utilizzabile da:
+ Chierico~ 
+
+
+@152 = ~Tocco Mortale~ 
+
+@153 = ~Daystar "Stella del Giorno" (Migliorata)~ 
+@154 = ~Lama del Sole: Stella del Giorno
+Creata specificatamente per essere usata al servizio di Torm, ma comunque apprezzata in tutta la lunga storia della chiesa, i Paladini della Furia Fedele hanno fatto buon uso della Daystar nelle loro battaglie contro i non morti malvagi. Attraverso la magia o la benedizione,è dotata dei poteri del Raggio di Sole, una forza di energia pura così potente che uccide sia viventi che i non viventi.
+
+STATISTICHE:
+Abilità Speciali (una volta al giorno):
+Raggio di Sole
+ Danno: 3D6 (tiro salvezza contro incantesimi o rimanere accecato per 10 round)
+ Non Morti: un 1d6 di punti aggiuntivi di danno per ogni livello del lanciatore (tiro salvezza contro incantesimi o essere distrutti)
+ Raggio d'azione: 6 metri
+ Area d'effetto: 6 metri
+
+Nuova Abilità
+L'utilizzatore é immune al Risucchio di Livelli quando brandisce quest'arma.
+
+THACO: +3 di bonus, +4 contro le creature malvagie
+Danno: 1D8 +3, +4 contro le creature malvagie, danno raddoppiato contro I Non morti
+Tipo di danno: tagliente
+Peso: 2
+Fattore velocità: 3
+Tipo di competenza: Spada Lunga
+Tipo: ad una mano
+Richiede: 6 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago~ 
+
+@155 = ~Cuore Dannato~ 
+@156 = ~Cuore di Lilith~ 
+@157 = ~Questo é il cuore che batteva nel malvagio corpo di Lilith. Può essere utilizzato, parlandone con il giusto negoziante di magia ed oggetti magici. Alcuni sostengono che se il cuore di vampiro viene combinato con un'arma magica questa sarà resa ancora più potente.~ 
+
+@158 = ~Abito dell'arcimago buono (Migliorato)~ 
+@159 = ~ Questo potente abito da mago offre protezione da tutte le forme di attacco fisico aumentando al contempo la resistenza alla magia e i tiri-salvezza dell'individuo. Per la natura dell'incantesimo, può essere indossato solo da maghi di allineamento buono.
+
+STATISTICHE:
+
+Classe Armatura: 3
+Resistenza Magica: 15%
+Tiro Salvezza: +1 di bonus
+Peso: 6
+Utilizzabile solamente da:
+Mago (singolo, duale,  multiclasse)
+Personaggi di allineamento Buono~ 
+
+@160 = ~Amuleto dell'influenza di metaincantesimo (Migliorato)~ 
+@161 = ~Amuleto dell'influenza di metaincantesimo: "L'Amplificatore" 
+Rinomato per la sua abilità nel potenziare qualsiasi incantesimo, l'Amuleto dell'Influenza Metaincantesimo è molto ricercato da chi pratica la magia. Venne creato da Elairdrin Mellwith che viveva sulle Montagne della Stella. Il motivo per cui creò questo oggetto è collegato alla sua fama di donnaiolo e fino adesso l'amplificatore ha svolto il suo compito in maniera ineccepibile. Gli venne in seguito sottratto da un mago con fini molto peggiori, ma su questo passaggio di proprietà ci sono diverse versioni discordanti. 
+
+STATISTICHE:
+
+Speciale: Memorizza due incantesimi di primo di secondo e di terzo livello.~
+
+@162 = ~Ascia Polare +2~ 
+@163 = ~La versione più comune dell'ascia polare consiste in un robusto palo di circa 120 centimetri di lunghezza con una lama singola, a forma di tromba, montata da una parte.  
+  
+
+STATISTICHE:
+
+Danno: 1D10 +2
+THACO: +2 bonus
+Tipo di danno: perforante
+Peso: 12
+Fattore velocità: 7
+Tipo di competenza: Alabarda
+Tipo: a due mani
+Richiede: 13 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago
+ Ladro~ 
+
+@164 = ~Spada di Balduran Migliorata~
+@165 = ~Spada di Balduran
+La Spada di Balduran era l'arma favorita del famoso avventuriero che fondò la città di Baldur's Gate. E' parte di un gruppo di armi e armatura che venne rubato dal museo nella città di Baldur's Gate.
+
+STATISTICHE:
+
+Abilità di equipaggiamento:
++10% alla Conoscenza
++10% alla Resistenza Magica
++1 alla Classe Armatura
+Danno: 1D8 +2
+THACO: +2 di bonus
+Tipo di danno: tagliente
+Peso: 3
+Fattore velocità: 3
+Tipo di competenza: Spada Lunga
+Tipo: ad una mano
+Richiede: 5 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago~
+
+@166 = ~Elmo di Baldur Migliorato~
+@167 = ~Si ritiene che il favoloso Elmo di Baldurian, il leggendario fondatore di Baldur's Gate, disponga di una potente magia protettiva. Tuttavia, l'esatta natura di questa magia non è stata ancora determinata.
+
+STATISTICHE:
+
+Bonus alla Classe Armatura: 1
+Punti Ferita Massimi: +10
+Tiri Salvezza: +1 di bonus
+THACO: +1 di bonus
+Speciale: Protegge contro i colpi critici
+Peso: 1
+Nom utilizzabile da:
+Mago
+Bardo
+Ladro~
+
+@168 = ~Corazza di Piastre di Balduran Migliorata~
+@169 = ~Corazza di Piastre di Balduran
+Questa corazza di piastre era indossata dal famoso eroe Balduran. E' parte di un gruppo di armi e armatura che venne rubato dal museo nella città di Baldur's Gate.
+
+STATISTICHE:
+
+Abilità di equipaggiamento:
+ +4 ai punti ferita
+ +1 di bonus al Carisma
+ +10 alla resistenza al fuoco
+Classe Armatura: -1
+Peso: 50
+Richiede: 15 alla Forza
+Non utilizzabile da:
+ Bardo
+ Druido
+ Mago
+ Ladro~
+
+@170 = ~Scudo di Balduran Migliorato~
+@171 = ~Scudo di Balduran Migliorato +3
+Questo scudo era indossato dal famoso eroe Balduran. E' parte di un gruppo di armi e armatura che venne rubato dal museo nella città di Baldur's Gate.
+
+STATISTICHE:
+
+Abilità di equipaggiamento:
+ Riflette i raggi dei beholder
+ +1 alla Forza
+Bonus alla Classe Armatura: 4
+Peso: 5
+Richiede: 12 alla Forza
+Non utilizzabile da:
+ Bardo
+ Druido
+ Mago
+ Ladro~
+
+@172 = ~Mantello di Baldurian Migliorato~
+@173 = ~Mantello di Baldurian: "Mantello di Baldurian" 
+Pare che questo mantello sia stato indossato da Baldurian, il fondatore di Baldur's Gate. Pur non essendo mai stato utilizzato in combattimento, fornisce una protezione degna di un grande capo.  
+
+STATISTICHE:
+
+Classe Armatura: +2 di bonus
+Tiri Salvezza: +1 di bonus
+Resistenza Magica: 25%
+Peso: 3
+Non utilizzabile da:~
+
+@174 = ~Lama di Luna~
+@175 = ~Questa potente arma è stata creata dai fabbri dell'antica Myth Drannor. Le lame di luna vengono usate nel lungo processo di selezione del capo dell'isola di Evermeet. Una lama di luna sceglie il suo proprietario e, in questo caso particolare, il prescelto è stato l'elfo Xan. Solo Xan può usare questa spada: nessun altro riuscirà a sollevarla. Questa particolare lama di luna assicura la resistenza al fuoco e dà al suo possessore un bonus per la classe armatura.
+
+STATISTICHE:
+
+Danno: 1D8 +3
+THAC0: +3
+Tipo di danno: tagliente
+Bonus per colpire: 3
+Bonus al Danno: 3
+Speciale:
+ +1 di bonus alla Classe Armatura
+ +50% di Resistenza al Fuoco
+Peso: 4
+Fattore velocità: 5
+Tipo di competenza: Spada Piccola
+Tipo: ad una mano
+Utilizzabile da:
+ Chiunque~
+
+@176 = ~Articoli Magicamente Migliorati~
+@177 = ~Pergamene Magicamente Migliorate~
+
+@178 = ~Miriam Delsol~
+@179 = ~Miriam Delsol~
+@180 = ~Si?~ [MELISS01]
+@181 = ~Stupidi cretini.~ [MIRI02]
+@182 = ~Stupidi cretini.~ [MIRI02]
+@183 = ~Veleno o no, morirai piuttosto in fretta!~ [STHFE06]
+@184 = ~Ooooh, non è una buona giornata!~ [GNOMEF08]
+@185 = ~Devo scappare!~ [MELISS06]
+@186 = ~Forse adesso sarò te.~ [PPDILI01]
+@187 = ~Questi sono tempi difficili.~ [MIRI01]
+@188 = ~Lealtà verso l'unico signore.~ [MIRI03]
+@189 = ~La fine ti attende!~ [MELISS02]
+@190 = ~Tu soffrirai!~ [MELISS03]
+@191 = ~Non mi ci vorrà molto.~ [BODHIX04]
+@192 = ~Sii onorato, perché sarai il mio pasto!~ [VAMPFX06]
+@193 = ~Banchetterò con il tuo cuore!~ [VAMPFX05]
+@194 = ~Di questi tempi solo il più forte sopravvive.~ [MIRI04]
+@195 = ~Tu soffrirai!~ [MELISS03]
+@196 = ~~ [MELISS04]
+@197 = ~~ [WOMLC04]
+@198 = ~Non la passerai liscia!~ [GNOMEF05]
+@199 = ~Non ho nient'altro da dire.~ [MIRI06]
+@200 = ~Questi sono tempi difficili.~ [MIRI01]
+@201 = ~Si?~ [GENFG01]
+@202 = ~Vivrai finché lo tollererò.~ [BODHIX01]
+@203 = ~Si?~ [MELISS01]
+@204 = ~Ti ucciderò lentamente per avermi toccata in questo modo.~ [MIRI09]
+@205 = ~La vostra vita non significa nulla per me.~ [GENFT06]
+@206 = ~Stupidi cretini.~ [MIRI02]
+@207 = ~Stupidi cretini.~ [MIRI02]
+@208 = ~Ti ucciderò lentamente per avermi toccata in questo modo.~ [MIRI09]
+@209 = ~Stupidi cretini.~ [MIRI02]
+@210 = ~La vostra vita non significa nulla per me.~ [GENFT06]
+@211 = ~Stupidi cretini.~ [MIRI02]
+@212 = ~Non dirò nulla dopo quello che hai fatto!~
+@213 = ~Stupidi cretini.~ [MIRI02]
+@214 = ~Questi sono tempi difficili.~ [MIRI01]
+@215 = ~Preparati, sta per giungere il tuo ultimo sonno.~ [BODHIX05]
+@216 = ~Stupidi cretini.~ [MIRI02]
+@217 = ~Pensaci prima di agire da folle.~ [MIRI10]
+@218 = ~Pensaci prima di agire da folle.~ [MIRI10]
+@219 = ~Un segreto rimane solo un segreto se lo si tiene per se.~ [MIRI05]
+@220 = ~Ahh! Qualcuno mi nasconde!~ [MIRI07]
+@221 =  ~Miriam non ti dice molto di lei o delle sua storia. Quello che si sa è che è una vampira che vive da un centinaio di anni. Viene da un villaggio della Costa della Spada che è stato raso al suolo da lei stessa quando gli abitanti del suo villaggio scoprirono chi era veramente e cercarono di ucciderla. Personalità multiple devastano la sua mente rendendola talvolta difficile da comprendere, ma c'é del vero nelle sue parole se riesci a fare attenzione a quello che dice. Lei ha un unico punto di vista delle cose. Ti ha seguito per noia.~
+@222 =  ~Corazza di cuoio borchiata~
+@223 =  ~Armatura di Miriam~
+@224 = ~La corazza di cuoio borchiata non ha molto in comune con la normale corazza di cuoio. Mentre quest'ultima ha un rivestimento rigido, la corazza di cuoio borchiata è morbida e flessibile con sopra centinaia di rivetti. I rivetti sono molto vicini l'uno all'altro in modo da formare un rivestimento flessibile di metallo per schivare attacchi falcianti e taglienti. Lo strato di cuoio morbido non è solo un sostegno su cui attaccare i rivetti.
+
+STATISTICHE:
+
+Classe Armatura: 7
+Peso: 25
+Richiede: 6 alla Forza
+Non utilizzabile da:
+ Mago
+ Kensai
+ Monaco
+ Vendicatore
+ Mutaforma~
+@225 =  ~Armatura di Miriam
+L'armatura oscura di Miriam é stata un regalo del suo amore Akkari, un mago vampiro. Fu creata per aiutare i vampiri a sopravvivere fuori, alla luce del giorno, e non sono in molti a conoscere l'esistenza di queste armature. E' leggera e comoda, intessuta di potenti incantamenti al suo interno in modo tale da proteggere i vampiri dalla luce del sole affinché non si vaporizzi la carne vampirica, in questo caso protegge Miriam. Tuttavia Miriam rimane comunque indebolita sotto il bagliore della luce.
+
+In qualità di vampira principiante, Miriam possiede le immunità generiche dei Non Morti, come blocco, charme, morte magica e veleno. E' inoltre resistente al freddo ed ai danni elettrici. Rigenera un punto ferita ogni due secondi.~
+
+@226 =  ~Armatura di Miriam
+L'armatura oscura di Miriam é stata un regalo del suo amore Akkari, un mago vampiro. Fu creata per aiutare i vampiri a sopravvivere fuori, alla luce del giorno, e non sono in molti a conoscere l'esistenza di queste armature. E' leggera e comoda, intessuta di potenti incantamenti al suo interno in modo tale da proteggere i vampiri dalla luce del sole affinché non si vaporizzi la carne vampirica, in questo caso protegge Miriam. Tuttavia Miriam rimane comunque indebolita sotto il bagliore della luce.
+
+In qualità di vampira matura, Miriam possiede le immunità generiche dei Non Morti, come blocco, charme, morte magica e veleno. Non può essere danneggiata dalle armi non magiche. Può resistere ai danni da freddo ed ai danni elettrici. Rigenera un punto ferita ogni due secondi.~
+
+@227 =  ~Armatura di Miriam
+L'armatura oscura di Miriam é stata un regalo del suo amore Akkari, un mago vampiro. Fu creata per aiutare i vampiri a sopravvivere fuori, alla luce del giorno, e non sono in molti a conoscere l'esistenza di queste armature. E' leggera e comoda, intessuta di potenti incantamenti al suo interno in modo tale da proteggere i vampiri dalla luce del sole affinché non si vaporizzi la carne vampirica, in questo caso protegge Miriam. Tuttavia Miriam rimane comunque indebolita sotto il bagliore della luce.
+
+In qualità di vampira anziana ed esperta, Miriam possiede le immunità generiche dei Non Morti, come blocco, charme, morte magica e veleno. Non può essere danneggiata dalle armi non magiche e dalle armi +1. Può resistere ai danni da freddo ed ai danni elettrici. Rigenera un punto ferita ogni due secondi.~
+
+@228 =  ~Armatura di Miriam
+L'armatura oscura di Miriam é stata un regalo del suo amore Akkari, un mago vampiro. Fu creata per aiutare i vampiri a sopravvivere fuori, alla luce del giorno, e non sono in molti a conoscere l'esistenza di queste armature. E' leggera e comoda, intessuta di potenti incantamenti al suo interno in modo tale da proteggere i vampiri dalla luce del sole affinché non si vaporizzi la carne vampirica, in questo caso protegge Miriam. Tuttavia Miriam rimane comunque indebolita sotto il bagliore della luce.
+
+In qualità di vampira matriarca, Miriam possiede le immunità generiche dei Non Morti, come blocco, charme, morte magica e veleno. Non può essere danneggiata dalle armi non magiche, dalle armi +1 e dalle armi +2. Può resistere ai danni da freddo ed ai danni elettrici. Rigenera due punti ferita al secondo.~
+
+@229 = ~Artigli di Miriam~
+@230 = ~Artigli di Miriam
+Come quelli di tutti i vampiri, gli artigli di Miriam sono un condotto del piano negativo materiale. Il suo tocco gelido vale come un'arma +2, causa un 1d6+2 di punti di danno e risucchia un livello dal bersaglio.~
+@231 = ~Artigli di Miriam 
+Come quelli di tutti i vampiri, gli artigli di Miriam sono un condotto del piano negativo materiale. Il suo tocco gelido vale come un'arma +2, causa un 1d6+2 di punti di danno e risucchia 2 livelli al bersaglio.~
+@232 = ~Artigli di Miriam 
+Come quelli di tutti i vampiri, gli artigli di Miriam sono un condotto del piano negativo materiale. Il suo tocco gelido vale come un'arma +3, causa 1d6+3 di punti di danno e risucchia 3 livelli al bersaglio.~
+@233 = ~Artigli di Miriam
+Come quelli di tutti i vampiri, gli artigli di Miriam sono un condotto del piano negativo materiale. Il suo tocco gelido vale come un'arma +4, causa 1d6+4 di punti di danno e risucchia 4 livelli al bersaglio.~
+@234 = ~Artigli di Miriam
+Come quelli di tutti i vampiri, gli artigli di Miriam sono un condotto del piano negativo materiale. Il suo tocco gelido vale come un'arma +5, causa 1d6+5 di punti di danno e risucchia 5 livelli al bersaglio.~
+@235 = ~Magnifici artigli della morte di Miriam.~
+
+@236 = ~Accecata dalla luce del sole.~
+@237 = ~Vampire Tales~
+@238 = ~Non sembra esserci TOB installato.~
+@239 = ~Migliorato il Culto dell'Occhio Offuscato~
+@240 = ~Migliorato il Combattimento degli Arpisti~
+@241 = ~CoM Store 1~

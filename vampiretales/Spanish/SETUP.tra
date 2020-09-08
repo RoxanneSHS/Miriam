@@ -1,0 +1,647 @@
+@400 = ~Ratava Sartsym~ 
+@401 = ~Marial Delsol~
+@402 = ~Lilith~ 
+@403 = ~Blood Raven~
+@100 = ~Arco Largo~ 
+@101 = ~Arco Oscuro~
+@102 = ~El arco largo es parecido al corto, salvo en que la vara es de la misma altura que el arquero, de 180 a 190 centímetros. Disfruta de mayor alcance que el arco corto y, por lo tanto, de mucha más precisión.
+
+CARACTERÍSTICAS:
+
+Daño:
+GAC0: +1
+Peso: 3
+Factor de velocidad: 7
+Talento marcial: Arcos
+
+No lo puede usar:
+El druida
+El clérigo
+El mago
+El ladrón~
+@103 = ~Un arco rústico con un aspecto polvoriento, el arco Negro fue creado como un instrumento de venganza por un colono Cormyrean en los principales centros occidentales de Faerûn. Un ex soldado llamado Jonan de Suzail, después de años de campaña en el nombre de la corona, finalmente regresó a su casa para casarse con su novia de la infancia. A través de todos sus años en el ejército, se mantuvo fiel a su amor y guardó sus ganancias. Él y su esposa se trasladaron al oeste con la esperanza de que encontrarían tierra en la frontera. En las tierras al norte de la puerta de Baldur y al este de la Selva de la corteza del Troll, Jonan construyó su casa y su granja. Durante cinco años, hubo asaltantes en la zona, y las granjas en derredor eran destruidas. Finalmente, los asaltantes atacaron la casa de Jonan, matando a su esposa e hijo y lo tuvieron por muerto. Su granja se quemó hasta los cimientos. Semanas más tarde, Jonan diseñó este arco y se frotó las cenizas de su granja y de su familia en el grano de la madera. Más tarde, fue una masacre criminal, asesinando a cada uno de los bandidos, donde los encontraba, y luego también el matar a cualquiera que estuviese asociado. Sabios debaten cómo convirtió encantado el arco, pero la mayoría cree que, después de la muerte de Jonan, fue bendecido por un dios. Algunos dicen que fue bendecido por Tyr, algunos dicen que por Hoar, y otros dicen que por Bhaal. Las teorías tienden a girar en torno a creer que las acciones de Jonan fueron de venganza o asesinato.
+
+CARACTERÍSTICAS:
+
+Daño:
+GAC0: +4
+Peso: 3
+Factor de velocidad: 4
+Talento marcial: Arcos
+Requisitos: Fuerza 12
+
+No lo puede usar:
+El druida
+El clérigo
+El mago
+El ladrón~ 
+@104 = ~Martillo de Guerra~
+@105 = ~Sangre helada de Gloom~ 
+@106 = ~Los Caballeros montados no pueden utilizar eficazmente las armas de largo palo, y como resultado, muchas armas han sido equipadas con ejes más cortos de manera que puedan ser manejados con una sola mano. Mazas y mayales son dos ejemplos anteriores de la presente - el martillo de guerra es otra. El martillo de guerra del jinete es el descendiente del martillo Lucerna. Está hecho completamente de acero con rondeles como protección y fortalecimiento de adherencia. Rondeles son pequeños discos de metal, a menudo en forma de diseños decorativos. El eje es de unos 18 centímetros de largo.
+
+CARACTERÍSTICAS:
+
+Daño: 1D4+1
+Tipo de daño: Aplastamiento
+Peso: 6
+Factor de velocidad: 4
+Talento marcial: Armas sin punta
+
+No lo puede usar:
+El druida
+El mago
+El ladrón~
+@107 = ~Esta arma fue forjada por un enano ciego llamado Tiernon que vivía en el ártico, al norte de la columna del mundo. Aunque Tiernon era un artesano experto y artista, necesitó la ayuda de un grupo de aventureros para crear esta arma de calidad. El arma en sí fue hecha de hielo del glaciar Gloomfrost, pero es sólo un poco fría al tacto y no se funde, incluso cuando es expuesta a las más calientes llamas.
+
+CARACTERÍSTICAS:
+
+Daño: 1D4 + 5
+GAC0: +4
+Tipo de daño: aplastamiento
+Especial:
+   +10% de resistencia al fuego
+   +10% de resistencia al frío
+   Escudo de la Tormenta una vez al día
+   5% posibilidad de curación 2-12 puntos de daño
+Peso: 3
+Factor de velocidad: 1
+Talento marcial: Armas sin punta
+
+Sólo utilizable por:
+ Enanos
+
+No lo puede usar:
+El druida
+El mago~
+@108 = ~Hacha de Batalla +3 "Fuego Infernal"~ 
+@109 = ~Las hachas mágicas son normalmente hechas a mano por los enanos para ayudar a defender a sus guerreros en contra de sus vecinos más duros. Esta hacha mágica ha sido testigo de muchas batallas, pero sus encantos y la artesanía lo convierten en un arma muy capaz todavía, pasando a hacer daño adicional por fuego.
+
+CARACTERÍSTICAS:
+
+GAC0: +3
+Daño: 1D8 +3 +2D4 puntos de daño por fuego
+Tipo de daño: Cortante
+Peso: 5
+Factor de velocidad: 5
+Talento marcial: Hacha
+Tipo: una mano
+Requiere 10 de Fuerza
+
+No permitido a:
+ Druida
+ Mago
+ Ladrón
+ Clérigo~
+@110 = ~Espada Corta~ 
+@111 = ~Espada Corta +4 "Infierno"~
+@112 = ~La espada corta fue el primer tipo de espada utilizada y se podría describir como una especie de daga de hoja tan larga que ya deja de ser una daga. En la clasificación de espadas no se incluye el término espada corta. Sin embargo, la utilización de este vocablo se ha generalizado para describir una hoja de doble filo de aproximadamente 60 cm. de longitud. La punta de la espada suele ser afilada, perfecta para apuñalar.
+
+CARACTERÍSTICAS:
+
+Daño: 1D6
+Tipo de daño: perforación
+Peso: 3
+Factor de velocidad: 3
+Talento marcial: Espada pequeña
+Requiere 5 de Fuerza
+
+No lo puede usar:
+El druida
+El clérigo
+El mago~
+@113 = ~La espada corta fue el primer tipo de espada utilizada y se podría describir como una especie de daga de hoja tan larga que ya deja de ser una daga. En la clasificación de espadas no se incluye el término espada corta. Sin embargo, la utilización de este vocablo se ha generalizado para describir una hoja de doble filo de aproximadamente 60 cm. de longitud. La punta de la espada suele ser afilada, perfecta para apuñalar.
+
+CARACTERÍSTICAS:
+
+Daño: 1D6 +4, +1 daño por fuego
+GAC0: +3
+Tipo de daño: perforación
+Peso: 3
+Factor de velocidad: 1
+Talento marcial: Espada pequeña
+Requiere 5 de Fuerza
+
+No lo puede usar:
+El druida
+El clérigo
+El mago~
+@114 = ~Armadura extraña~ 
+@115 = ~Escama de Dragón Negro~
+@116 = ~Este blindaje tiene una textura y apariencia inusual. Desde la distancia, parece ser de cuero común. Una inspección de cerca revela que es, de hecho, hecho de delgadas escamas negras muy flexibles. ~ 
+@117 = ~Esta armadura fue elaborada por los herreros enanos y los sacerdotes del Clan Martillo de Batalla cuando uno de los suyos, Bruenhal, encabezó un grupo de héroes en la derrota de un dragón negro muy al sur. Algunos enanos fruncieron la nariz ante la idea de llevar una armadura hecha de los restos de un dragón, pero Bruenhal lució con orgullo la armadura hasta el final de sus días.
+
+CARACTERÍSTICAS:
+
+Clase de armadura: 4
+   25% Resistencia al ácido
+   +2 Tirada de salvación contra la magia
+Peso: 10
+
+No lo puede usar:
+ El mago~ 
+@118 = ~Túnica del Alto Templario~
+@119 = ~Esta túnica poderosa ofrece protección contra todas las formas de agresión física, mientras que al mismo tiempo, aumenta la resistencia mágica y los tiros de salvación. Debido a la naturaleza de su encanto, sólo puede ser usada por magos de alineaciones buenas y neutrales.
+
+CARACTERÍSTICAS:
+
+Clase de armadura: bonificador +2 
+   25% Resistencia mágica 
+Tirada de salvación +3 
+Peso: 6
+
+Sólo lo puede usar:
+El mago (individual, doble y multiclase)
+Usable por alineamientos buenos y neutrales. ~ 
+@120 = ~Bastón~
+@121 = ~Bastón de la Naturaleza~
+@122 = ~Es la más sencilla y humilde de las armas de palo. La barra es una madera de 180 a 275 centímetros de largo. Una buena barra está hecha de madera de roble y va rematada con metal en ambos extremos. La barra se debe empuñar con ambas manos.
+
+CARACTERÍSTICAS:
+
+Daño: 1D6
+Tipo de daño: aplastamiento
+Peso: 4
+Factor de velocidad: 4
+Talento marcial: Armas sin punta
+~
+@123 = ~Es la más sencilla y humilde de las armas de palo. La barra es una madera de 180 a 275 centímetros de largo. Una buena barra está hecha de madera de roble y va rematada con metal en ambos extremos. La barra se debe empuñar con ambas manos.
+
+CARACTERÍSTICAS:
+
+Daño: 1D6 +3,+2 por hielo, +2 por fuego
+GAC0: +3
+Especial: 1 hechizo por nivel 1-5
+Tipo de daño: aplastamiento
+Peso: 2
+Factor de velocidad: 3
+Talento marcial: Armas sin punta
+
+Sólo lo puede usar:
+  El Druida (individual, doble y multiclase)
+~
+@124 = ~Fajín de Protección~
+@125 = ~Este fajín protege al usuario de los daños causados en su vida de aventuras.
+
+CARACTERÍSTICAS
+
++1 a la CA
+
+Barrera de cuchillas tres veces al día~
+@126 = ~Hacha de Batalla +3 "La Aturdidora"~
+@127 = ~Esta hacha fue hecha por el loco enano Magnuson Thorhammer. En su creación se embarcó en hacer el hacha a la perfección, pero se olvidó un elemento crucial y el resultado es que el usuario sufre -2 a su constitución, sintiéndose enferma.
+
+CARACTERÍSTICAS:
+
+Especial:
++2 Destreza
+ -2 Constitución
+Habilidades de combate:
+Gana un ataque adicional por asalto
+20% de probabilidad aturdir al oponente durante 20 segundos
+
+GAC0: +3
+Daño: 1D8+3
+Peso: 10
+Factor de velocidad: 1
+Talento marcial: Hacha
+Tipo: 1 mano
+Requerimientos: 10 fuerza
+
+No utilizable por:
+ Druida
+ Clérigo
+ Mago
+ Ladrón~
+@128 = ~Hacha Polar~
+@129 = ~Hacha Polar +2~
+@130 = ~La versión más común del hacha de polar es un palo fuerte de unos 120 cm. con una cuchilla de un filo en forma de cuña en uno de sus extremos. 
+
+CARACTERÍSTICAS:
+
+Daño: 1D8
+Tipo de daño: cuchillada
+Peso: 7
+Factor de velocidad: 7
+Talento marcial: Hacha
+
+No lo puede usar:
+El druida
+El clérigo
+El mago
+El ladrón~
+@131 = ~La versión más común del hacha de polar es un palo fuerte de unos 120 cm. con una cuchilla de un filo en forma de cuña en uno de sus extremos. 
+
+CARACTERÍSTICAS:
+
+Daño: 1D10+2
+GAC0: +2
+Tipo de daño: cuchillada
+Peso: 12
+Factor de velocidad: 7
+Talento marcial: Hacha
+Talento marcial: Alabarda
+Tipo: dos manos
+Requiere: 13 de Fuerza
+
+No lo puede usar:
+El druida
+El clérigo
+El mago
+El ladrón~
+@132 = ~Botas~
+@133 = ~Botas de Sigilo~
+@134 = ~Las botas las suelen hacer a mano los zapateros. Las botas normales se hacen partiendo de un molde, pero las buenas se diseñan para el pie de alguna persona en particular.
+
+CARACTERÍSTICAS:
+
+Peso: 4~
+@135 = ~Estas botas son un artículo que todo ladrón y explorador necesitan para aumentar su sigilo.
+
+CARACTERÍSTICAS:
+
+Bonificador de sigilo: +30%
+Peso: 4
+~
+@136 = ~La capa de la Ballister~
+@137 = ~Ballister era un ladrón Halfling que era muy rentable en su comercio. Un día él tomó el bolsillo equivocado y nunca fue escuchado o visto de nuevo.
+
+CARACTERÍSTICAS
+
+Habilidades especiales:
+20% de encontrar trampas
+20% hurtar~
+@138 = ~Arco~
+@139 = ~Arco de Inmolación~
+@140 = ~Los arcos cortos fueron los primeros en desarrollarse, aunque no recibían este nombre. Éste es un término que se aplica a todo lo que no sea un arco largo. Las varas de los arcos cortos son de unos 150 centímetros de media. Con el paso del tiempo, se hicieron intentos de mejorar el alcance de los arcos. Esto se hacía alargando las varas o aumentando la flexibilidad sin cambiar la longitud. El primer caso dio como resultado el arco largo.
+
+CARACTERÍSTICAS:
+
+Daño: 
+Peso: 2
+Factor de velocidad: 6
+Talento marcial: Arcos
+
+No lo puede usar:
+ El druida
+ El clérigo
+ El mago~
+@141 = ~Arco de inmolación no sólo lanzar flechas normales, sino también bolas de fuego a un enemigo.
+
+CARACTERÍSTICAS:
+
+GAC0: +2
+Daño: +2
+Peso: 2
+Factor de velocidad: 4
+Talento marcial: Arcos
+
+No lo puede usar:
+ El druida
+ El clérigo
+ El mago~
+@142 = ~Túnica~
+@143 = ~Túnica de las sombras del Monje~
+@144 = ~Desde la edad de Nezheril, los magos han aprendido a conceder una amplia variedad de propiedades mágicas a los objetos cotidianos que los rodean. Un tema favorito de encanto es la túnica común. Es ligera, asequible, y tiene su encanto y, lo que hace el equipo ideal para un mago. Debido a su herencia mágica, sin embargo, sólo los magos pueden usar estas ropas encantadas. ~
+@145 = ~Ungh Chi fue un monje noble de la Orden de los valientes. Eran una orden de nobles que se dedicó a la lucha contra dragones malignos a través de los reinos. Master Chi fue por un dragón rojo cuando estuvo en Amn y nunca se supo de él.
+
+CARACTERÍSTICAS:
+
+Resistencia al Fuego: +20% de bonificación
+Sigilo: +20% de bonificación
+GAC0: +1
+Peso: 1
+
+Sólo utilizable por:
+ El Monje~
+@146 = ~Guanteletes de Gabrielle~
+@147 = ~Gabrielle era un poderoso luchador / mago en el ejército de los reyes. Un día ella y el grupo de la guardia real fueron emboscados por un grupo de mil orcos. A diferencia de algún héroe popular comunacho, ella no logró sobrevivir.
+
+CARACTERÍSTICAS
+
+GAC0: +3
++1 A la fuerza
+Especial: Gana un ataque adicional por asalto
+Peso: 1~
+@148 = ~Ruina de Kali~
+@149 = ~Ruina de Kali pertenecía a la antigua diosa, Kali, la diosa de la guerra y la muerte. En la guerra se volvía loca a la vista de la sangre, siempre con ganas de más para alimentar su hambre eterna. Ella sufrió el destino de los otros dioses de la época y desapareció de la historia.
+
+CARACTERÍSTICAS:
+
+Habilidades de combate: Cada golpe exitoso invoca Drenaje menor de Larloch al objetivo (Sin tirada de salvación) y drena un nivel.
+
+-2 A la sabiduría
+-2 A la inteligencia
+
+GAC0: +3 de bonificación
+Daño: 2D4+3
+Tipo de daño: cortante
+Peso: 5
+Factor de Velocidad: 3
+Talento marcial: Espada bastarda
+Tipo: una mano
+Requiere: 11 de Fuerza
+
+
+No lo puede usar:
+
+Los alineamientos buenos y neutrales.
+ Druida
+ Clérigo
+ Mago
+ ladrón~
+@150 = ~Daga del Sacrificio~
+@151 = ~Daga del Sacrificio "Maldición de Kali".
+
+Las palabras "muerte" y "Sangre" están grabadas en la hoja.
+
+Daño: 1D4 +4
+GAC0: bonificador +4
+Efecto: 20% Probabilidad de drenar un nivel
+5% de probabilidad de muerte. ¿Tuya o de tu enemigo?
+Tipo de daño: Perforante
+Peso: 1
+Factor de velocidad: 0
+Talento marcial: Daga
+Tipo: una mano
+
+No utilizable por:
+ Clérigo~
+@152 = ~Toque de muerte~
+@153 = ~Espada Solar "Diastro" (mejorada)~
+@154 = ~Espada Solar "Diastro"
+
+Creada específicamente para su uso al servicio de Torm o apropiación en algún momento de la larga historia de la iglesia, paladines de la Furia leales han hecho buen uso de Diastro en sus batallas contra los no-muertos del mal. A través de la magia o la bendición que está dotada con rayos solares, una fuerza pura energía de energía de vida tan potente que mata a vivos y sin vida.
+
+CARACTERÍSTICAS:
+Las habilidades especiales (una vez por día):
+Rayo solar
+ Daño: 3D6 (Tirada de salvación contra hechizos o quedar ciego durante 10 asaltos)
+ Muertos: 1D6 puntos de daño adicional por nivel de lanzador (Tirada de salvación contra hechizos o ser destruidos)
+ Alcance: 18 metros
+ Área de efecto: Radio de 6 metros
+
+Nueva Habilidad
+El usuario es inmune a ser drenado de nivel cuando la lleva.
+
+GAC0: +3 de bonificación, +4 contra criaturas malvadas
+Daño: 1D8 +3, +4 contra criaturas malvadas, es el doble de daño contra muertos vivientes
+Tipo de daño: cuchillada
+Peso: 2
+Factor de Velocidad: 3
+Talento marcial: espada larga
+Tipo: una mano
+Requiere: 6 de Fuerza
+
+No utilizable por:
+ Druida
+ Clérigo
+ Mago~
+@155 = ~Corazón de los malditos~
+@156 = ~Corazón de Lilith~
+@157 = ~Este es el corazón que se utiliza para vencer el mal en el cuerpo de Lilith. Puede ser usado si habláis con el guardián correcto de la tienda mágica. Algunos dicen que el corazón de un vampiro combinado con un arma hará que sea más potente. ~
+@158 = ~Túnica de los Archimagos del Bien (mejorada) ~
+@159 = ~Esta poderosa túnica de mago ofrece protección contra todas las formas de ataque físico al tiempo que aumenta la resistencia mágica y los tiros de protección. Debido a la naturaleza de su encantamiento, sólo la pueden llevar los magos alineados con el bien.
+
+CARACTERÍSTICAS:
+
+Clase de armadura: 3
+Resistencia a la magia: 15%
+Tiro de protección: bonificador +1
+Peso: 6
+
+Sólo lo puede usar:
+El mago (individual, doble y multiclase)
+Personajes alineados con el bien~
+@160 = ~Amuleto de influencia de metaconjuro: 'El Amplificador' ~
+@161 = ~
+El amuleto de influencia de metaconjuro, conocido por su capacidad para intensificar cualquier conjuro, es muy codiciado por los magos de profesión. Elairdrin Mellwith, que residía en las Montañas de las Estrellas, fue quien creó este objeto. Sus razones para fabricar tal pieza derivaban de sus hábitos mujeriegos y, en este sentido, el Amplificador le fue muy útil. Después, un mago con intenciones más destructivas se lo robó, pero existen varias versiones sobre sus diferentes dueños.
+
+CARACTERÍSTICAS:
+
+Especial: Memoriza dos conjuros extra de segundo nivel y tercer nivel. ~
+@162 = ~Hacha polar +2~
+@163 = ~La versión más común del hacha de polar es un palo fuerte de unos 120 cm. con una cuchilla de un filo en forma de cuña en uno de sus extremos. 
+
+CARACTERÍSTICAS:
+
+Daño: 1D10+2
+GAC0: +2
+Tipo de daño: cuchillada
+Peso: 12
+Factor de velocidad: 7
+Talento marcial: Alabarda
+Tipo: dos manos
+
+No lo puede usar:
+El druida
+El clérigo
+El mago
+El ladrón~
+@164 = ~Espada de Balduran mejorada~
+@165 = ~Esta espada era la que usaba el famoso héroe Balduran, quien fundó la puerta de Baldur, y formaba parte del conjunto de armas y armaduras que fueron robados del museo de la ciudad de Puerta de Baldur.
+
+CARACTERÍSTICAS:
+
+Habilidades Equipada:
++10% en ciencia
++10% Resistencia mágica
++1 a la CA
+Daño: 1D8+2
+GAC0: bonificador +2
+Tipo de daño: cuchillada
+Peso: 3
+Factor de Velocidad: 3
+Talento marcial: Espada Larga
+Tipo: una mano
+
+No utilizable por:
+ Druida
+ Clérigo
+ Mago~
+@166 = ~Yelmo de Balduran mejorado~
+@167 = ~Durante mucho tiempo se ha rumoreado que el casco fabuloso de Baldurian, el legendario fundador de la Puerta de Baldur, posee una poderosa magia protectora. Sin embargo, aún no se ha determinado la naturaleza exacta de su magia.
+
+CARACTERÍSTICAS:
+
+Bonificador de clase de armadura: 1
+Máx. puntos de golpe: +10
+Tiros de protección: Bonificador +1
+GAC0: Bonificador +1
+Especial: Protege contra golpes críticos
+Peso: 1
+
+No lo puede usar:
+El mago
+El bardo
+El ladrón~
+@168 = ~Armadura de Balduran mejorada~
+@169 = ~Esta armadura de placas era la que usaba el famoso héroe Balduran, y formaba parte del conjunto de armas y armaduras que fueron robados del museo de la ciudad de Puerta de Baldur.
+
+CARACTERÍSTICAS:
+
+Aptitudes poseídas:
+ +4 puntos de golpe
+ Bonificador +1 al Carisma
++10 de Resistencia al fuego
+Clase de Armadura: -1
+Peso: 50
+Requisitos: Fuerza 15
+
+No permitida a:
+ Bardo
+ Druida
+ Mago
+ Ladrón~
+@170 = ~Escudo de Balduran mejorado~
+@171 = ~Escudo mejorado +3 de Balduran
+
+Este escudo era el que usaba el famoso héroe Balduran, y formaba parte del conjunto de armas y armaduras que fueron robados del museo de la ciudad de Puerta de Baldur.
+
+CARACTERÍSTICAS:
+
+Aptitudes poseídas:
+ Devolver los rayos de los contempladores
+ +1 a la Fuerza
+Clase de Armadura: 4
+Peso: 5
+
+Requisitos: Fuerza 12
+No permitido a:
+ Bardo
+ Druida
+ Mago
+ Ladrón~
+@172 = ~Manto de Baldurian mejorado~
+@173 = ~Manto de baldurian: 'Manto de Baldurian'
+Este manto lo llevó el célebre Baldurian, fundador de la Puerta de Baldur. Aunque nunca llegó a utilizarse en combate, otorga la merecida protección propia de un gran líder.
+
+CARACTERÍSTICAS:
+
+Clase de armadura: bonificador +2
+Tiros de protección: bonificador +1
+Resistencia mágica: 25%
+Peso: 3
+~
+@174 = ~Espada lunar~
+@175 = ~Esta potente arma fue creada por los herreros de la antigua Myth Drannor. Las espadas lunares se utilizan durante el largo proceso de elección del gobernante de la isla de Siempreunidos. Una espada lunar elige a su propietario y, en el caso de esta espada, ha elegido al elfo Xan. Sólo Xan puede utilizar esta espada, ya que cualquier otro que intente utilizarla se verá incapaz de levantarla. Esta espada lunar en concreto otorga resistencia al fuego y proporciona un bonificador de su clase de armadura a su dueño.
+
+CARACTERÍSTICAS:
+
+Daño: 1D8+3
+GAC0: +3
+Tipo de daño: cuchillada
+Bonificador de golpe: 3
+Bonificador de daño: 3
+Especial:
++1 a la Clase de Armadura
++50% de resistencia al fuego
+Peso: 4 
+Factor de velocidad: 5
+Talento marcial: Espada pequeña
+Tipo: a 1 mano
+~
+@176 = ~Artículos mágicamente mejorados~
+@177 = ~Pergaminos mágicamente mejorados~
+@178 = ~Miriam Delsol~
+@179 = ~Miriam Delsol~
+@180 = ~¿Sí?.~ [MELISS01]
+@181 = ~Estúpidos cretinos.~ [MIRI02]
+@182 = ~Estúpidos cretinos.~ [MIRI02]
+@183 = ~¡Con veneno o sin él, moriréis rápidamente!.~ [STHFE06]
+@184 = ~¡Ooooh, este no es un buen día!.~ [GNOMEF08]
+@185 = ~¡Debo escapar!.~ [MELISS06]
+@186 = ~Puede que sea vos, ahora.~ [PPDILI01]
+@187 = ~Estos son tiempos difíciles.~ [MIRI01]
+@188 = ~Lealtad al único señor.~ [MIRI03]
+@189 = ~¡El juicio final os aguarda!.~ [MELISS02]
+@190 = ~¡Sufriréis!.~ [MELISS03]
+@191 = ~Esto no tardará.~ [BODHIX04]
+@192 = ~¡Sed honrado de ser mi alimento!.~ [VAMPFX06]
+@193 = ~¡Me daré un banquete con vuestro corazón!.~ [VAMPFX05]
+@194 = ~En estos tiempos sólo los fuertes sobreviven.~ [MIRI04]
+@195 = ~¡Sufrirás!~ [MELISS03]
+@196 = ~~ [MELISS04]
+@197 = ~~ [WOMLC04]
+@198 = ~¡No os saldréis con la vuestra!.~ [GNOMEF05]
+@199 = ~No tengo nada más que decir.~ [MIRI06]
+@200 = ~Estos son tiempos difíciles.~ [MIRI01]
+@201 = ~¿Sí?.~ [GENFG01]
+@202 = ~Viviréis siempre en cuanto lo tolere.~ [BODHIX01]
+@203 = ~¿Sí?.~ [MELISS01]
+@204 = ~Os mataré lentamente por tocarme así.~ [MIRI09]
+@205 = ~Vuestra vida no significa nada para mí.~ [GENFT06]
+@206 = ~Estúpidos cretinos.~ [MIRI02]
+@207 = ~Estúpidos cretinos.~ [MIRI02]
+@208 = ~Os mataré lentamente por tocarme así.~ [MIRI09]
+@209 = ~Estúpidos cretinos.~ [MIRI02]
+@210 = ~Vuestra vida no significa nada para mí.~ [GENFT06]
+@211 = ~Estúpidos cretinos.~ [MIRI02]
+@212 = ~¡No diré nada luego de lo que hicisteis!.~
+@213 = ~Estúpidos cretinos.~ [MIRI02]
+@214 = ~Estos son tiempos difíciles.~ [MIRI01]
+@215 = ~Preparaos, el sueño final viene por vos.~ [BODHIX05]
+@216 = ~Estúpidos cretinos.~ [MIRI02]
+@217 = ~Pensad antes de hacer tonterías.~ [MIRI10]
+@218 = ~Pensad antes de hacer tonterías.~ [MIRI10]
+@219 = ~Un secreto es sólo un secreto si uno mismo lo guarda.~ [MIRI05]
+@220 = ~¡Ahh! ¡Alguien me oculte!.~ [MIRI07]
+@221 = ~Miriam no revela mucho acerca de sí misma o de su historia. Lo que se sabe es que ella es un vampiro que ha existido por unos cientos de años. Proviene de un pueblo de la Costa de la Espada que fue destruido por ella cuando la descubrieron e intentaron matarla. Múltiples personalidades destrozan su mente lo que hace más difícil comprenderla a veces, pero hay verdad en sus palabras si miráis bien. Ella posee un talento único, fuera de su mero aburrimiento ella se os ha unido.~
+@222 = ~Armadura de Cuero Tachonado~
+@223 = ~Armadura de Miriam~
+@224 = ~La armadura de cuero tachonado tiene poco en común con la armadura de cuero normal. Mientras que la armadura de cuero es una coraza endurecida, la de cuero tachonado es suave y flexible con cientos de remaches de metal incrustados. Estos remaches están tan próximos unos de otros que forman una armadura dura de metal que desvía los ataques de cuchilladas. El respaldo de cuero suave es simplemente un medio de sujetar los remaches en su lugar.  
+
+CARACTERÍSTICAS:
+
+Clase de armadura: 7
+Peso: 25
+Requisitos: 6 de fuerza
+
+No lo puede usar:
+ El Mago
+ El Kensái
+ El Monje
+ El Vengador
+ El Cambiaformas~
+@225 = ~Armadura de Miriam
+
+La armadura oscura de Miriam, fue un regalo de su amante Akkari, un vampiro mago. Ha sido creada para ayudar a sobrevivir a los vampiros fuera durante la luz del día, hay muy pocas conocidas que existan. Es ligera y con poderosos encantamientos, fue tejida y fabricada para que la verdadera luz del sol no vaporice la carne vampírica de Miriam. Aunque ella se debilitará bajo su brillo, no obstante.
+
+Como vampiro novato, Miriam tiene las inmunidades comunes de los no-muertos, como encantamientos, muerte mágica y veneno. Es resistente al daño por frío y electricidad. Se regenera un punto de golpe cada dos segundos.~
+@226 = ~Armadura de Miriam
+
+La armadura oscura de Miriam, fue un regalo de su amante Akkari, un vampiro mago. Ha sido creada para ayudar a sobrevivir a los vampiros fuera durante la luz del día, hay muy pocas conocidas que existan. Es ligera y con poderosos encantamientos, fue tejida y fabricada para que la verdadera luz del sol no vaporice la carne vampírica de Miriam. Aunque ella se debilitará bajo su brillo, no obstante.
+
+Como vampiro mayor, Miriam tiene las inmunidades comunes de los no-muertos, como encantamientos, muerte mágica y veneno. No puede ser dañada por armas no-mágicas Es resistente al daño por frío y electricidad. Se regenera un punto de golpe cada dos segundos.~
+@227 = ~Armadura de Miriam
+
+La armadura oscura de Miriam, fue un regalo de su amante Akkari, un vampiro mago. Ha sido creada para ayudar a sobrevivir a los vampiros fuera durante la luz del día, hay muy pocas conocidas que existan. Es ligera y con poderosos encantamientos, fue tejida y fabricada para que la verdadera luz del sol no vaporice la carne vampírica de Miriam. Aunque ella se debilitará bajo su brillo, no obstante.
+
+Como vampiro anciano, Miriam tiene las inmunidades comunes de los no-muertos, como encantamientos, muerte mágica y veneno. No puede ser dañada por armas no-mágicas o armas +1. Es resistente al daño por frío y electricidad. Se regenera un punto de golpe cada dos segundos.~
+@228 = ~Armadura de Miriam
+
+La armadura oscura de Miriam, fue un regalo de su amante Akkari, un vampiro mago. Ha sido creada para ayudar a sobrevivir a los vampiros fuera durante la luz del día, hay muy pocas conocidas que existan. Es ligera y con poderosos encantamientos, fue tejida y fabricada para que la verdadera luz del sol no vaporice la carne vampírica de Miriam. Aunque ella se debilitará bajo su brillo, no obstante.
+
+Como vampiro matriarca, Miriam tiene las inmunidades comunes de los no-muertos, como encantamientos, muerte mágica y veneno. No puede ser dañada por armas no-mágicas o armas +1 o armas +2. Es resistente al daño por frío y electricidad. Se regenera dos punto de golpe cada dos segundos.~
+@229 = ~Garras de Miriam~
+@230 = ~Garras de Miriam
+
+Como las de todos los vampiros, las garras de Miriam son un conducto hacia el plano material negativo. Su toque gélido cuenta como una arma +2, hace 1D6+2 puntos de daño y drena un nivel de su objetivo.~
+@231 = ~Garras de Miriam
+
+Como las de todos los vampiros, las garras de Miriam son un conducto hacia el plano material negativo. Su toque gélido cuenta como una arma +2, hace 1D6+2 puntos de daño y drena 2 niveles de su objetivo.~
+@232 = ~Garras de Miriam
+
+Como las de todos los vampiros, las garras de Miriam son un conducto hacia el plano material negativo. Su toque gélido cuenta como una arma +3, hace 1D6+3 puntos de daño y drena 3 niveles de su objetivo.~
+@233 = ~Garras de Miriam
+
+Como las de todos los vampiros, las garras de Miriam son un conducto hacia el plano material negativo. Su toque gélido cuenta como una arma +4, hace 1D6+4 puntos de daño y drena 4 niveles de su objetivo.~
+@234 = ~Garras de Miriam
+
+Como las de todos los vampiros, las garras de Miriam son un conducto hacia el plano material negativo. Su toque gélido cuenta como una arma +5, hace 1D6+5 puntos de daño y drena 5 niveles de su objetivo.~
+@235 = ~Magníficas Garras de la muerte de Miriam~
+@236 = ~Cegada por la luz solar~
+@237 = ~Vampire Tales (Requiere Throne of Bhaal)~
+@238 = ~Parece ser que no tiene TOB instalado~
+@239 = ~Culto del Ojo Ciego mejorado~
+@240 = ~Pelea Arpista mejorada~
+@241 = ~CoM Store 1~

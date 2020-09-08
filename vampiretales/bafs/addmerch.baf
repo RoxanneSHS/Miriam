@@ -1,0 +1,7 @@
+IF
+	Global("cmgavatar","GLOBAL",0)
+THEN
+	RESPONSE #100
+		CreateCreature("CMGSTOR1",[1533.745],0) // Ratava Sartsym
+		SetGlobal("cmgavatar","GLOBAL",1)
+END

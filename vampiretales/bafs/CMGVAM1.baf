@@ -1,0 +1,162 @@
+IF
+	Allegiance(Myself,ENEMY)
+	Global("CmgKaliHostile","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("CmgKaliHostile","GLOBAL",1)
+END
+
+IF
+	Global("CmgKaliHostile","GLOBAL",1)
+	!Allegiance(Myself,ENEMY)
+THEN
+	RESPONSE #100
+		Enemy()
+END
+
+IF
+	AttackedBy([GOODCUTOFF],DEFAULT)
+	OR(2)
+		!Allegiance(Myself,ENEMY)
+		Global("CmgKaliHostile","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("CmgKaliHostile","GLOBAL",1)
+		Enemy()
+		Continue()
+END
+
+IF
+	Die()
+THEN
+	RESPONSE #100
+		ReallyForceSpellDead(Myself,VAMPIRE_GAS_FORM_CHANGE)
+		Continue()
+END
+
+IF
+	HPLT(Myself,10)
+THEN
+	RESPONSE #100
+		ReallyForceSpellDead(Myself,VAMPIRE_BAT_FORM_CHANGE)
+		Continue()
+END
+
+IF
+	TimeGT(5)
+	TimeLT(DUSK_END)
+	AreaType(OUTDOOR)
+THEN
+	RESPONSE #100
+		ReallyForceSpellDead(Myself,VAMPIRE_BAT_FORM_CHANGE)
+		Continue()
+END
+
+IF
+	See([PC])
+	Delay(12)
+	Allegiance(Myself,ENEMY)
+THEN
+	RESPONSE #100
+		ForceSpell([PC],VAMPIRE_DOMINATION)
+		Continue()
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	HasItem("Blun25",NearestEnemyOf(Myself)) // Mace of Disruption +2
+	!HasItem("Blun25",SecondNearestEnemyOf(Myself)) // Mace of Disruption +2
+	HasItem("Amul21",NearestEnemyOf(Myself)) // Amulet of Power
+	!HasItem("Amul21",SecondNearestEnemyOf(Myself)) // Amulet of Power
+THEN
+	RESPONSE #100
+		MoveToObject(SecondNearestEnemyOf(Myself))
+		AttackReevaluate(SecondNearestEnemyOf(Myself),30)
+END
+
+IF
+	See(SecondNearestEnemyOf(Myself))
+	HasItem("Blun25",SecondNearestEnemyOf(Myself)) // Mace of Disruption +2
+	!HasItem("Blun25",ThirdNearestEnemyOf(Myself)) // Mace of Disruption +2
+	HasItem("Amul21",SecondNearestEnemyOf(Myself)) // Amulet of Power
+	!HasItem("Amul21",ThirdNearestEnemyOf(Myself)) // Amulet of Power
+THEN
+	RESPONSE #100
+		MoveToObject(ThirdNearestEnemyOf(Myself))
+		AttackReevaluate(ThirdNearestEnemyOf(Myself),30)
+END
+
+IF
+	See(ThirdNearestEnemyOf(Myself))
+	HasItem("Blun25",ThirdNearestEnemyOf(Myself)) // Mace of Disruption +2
+	HasItem("Amul21",ThirdNearestEnemyOf(Myself)) // Amulet of Power
+	!HasItem("Blun25",FourthNearestEnemyOf(Myself)) // Mace of Disruption +2
+	!HasItem("Amul21",FourthNearestEnemyOf(Myself)) // Amulet of Power
+THEN
+	RESPONSE #100
+		MoveToObject(FourthNearestEnemyOf(Myself))
+		AttackReevaluate(FourthNearestEnemyOf(Myself),30)
+END
+
+IF
+	See(FourthNearestEnemyOf(Myself))
+	HasItem("Blun25",FourthNearestEnemyOf(Myself)) // Mace of Disruption +2
+	!HasItem("Blun25",FifthNearestEnemyOf(Myself)) // Mace of Disruption +2
+	HasItem("Amul21",FourthNearestEnemyOf(Myself)) // Amulet of Power
+	!HasItem("Amul21",FifthNearestEnemyOf(Myself)) // Amulet of Power
+THEN
+	RESPONSE #100
+		MoveToObject(FifthNearestEnemyOf(Myself))
+		AttackReevaluate(FifthNearestEnemyOf(Myself),30)
+END
+
+IF
+	See(FifthNearestEnemyOf(Myself))
+	HasItem("Blun25",FifthNearestEnemyOf(Myself)) // Mace of Disruption +2
+	!HasItem("Blun25",SixthNearestEnemyOf(Myself)) // Mace of Disruption +2
+	HasItem("Amul21",FifthNearestEnemyOf(Myself)) // Amulet of Power
+	!HasItem("Amul21",SixthNearestEnemyOf(Myself)) // Amulet of Power
+THEN
+	RESPONSE #100
+		MoveToObject(SixthNearestEnemyOf(Myself))
+		AttackReevaluate(SixthNearestEnemyOf(Myself),30)
+END
+
+IF
+	See(SixthNearestEnemyOf(Myself))
+	HasItem("Blun25",SixthNearestEnemyOf(Myself)) // Mace of Disruption +2
+	!HasItem("Blun25",SeventhNearestEnemyOf(Myself)) // Mace of Disruption +2
+	HasItem("Amul21",SixthNearestEnemyOf(Myself)) // Amulet of Power
+	!HasItem("Amul21",SeventhNearestEnemyOf(Myself)) // Amulet of Power
+THEN
+	RESPONSE #100
+		MoveToObject(SeventhNearestEnemyOf(Myself))
+		AttackReevaluate(SeventhNearestEnemyOf(Myself),30)
+END
+
+IF
+	See(SeventhNearestEnemyOf(Myself))
+	HasItem("Blun25",SeventhNearestEnemyOf(Myself)) // Mace of Disruption +2
+	!HasItem("Blun25",EighthNearestEnemyOf(Myself)) // Mace of Disruption +2
+	HasItem("Amul21",SeventhNearestEnemyOf(Myself)) // Amulet of Power
+	!HasItem("Amul21",EighthNearestEnemyOf(Myself)) // Amulet of Power
+THEN
+	RESPONSE #100
+		MoveToObject(EighthNearestEnemyOf(Myself))
+		AttackReevaluate(EighthNearestEnemyOf(Myself),30)
+END
+
+IF
+	SpellCast([ANYONE],CLERIC_NEGATIVE_PLANE_PROTECTION)
+THEN
+	RESPONSE #100
+		MoveToObject(LastHeardBy(Myself))
+		AttackReevaluate(LastHeardBy(Myself),30)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+THEN
+	RESPONSE #100
+		AttackReevaluate(NearestEnemyOf(Myself),30)
+END

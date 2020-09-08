@@ -1,0 +1,221 @@
+IF
+	HPPercentLT(Myself,50)
+	Global("CMG_AvatarHeal","LOCALS",0)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,CLERIC_HEAL)
+		SetGlobal("CMG_AvatarProt","LOCALS",0)
+		SetGlobal("CMG_AvatarHeal","LOCALS",1)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",0)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,WIZARD_STONE_SKIN)
+		ApplySpell(Myself,WIZARD_ABSOLUTE_IMMUNITY)
+		ApplySpell(Myself,WIZARD_PROTECTION_FROM_THE_ELEMENTS)
+		SetGlobal("CMG_AvatarProt","LOCALS",1)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",1)
+	CheckStatGT(NearestEnemyOf(Myself),26,RESISTMAGIC)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,WIZARD_TIME_STOP)
+		ForceSpell(Myself,WIZARD_MORDENKAINENS_SWORD)
+		ForceSpell(Myself,WIZARD_MORDENKAINENS_SWORD)
+		SetGlobal("CMG_AvatarProt","LOCALS",2)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",1)
+	HPLT(LastSeenBy(Myself),60)
+THEN
+	RESPONSE #100
+		ForceSpell(LastSeenBy(Myself),WIZARD_POWER_WORD_KILL)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",1)
+	HPGT(LastSeenBy(Myself),61)
+	CheckStatGT(LastSeenBy(Myself),5,0)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,DEMILICH_DEATH)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",1)
+THEN
+	RESPONSE #100
+		ForceSpell(LastSeenBy(Myself),DEMILICH_TRAP_SOUL)
+		SetGlobal("CMG_AvatarProt","LOCALS",15)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",15)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,WIZARD_MORDENKAINENS_SWORD)
+		SetGlobal("CMG_AvatarProt","LOCALS",16)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",16)
+THEN
+	RESPONSE #100
+		ForceSpell(LastSeenBy(Myself),WIZARD_TIME_STOP)
+		SetGlobal("CMG_AvatarProt","LOCALS",17)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",17)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,WIZARD_MORDENKAINENS_SWORD)
+		SetGlobal("CMG_AvatarProt","LOCALS",18)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",18)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,WIZARD_MORDENKAINENS_SWORD)
+		SetGlobal("CMG_AvatarProt","LOCALS",19)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",19)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,WIZARD_IMPROVED_HASTE)
+		SetGlobal("CMG_AvatarProt","LOCALS",20)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",20)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,WIZARD_PHANTOM_BLADE)
+		SetGlobal("CMG_AvatarProt","LOCALS",21)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",21)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,WIZARD_TENSERS_TRANSFORMATION)
+		SetGlobal("CMG_AvatarProt","LOCALS",22)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",22)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,WIZARD_BLACK_BLADE_OF_DISASTER)
+		SetGlobal("CMG_AvatarProt","LOCALS",23)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",23)
+THEN
+	RESPONSE #100
+		AttackReevaluate(NearestEnemyOf(Myself),30)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",1)
+THEN
+	RESPONSE #100
+		ForceSpell(LastSeenBy(Myself),WIZARD_ABI_DALZIMS_HORRID_WILTING)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",2)
+	CheckStatGT(LastSeenBy(Myself),26,RESISTMAGIC)
+THEN
+	RESPONSE #100
+		ForceSpell(LastSeenBy(Myself),WIZARD_LOWER_RESISTANCE)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",2)
+	CheckStatGT(LastSeenBy(Myself),5,0)
+	!HasBounceEffects(LastSeenBy(Myself))
+THEN
+	RESPONSE #50
+		ForceSpell(Myself,WIZARD_SYMBOL_FEAR)
+	RESPONSE #50
+		ForceSpell(Myself,WIZARD_SPHERE_OF_CHAOS)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",2)
+	CheckStatGT(LastSeenBy(Myself),17,INT)
+	Global("DemiWizd","LOCALS",0)
+	HPLT(LastSeenBy(Myself),70)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,WIZARD_SUMMON_HAKEASHAR)
+		SetGlobal("DemiWizd","LOCALS",1)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",2)
+	HPGT(LastSeenBy(Myself),60)
+	CheckStatLT(LastSeenBy(Myself),26,RESISTMAGIC)
+THEN
+	RESPONSE #100
+		ForceSpell(LastSeenBy(Myself),WIZARD_ABI_DALZIMS_HORRID_WILTING)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",2)
+	CheckStatLT(LastSeenBy(Myself),36,RESISTFIRE)
+	CheckStatLT(LastSeenBy(Myself),26,RESISTMAGIC)
+	HPGT(LastSeenBy(Myself),60)
+THEN
+	RESPONSE #100
+		ForceSpell(LastSeenBy(Myself),WIZARD_DELAYED_BLAST_FIREBALL)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("CMG_AvatarProt","LOCALS",2)
+	HPLT(LastSeenBy(Myself),60)
+THEN
+	RESPONSE #100
+		ForceSpell(LastSeenBy(Myself),WIZARD_POWER_WORD_KILL)
+END
+
+IF
+	StateCheck(LastSeenBy(Myself),STATE_DEAD)
+	OR(2)
+		StateCheck(LastSeenBy(Myself),STATE_HELPLESS)
+		StateCheck(LastSeenBy(Myself),STATE_PANIC)
+THEN
+	RESPONSE #100
+		SetGlobal("CMG_AvatarProt","LOCALS",0)
+END

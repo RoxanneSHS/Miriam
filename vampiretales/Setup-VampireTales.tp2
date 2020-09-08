@@ -1,0 +1,459 @@
+BACKUP ~vampiretales/backup~
+AUTHOR ~"http://www.chosenofmystra.com"~
+
+/*ALWAYS
+  ACTION_DEFINE_ARRAY VampRreload BEGIN setup harper comstore END
+  LAF HANDLE_CHARSETS
+    INT_VAR
+      infer_charsets = 1
+    STR_VAR
+      tra_path = EVAL ~%MOD_FOLDER%~
+      reload_array = VampRreload
+  END
+END*/
+
+AUTO_TRA ~vampiretales/%s~
+
+LANGUAGE ~English~ 
+         ~English~
+         ~vampiretales/english/setup.tra~
+    
+LANGUAGE ~Espanol (Traducido por Lisandro)~
+         ~Spanish~
+         ~vampiretales/Spanish/setup.tra~
+         
+LANGUAGE ~Italian (Translation by ilot)~
+         ~italian~
+         ~vampiretales/italian/setup.tra~
+         
+LANGUAGE ~Russian (Translation by yota13)~
+         ~russian~
+         ~vampiretales/Russian/setup.tra~
+         
+
+
+BEGIN @237
+
+PRINT ~/ ****************************************~
+PRINT ~*Vampire Tales Version 2.0 For BG2:EE/EET*~
+PRINT ~*http://www.chosenofmystra.com   	*~
+PRINT ~*****************************************~
+
+DEFINE_PATCH_MACRO CMG_VAMPIRE_ITEMS BEGIN
+	WRITE_LONG 0x1e 0
+	WRITE_BYTE 0x29 0
+	WRITE_BYTE 0x2b 0
+	WRITE_BYTE 0x2d 0
+	WRITE_BYTE 0x2f 0
+	LPF ADD_ITEM_EQEFFECT INT_VAR opcode=319 target=1 power=1 parameter1=125 parameter2=4 timing=2 special=14272 insert_point=0 END
+END
+
+// Copy images
+
+COPY	~vampiretales/images~ ~override~
+
+// Copy sounds
+
+COPY ~vampiretales/sounds~ ~override~
+
+// Copy creature
+
+COPY ~vampiretales/cre/CMGSTOR1.CRE~   ~override/CMGSTOR1.CRE~
+  SAY NAME1 @400
+  SAY NAME2 @400
+
+COPY ~vampiretales/cre/CMGKALI4.cre~   ~override/CMGKALI4.cre~
+  SAY NAME1 @401
+  SAY NAME2 @401
+
+COPY ~vampiretales/cre/CMGKALI2.cre~   ~override/CMGKALI2.cre~
+  SAY NAME1 @402
+  SAY NAME2 @402
+  
+COPY ~vampiretales/cre/CMGKALI3.cre~   ~override/CMGKALI3.cre~
+  SAY NAME1 @403
+  SAY NAME2 @403
+
+COPY ~vampiretales/cre/CMGMIR25.CRE~ ~Override~
+  SAY NAME1 @178
+  SAY NAME2 @179
+  SAY INITIAL_MEETING @180
+  SAY MORALE  @181
+  SAY HAPPY   @181
+  SAY UNHAPPY_ANNOYED  @183
+  SAY UNHAPPY_SERIOUS  @184
+  SAY UNHAPPY_BREAKING  @185
+  SAY LEADER  @186
+  SAY TIRED  @187
+  SAY BORED  @188
+  SAY BATTLE_CRY1  @189
+  SAY BATTLE_CRY2  @190
+  SAY BATTLE_CRY3  @191
+  SAY BATTLE_CRY4  @192
+  SAY BATTLE_CRY5  @193
+  SAY DAMAGE  @196
+  SAY DYING  @197
+  SAY HURT  @198
+  SAY AREA_DAY  @199
+  SAY AREA_NIGHT  @200
+  SAY SELECT_COMMON1  @201
+  SAY SELECT_COMMON2  @202
+  SAY SELECT_COMMON3  @203
+  SAY SELECT_COMMON4  @204
+  SAY SELECT_COMMON5  @204
+  SAY SELECT_COMMON6  @204
+  SAY SELECT_ACTION1  @210
+  SAY SELECT_ACTION2  @211
+  SAY SELECT_ACTION3  @211
+  SAY SELECT_ACTION4  @208
+  SAY SELECT_ACTION5  @208
+  SAY SELECT_ACTION6  @211
+  SAY SELECT_ACTION7  @206
+  SAY REACT_TO_DIE_GENERAL @205
+  SAY SELECT_RARE1  @207
+  SAY SELECT_RARE2  @214
+  SAY CRITICAL_HIT  @215
+  SAY CRITICAL_MISS  @216
+  SAY TARGET_IMMUNE  @217
+  SAY INVENTORY_FULL  @218
+  SAY SET_A_TRAP  @219
+  SAY HIDDEN_IN_SHADOWS  @220
+  SAY PICKED_POCKET  @219
+  SAY BIO @221
+
+COPY ~vampiretales/cre/CMGMIRI.CRE~ ~Override~
+  SAY NAME1 @178
+  SAY NAME2 @179
+  SAY INITIAL_MEETING @180
+  SAY MORALE  @181
+  SAY HAPPY   @181
+  SAY UNHAPPY_ANNOYED  @183
+  SAY UNHAPPY_SERIOUS  @184
+  SAY UNHAPPY_BREAKING  @185
+  SAY LEADER  @186
+  SAY TIRED  @187
+  SAY BORED  @188
+  SAY BATTLE_CRY1  @189
+  SAY BATTLE_CRY2  @190
+  SAY BATTLE_CRY3  @191
+  SAY BATTLE_CRY4  @192
+  SAY BATTLE_CRY5  @193
+  SAY DAMAGE  @196
+  SAY DYING  @197
+  SAY HURT  @198
+  SAY AREA_DAY  @199
+  SAY AREA_NIGHT  @200
+  SAY SELECT_COMMON1  @201
+  SAY SELECT_COMMON2  @202
+  SAY SELECT_COMMON3  @203
+  SAY SELECT_COMMON4  @204
+  SAY SELECT_COMMON5  @204
+  SAY SELECT_COMMON6  @204
+  SAY SELECT_ACTION1  @210
+  SAY SELECT_ACTION2  @211
+  SAY SELECT_ACTION3  @211
+  SAY SELECT_ACTION4  @208
+  SAY SELECT_ACTION5  @208
+  SAY SELECT_ACTION6  @211
+  SAY SELECT_ACTION7  @206
+  SAY REACT_TO_DIE_GENERAL @205
+  SAY SELECT_RARE1  @207
+  SAY SELECT_RARE2  @214
+  SAY CRITICAL_HIT  @215
+  SAY CRITICAL_MISS  @216
+  SAY TARGET_IMMUNE  @217
+  SAY INVENTORY_FULL  @218
+  SAY SET_A_TRAP  @219
+  SAY HIDDEN_IN_SHADOWS  @220
+  SAY PICKED_POCKET  @219
+  SAY BIO @221
+  
+
+// Copy items
+
+COPY ~vampiretales/Items/MIRIAMA1.ITM~ ~Override~
+  SAY NAME1 @222
+  SAY NAME2 @223
+  SAY UNIDENTIFIED_DESC @224
+  SAY DESC @225
+  LPM CMG_VAMPIRE_ITEMS
+
+COPY ~vampiretales/Items/MIRIAMA2.ITM~ ~Override~
+  SAY NAME1 @222
+  SAY NAME2 @223
+  SAY UNIDENTIFIED_DESC @224
+  SAY DESC @226
+  LPM CMG_VAMPIRE_ITEMS
+
+COPY ~vampiretales/Items/MIRIAMA3.ITM~ ~Override~
+  SAY NAME1 @222
+  SAY NAME2 @223
+  SAY UNIDENTIFIED_DESC @224
+  SAY DESC @227
+  LPM CMG_VAMPIRE_ITEMS
+
+COPY ~vampiretales/Items/MIRIAMA4.ITM~ ~Override~
+  SAY NAME1 @222
+  SAY NAME2 @223
+  SAY UNIDENTIFIED_DESC @224
+  SAY DESC @228
+  LPM CMG_VAMPIRE_ITEMS
+
+COPY ~vampiretales/Items/MIRIAMH1.itm~ ~Override~
+  SAY NAME2 @229
+  SAY DESC @230
+
+COPY ~vampiretales/Items/MIRIAMH2.itm~ ~Override~
+  SAY NAME2 @229
+  SAY DESC @231
+
+COPY ~vampiretales/Items/MIRIAMH3.ITM~ ~Override~
+  SAY NAME2 @229
+  SAY DESC @232
+
+COPY ~vampiretales/Items/MIRIAMH4.itm~ ~Override~
+  SAY NAME2 @229
+  SAY DESC @233
+
+COPY ~vampiretales/Items/MIRIAMH5.itm~ ~Override~
+  SAY NAME2 @229
+  SAY DESC @234
+
+COPY ~vampiretales/Items/MIRIAMH6.itm~ ~Override~
+  SAY NAME2 @229
+  SAY DESC @235
+
+COPY ~vampiretales/items/CMGBOW01.itm~ ~override/CMGBOW01.itm~       
+  SAY NAME1 @100 
+  SAY NAME2 @101 
+  SAY UNIDENTIFIED_DESC @102  
+  SAY DESC @103 
+
+COPY ~vampiretales/items/CMGHAM02.itm~ ~override/CMGHAM02.itm~       
+  SAY NAME1 @104 
+  SAY NAME2 @105 
+  SAY UNIDENTIFIED_DESC @106 
+  SAY DESC @107 
+
+COPY ~vampiretales/items/CMG1AX01.ITM~ ~override/CMG1AX01.ITM~
+  SAY NAME2 @108 
+  SAY DESC @109 
+  WRITE_BYTE 0x21 ( THIS - 64 )
+  LPF ADD_ITEM_EQEFFECT INT_VAR opcode=319 target=1 parameter1=11 parameter2=5 timing=2 special=1080 insert_point=0 END
+
+COPY ~vampiretales/items/CMG1SW02.itm~ ~override/CMG1SW02.itm~       
+  SAY NAME1 @110 
+  SAY NAME2 @111  
+  SAY UNIDENTIFIED_DESC  @112 
+  SAY DESC @113 
+
+COPY ~vampiretales/items/CMGCHA01.itm~ ~override/CMGCHA01.itm~       
+  SAY NAME1 @114 
+  SAY NAME2 @115 
+  SAY UNIDENTIFIED_DESC  @116 
+  SAY DESC @117 
+
+COPY ~vampiretales/items/CMGCL01.itm~  ~override/CMGCL01.itm~        
+  SAY NAME2 @118 
+  SAY DESC @119 
+
+COPY ~vampiretales/items/GCMSTA01.ITM~ ~override/GCMSTA01.ITM~
+  SAY NAME1 @120 
+  SAY NAME2 @121
+  SAY UNIDENTIFIED_DESC @122 
+  SAY DESC @123 
+
+COPY ~vampiretales/items/CMGBEL01.itm~ ~override/CMGBEL01.itm~       
+  SAY NAME2 @124  
+  SAY DESC @125 
+
+COPY ~vampiretales/items/CMGMAX04.itm~ ~override/CMGMAX04.itm~       
+  SAY NAME2 @126 
+  SAY DESC @127 
+
+COPY ~vampiretales/items/CMG2AX04.itm~ ~override/CMG2AX04.itm~     
+  SAY NAME1 @128 
+  SAY NAME2 @129 
+  SAY UNIDENTIFIED_DESC @130
+  SAY DESC @131 
+
+COPY ~vampiretales/items/CMGBOT01.itm~ ~override/CMGBOT01.itm~       
+  SAY NAME1 @132 
+  SAY NAME2 @133 
+ // SAY UNIDENTIFIED_DESC  @134 
+  SAY DESC @135 
+
+COPY ~vampiretales/items/CMGCL04.itm~  ~override/CMGCL04.itm~        
+  SAY NAME2 @136 
+  SAY DESC @137 
+
+COPY ~vampiretales/items/CMGBOW03.ITM~ ~override/CMGBOW03.ITM~       
+  SAY NAME1 @138 
+  SAY NAME2 @139 
+ // SAY UNIDENTIFIED_DESC @140
+  SAY DESC @141 
+
+COPY ~vampiretales/items/CMGCL03.ITM~  ~override/CMGCL03.ITM~        
+  SAY NAME1 @142 
+  SAY NAME2 @143 
+ // SAY UNIDENTIFIED_DESC @144 
+  SAY DESC @145
+
+COPY ~vampiretales/items/CMGBRA02.itm~ ~override/CMGBRA02.itm~       
+  SAY NAME2 @146 
+  SAY DESC @147 
+
+COPY ~vampiretales/items/CMG1SW07.itm~ ~override/CMG1SW07.itm~
+  SAY NAME2 @148 
+  SAY DESC @149 
+
+COPY ~vampiretales/items/CMGDAG02.itm~ ~override/CMGDAG02.itm~       
+  SAY NAME2 @150 
+  SAY DESC @151 
+
+COPY ~vampiretales/items/CMGVAMP.itm~  ~override/CMGVAMP.itm~        
+
+COPY ~vampiretales/items/CMGCLMYS.ITM~ ~override/CMGCLMYS.ITM~       
+
+COPY ~vampiretales/items/CMGWEMYS.ITM~ ~override/CMGWEMYS.ITM~       
+  SAY NAME2 @152
+   
+
+COPY ~vampiretales/items/CMGRIMYS.ITM~ ~override/CMGRIMYS.ITM~       
+
+COPY ~vampiretales/items/CMGFORG2.itm~ ~override/CMGFORG2.itm~       
+  SAY NAME2 @153 
+  SAY DESC @154 
+
+COPY ~vampiretales/items/CMGFORG1.ITM~ ~override/CMGFORG1.ITM~       
+  SAY NAME1 @155 
+  SAY NAME2 @156 
+  SAY DESC @157 
+
+COPY ~vampiretales/items/CMGFORG3.itm~ ~override/CMGFORG3.itm~       
+  SAY NAME2 @158 
+  SAY DESC @159 
+
+COPY ~vampiretales/items/CMGFORG4.ITM~ ~override/CMGFORG4.ITM~       
+  SAY NAME2 @160 
+  SAY DESC @161 
+
+COPY ~vampiretales/items/CMG2AX05.ITM~ ~override/CMG2AX05.ITM~       
+  SAY NAME1 @128 
+  SAY NAME2 @162 
+  SAY UNIDENTIFIED_DESC  @130 
+  SAY DESC @163 
+
+COPY ~vampiretales/items/CMGFORG5.ITM~ ~override/CMGFORG5.ITM~       
+  SAY NAME2 @164 
+  SAY DESC @165
+
+COPY ~vampiretales/items/CMGFORG6.ITM~ ~override/CMGFORG6.ITM~       
+  SAY NAME2 @166 
+  SAY DESC @167
+
+COPY ~vampiretales/items/CMGFORG7.ITM~ ~override/CMGFORG7.ITM~       
+  SAY NAME2 @168 
+  SAY DESC @169
+
+COPY ~vampiretales/items/CMGFORG8.ITM~ ~override/CMGFORG8.ITM~       
+  SAY NAME2 @170 
+  SAY DESC @171
+
+COPY ~vampiretales/items/CMGFORG9.ITM~ ~override/CMGFORG9.ITM~       
+  SAY NAME2 @172 
+  SAY DESC @173
+
+COPY ~vampiretales/items/CMGFOR10.ITM~ ~override/CMGFOR10.ITM~       
+  SAY NAME2 @174 
+  SAY DESC @175
+
+// Other
+
+COPY ~vampiretales/other/miriam.spl~ ~override~
+  SAY NAME1 @236
+  SAY NAME2 @236
+
+COPY ~vampiretales/other/miriamst.spl~ ~override~
+
+
+ COPY_EXISTING ~bmthief.sto~ ~override/bmthief.sto~
+ ADD_STORE_ITEM ~cmgcl04~ #1 #0 #0 ~IDENTIFIED~ #5
+
+// *******************stores***
+
+COPY ~vampiretales/store/cmgstr01.sto~     ~override/cmgstr01.sto~
+  SAY 0xc @176
+
+COPY ~vampiretales/store/cmgstr02.sto~     ~override/cmgstr02.sto~
+  SAY 0xc @177
+
+// ******************scripts***
+
+EXTEND_BOTTOM ~AR0400.bcs~ ~vampiretales/bafs/AR0400.baf~
+
+EXTEND_TOP ~ar1202.bcs~ ~vampiretales/scriptsadd/addenco.baf~
+
+EXTEND_TOP ~ar0902.bcs~ ~vampiretales/scriptsadd/addmerch.baf~
+
+COMPILE ~vampiretales/bafs/CGAVATAR.baf~
+
+COMPILE ~vampiretales/bafs/CMGVAM1.baf~
+
+COMPILE
+   ~vampiretales/bafs/cmgmiri.baf~
+
+COMPILE
+   ~vampiretales/bafs/cmgmi25.baf~
+   
+COMPILE
+   ~vampiretales/bafs/cmdrvamp.baf~
+
+
+// Dialogs
+
+
+COMPILE ~vampiretales/dlg~
+
+// Beginning of .2DA patching
+
+APPEND ~pdialog.2da~
+~CMGMIRIAM     CMGMIRIP            CMGMIRIJ           CMGMIRD        CMGMI25P           CMGMI25J              CMGMI25D              CMGMI25~
+UNLESS ~CMGMIRIAM~
+//IF     ~25POST~
+
+
+APPEND ~interdia.2da~
+~CMGMIRIAM    BCMGMIRI       BCMGMI25~
+UNLESS ~CMGMIRIAM~
+
+APPEND ~racetext.2da~
+~VAMPIRE  125        85097      -1         54779         -1~
+UNLESS ~VAMPIRE~
+
+
+// End of .2DA patching
+
+/* TRANSITION */
+ACTION_IF ( GAME_IS ~eet~ ) BEGIN
+	INCLUDE ~EET/other/EET_functions.tph~
+	LAF ~EET_NPC_TRANSITION~
+		INT_VAR
+			type = 2
+			default_ToB = 1
+		STR_VAR
+			dv = "CMGMIRIAM"
+			override_SoA = "CMGMIRI"
+			override_ToB = "CMGMI25"
+			dialog_ToB = "CMGMI25"
+			cre_ToB = "CMGMIR25"
+			traFile = EVAL "%MOD_FOLDER%\%LANGUAGE%\CMGMI25.tra"
+			string = "@0"
+			stringPosDV = "MINSC"
+	END
+END
+
+
+
+
+

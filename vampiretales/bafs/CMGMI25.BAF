@@ -1,0 +1,188 @@
+IF
+	OR(3)
+		Die()
+		CheckStatLT(Myself,1,INT)
+		CheckStatLT(Myself,1,STR)
+THEN
+	RESPONSE #100
+		LeaveParty()
+		CreateVisualEffectObject("SPROTECT",Myself)
+		ApplySpellRES("SPWI055",Myself) // Disintegrate
+END
+
+
+IF
+	HPPercentLT(Myself,50)
+	CheckStatLT(Myself,100,RESISTSLASHING)
+	!StateCheck(Myself,STATE_INVISIBLE)
+	!StateCheck(Myself,STATE_IMPROVEDINVISIBILITY)
+	XPLT(Myself,1000000)
+	OR(3)
+		Difficulty(EASIEST)
+		Difficulty(EASY)
+		Difficulty(NORMAL)
+THEN
+	RESPONSE #100
+		ReallyForceSpellRES("MIRIAMST",Myself) // Gaseous Form
+		MakeUnselectable(62)
+END
+
+IF
+	HPPercentLT(Myself,50)
+	CheckStatLT(Myself,100,RESISTSLASHING)
+	!StateCheck(Myself,STATE_INVISIBLE)
+	!StateCheck(Myself,STATE_IMPROVEDINVISIBILITY)
+	XPGT(Myself,999999)
+	XPLT(Myself,2000000)
+	OR(3)
+		Difficulty(EASIEST)
+		Difficulty(EASY)
+		Difficulty(NORMAL)
+THEN
+	RESPONSE #100
+		ReallyForceSpellRES("MIRIAMST",Myself) // Gaseous Form
+		MakeUnselectable(56)
+END
+
+IF
+	HPPercentLT(Myself,50)
+	CheckStatLT(Myself,100,RESISTSLASHING)
+	!StateCheck(Myself,STATE_INVISIBLE)
+	!StateCheck(Myself,STATE_IMPROVEDINVISIBILITY)
+	XPGT(Myself,1999999)
+	XPLT(Myself,3000000)
+	OR(3)
+		Difficulty(EASIEST)
+		Difficulty(EASY)
+		Difficulty(NORMAL)
+THEN
+	RESPONSE #100
+		ReallyForceSpellRES("MIRIAMST",Myself) // Gaseous Form
+		MakeUnselectable(50)
+END
+
+IF
+	HPPercentLT(Myself,50)
+	CheckStatLT(Myself,100,RESISTSLASHING)
+	!StateCheck(Myself,STATE_INVISIBLE)
+	!StateCheck(Myself,STATE_IMPROVEDINVISIBILITY)
+	XPGT(Myself,2999999)
+	XPLT(Myself,4000000)
+	OR(3)
+		Difficulty(EASIEST)
+		Difficulty(EASY)
+		Difficulty(NORMAL)
+THEN
+	RESPONSE #100
+		ReallyForceSpellRES("MIRIAMST",Myself) // Gaseous Form
+		MakeUnselectable(44)
+END
+
+IF
+	HPPercentLT(Myself,50)
+	CheckStatLT(Myself,100,RESISTSLASHING)
+	!StateCheck(Myself,STATE_INVISIBLE)
+	!StateCheck(Myself,STATE_IMPROVEDINVISIBILITY)
+	XPGT(Myself,3999999)
+	OR(3)
+		Difficulty(EASIEST)
+		Difficulty(EASY)
+		Difficulty(NORMAL)
+THEN
+	RESPONSE #100
+		ReallyForceSpellRES("MIRIAMST",Myself) // Gaseous Form
+		MakeUnselectable(40)
+END
+
+IF
+	!GlobalTimerNotExpired("MirSunLight","LOCALS")
+	AreaType(OUTDOOR)
+	AreaType(DAYNIGHT)
+	!TimeOfDay(NIGHT)
+THEN
+	RESPONSE #100
+		ReallyForceSpellRES("MIRIAM",Myself) // Blighted by the MirSunLight
+		SetGlobalTimer("MirSunLight","LOCALS",60)
+END
+
+IF
+	See([PC])
+	InParty(Myself)
+	AreaCheck("AR5004")
+	Global("CMgEnteredAR5004","GLOBAL",0)
+THEN
+	RESPONSE #100
+                Wait(2)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	See([PC])
+	InParty(Myself)
+	Dead("finsol02")
+	CombatCounter(0)
+	Global("MiriamYanCBinDies","GLOBAL",0)
+THEN
+	RESPONSE #100
+                Wait(2)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Global("MiriamYanCBinDies","GLOBAL",1)
+THEN
+	RESPONSE #100
+		DestroyItem("miriamh5") // Miriam's Claws
+		DestroyItem("miriamh4") // Miriam's Claws
+		DestroyItem("miriamh3") // Miriam's Claws
+		DestroyItem("miriamh2") // Miriam's Claws
+		DestroyItem("miriamh1") // Miriam's Claws
+		CreateItem("miriamh6",1,1,1) // Miriam's Claws
+END
+
+IF
+	Delay(3)
+	OR(19)
+		HasItem("blun12",Myself) // Mace of Disruption +1
+		HasItem("blun25",Myself) // Mace of Disruption +2
+		HasItem("hamm10",Myself) // Runehammer +4
+		HasItem("hamm11",Myself) // Runehammer +5
+		HasItem("ax1h10",Myself) // Azuredge
+		HasItem("sw1h31",Myself) // Daystar
+		HasItem("sw1h64",Myself) // Purifier +4
+		HasItem("sw1h65",Myself) // Purifier +5
+		HasItem("npsw03",Myself) // Hallowed Redeemer
+		HasItem("sw2h10",Myself) // Carsomyr +5
+		HasItem("sw2h19",Myself) // Carsomyr +6
+		HasItem("miscau",Myself) // Elven Holy Water
+		HasItem("brac23",Myself) // Blessed Bracers
+		HasItem("c2keld01",Myself)
+		HasItem("c2keld02",Myself)
+		HasItem("c2mazz01",Myself)
+		HasItem("c2sw1h01",Myself)
+		HasItem("c2ax1h01",Myself)
+		HasItem("c2shld01",Myself)
+THEN
+	RESPONSE #100
+		ApplyDamagePercent(Myself,50,STUNNING)
+		DisplayString(Myself,42935) // Oooh, that burns.
+		GiveItem("blun12",Player1) // Mace of Disruption +1
+		GiveItem("blun25",Player1) // Mace of Disruption +2
+		GiveItem("hamm10",Player1) // Runehammer +4
+		GiveItem("hamm11",Player1) // Runehammer +5
+		GiveItem("ax1h10",Player1) // Azuredge
+		GiveItem("sw1h31",Player1) // Daystar
+		GiveItem("sw1h64",Player1) // Purifier +4
+		GiveItem("sw1h65",Player1) // Purifier +5
+		GiveItem("npsw03",Player1) // Hallowed Redeemer
+		GiveItem("sw2h10",Player1) // Carsomyr +5
+		GiveItem("sw2h19",Player1) // Carsomyr +6
+		GiveItem("miscau",Player1) // Elven Holy Water
+		GiveItem("brac23",Player1) // Blessed Bracers
+		GiveItem("c2keld01",Player1)
+		GiveItem("c2keld02",Player1)
+		GiveItem("c2mazz01",Player1)
+		GiveItem("c2sw1h01",Player1)
+		GiveItem("c2ax1h01",Player1)
+		GiveItem("c2shld01",Player1)
+END

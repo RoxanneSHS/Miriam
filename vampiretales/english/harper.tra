@@ -1,0 +1,38 @@
+@2000 = ~Ring of Fate~
+@2001 = ~The Ring of Fate is immune to the passage of time. With that being said, this ring makes the wearer immune to Time Stop spells. 
+
+STATISTICS:
+
+Immune to Time Stop
+-20 hit points
+-2 to dexterity~ 
+    
+@2002 = ~Pole Axe~ 
+@2003 = ~Pole Axe +4 "Flame Strike"~ 
+@2004 = ~The most common version of the pole axe is a stout pole about six feet in length with a single-edged, trumpet-shaped blade mounted on one end.  
+
+STATISTICS:
+
+Damage: 1D10
+Damage type: slashing
+Weight: 7
+Speed Factor: 7
+Proficiency Type: Axe
+Type: 1-handed
+Requires: 10 Strength~
+@2005 = ~A Flame Strike axe is a rare find indeed since very few were made. Rumor has it they were created by a survivor of a lost city of Nethril.
+
+STATISTICS:
+
++10 to fire resistance
+Chance to level drain on contact
+
+THAC0: +4 bonus
+Damage: 1D10 +4
+1D4 Fire Damage
+Damage type: piercing
+Weight: 12
+Speed Factor: 9
+Proficiency Type: Halberd
+Type: 2-handed
+Requires: 13 Strength~ 

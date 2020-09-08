@@ -1,0 +1,30 @@
+@0 = ~<CHARNAME>, ¿habéis oído la historia acerca del escorpión y la rana?.~ 
+@1 = ~No, no he oído la historia.~
+@2 = ~La he oído, pero ha sido hace rato. Refrescad mi memoria.~ 
+@3 = ~Un día un escorpión estaba caminando a lo largo de la orilla del río intentando encontrar un modo de cruzar el río que le separaba de su deseado lugar.
+Cuando intentaba cruzarlo una rana se sentó al lado de la orilla del río.
+El escorpión se dirigió a la rana y le preguntó si le ayudaría a cruzarlo.~
+@4 = ~La rana rápidamente respondió, "No, no os daré un paseo." El escorpión le preguntó por qué. La rana le respondió, "Porque Sr. Escorpión si yo os diera un paseo en mis espadas me picaríais y yo me ahogaría." Rápidamente el escorpión respondió, "Pero Sra. Rana, si os picase entonces os ahogaríais y si vos os ahogáis entonces yo me ahogaría también."
+La rana pensó por un momento y entonces dijo, "Creo que tenéis razón, entonces os daré un paseo." El escorpión saltó sobre la espalda de la rana y comenzaron a cruzar el río. En el medio del camino, de pronto la rana sintió un dolor en su espalda, el escorpión le había picado.~ 
+@5 = ~La rana inmediatamente comenzó a entrar en pánico y sentía el veneno correr a prisa a través de sus venas y rápidamente comenzó a paralizarse. Justo antes de tomar su último aliento y morir, la rana miró al escorpión y le preguntó, "¿Por qué hicisteis esto?. ¡Me prometisteis no picarme! ¡Ahora ambos nos ahogaremos!" El escorpión respondió, "Lo lamento, no lo podía evitar - Es mi naturaleza."~
+@6 = ~Una historia interesante, pero ¿qué es lo que me estáis tratando de decir Miriam?.~
+@7 = ~¿Hay alguna razón para que me estéis diciendo esto Miriam?.~ 
+@8 = ~¿La razón? Sí, razón hay. Recordad las palabras que dijo, porque ellas os pueden salvar de la muerte. Una advertencia, cuidado en el futuro, prestad atención a esta advertencia. Os salvará y puede que lleve paz al final a un cierto enemigo. Sí, paz final. Diremos esto y no diremos nada más.~
+@9 = ~¿Por una vez podríais hablar claramente y no ser tan críptica? Decidme que significa.~ 
+@10 = ~Necesitáis posponer los condimentos, Miriam. Ahora, ¿Qué es todo esto?.~
+@11 = ~(Miriam os mira enigmáticamente y no dice nada más. Se aleja de vos, vislumbráis un poco de tristeza brevemente en su rostro.)~
+@12 = ~El momento, el momento es ahora diosecillo. Vuestra sangre <CHARNAME>, nos está llamando. Cuando probamos vuestra sangre la primera vez, pudimos sentir el poder. Poder...~ 
+@13 = ~¿De qué estáis hablando? Nunca bebisteis mi sangre.~
+@14 = ~¿De qué estáis hablando Miriam? Ahora no es el momento de hacer tonterías.~ 
+@15 = ~La hemos probado, sí. Cuando dormíais, probamos vuestra vida dándoos fuerza. Su poder, poder que debemos tener.~
+@16 = ~No entiendo lo que estáis balbuceando, pero no vais a tener mi sangre.~
+@17 = ~¿Recordáis cuando nos permitisteis probar vuestra sangre?.~
+@18 = ~Sí, ¿qué con ello?.~ 
+@19 = ~Luego de probar vuestra sangre sentimos su poder divino. Somos inmortal y poderosos, ¡lo que podríamos mejorar teniendo el poder de un dios fluyendo en nosotros! ¡Seríamos dioses! ¡Y queremos serlo ahora!.~
+@20 = ~Luego de todo lo que hemos hecho, ¿Esto es como me lo agradecéis, por traición?.~ 
+@21 = ~Os recibí luego de las objeciones de los otros miembros, sufrimos mucho en nuestros viajes y ¿esto es cómo deseáis que acabe?.~ 
+@22 = ~Una revelación nos separará de vos. Este fue nuestro plan desde el comienzo. Probamos la sangre del más débil engendro de Bhaal antes que nos uniéramos a vos. Su poder se hizo uno con nosotros. Os encontramos y nos unimos a vos. Os encontramos que sois el más fuerte. Esperamos hasta que os volvierais el más fuerte de todos ellos. Y ahora...~
+@23 = ~(El rostro de Miriam se crispa brevemente y se detiene.) Traté de advertiros diciéndoos la historia acerca del escorpión. No fui siempre así. Tenía amor por algunos, una familia, una vida normal antes de que "él" llegara y lo destruyera todo. Perdonadme por esto, sólo deseo que termine. Estoy cansada, ya tengo bastante de esta existencia. Pero ellos son fuertes, ellos siempre han sido más fuertes...~ 
+@24 = ~Luchad con ellos Miriam, reclamad vuestra identidad.~
+@25 = ~¡Vos asquerosa traidora, terminaré con vos!.~
+@26 = ~(Los rasgos faciales de Miriam se endurecen) Esto es quienes SOMOS, esta es NUESTRA naturaleza. ¡La oscuridad caerá sobre vos <CHARNAME>! Os convertiréis en uno con nosotros. ¡Adheriremos vuestra divinidad a nosotros! ¡Resistirse es inútil!.~

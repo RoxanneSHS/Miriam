@@ -1,0 +1,9 @@
+IF
+	Global("cmgvamp","GLOBAL",0)
+THEN
+	RESPONSE #100
+		CreateCreature("cmgkali2",[2799.1591],0) // Lilith
+		CreateCreature("cmgkali3",[2741.1477],14) // Blood Raven
+		CreateCreature("cmgkali4",[2880.1580],6) // Marial Delsol
+		SetGlobal("cmgvamp","GLOBAL",1)
+END

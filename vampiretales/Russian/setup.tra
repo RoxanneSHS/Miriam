@@ -1,0 +1,551 @@
+
+@400 = ~Ratava Sartsym~ 
+ 
+@401 = ~Marial Delsol~ 
+
+@402 = ~Lilith~ 
+  
+@403 = ~Blood Raven~ 
+
+@100 = ~Long Bow~ 
+@101 = ~The Black Bow~ 
+@102 = ~The long bow is similar to the short bow, except that the staff is about as high as the archer is, usually 6 to 6.5 feet. It has two advantages over the short bow: better range and hence, it is much more accurate.
+
+STATISTICS:
+
+Damage:  
+THAC0: +1
+Weight: 3
+Speed Factor: 7
+Proficiency Type: Long Bow
+Type: 2-handed
+Minimum Strength of 12 required~
+@103 = ~A rough bow with a dusty appearance, the Black Bow was created as an instrument of vengeance by a Cormyrean settler in the Western Heartlands of Faerun. A former soldier named Jonan of Suzail, after years of campaigning in the name of the crown, finally returned home to marry his childhood sweetheart. Through all of his years in the military, he remained true to his love and saved his earnings. He and his new wife moved west in the hopes that they would find frontier land to settle. In the lands north of Baldur's Gate and east of the Trollbark Forest, Jonan built his home and farm.  Within five years, there were raiders in the area, and farms were being destroyed all around Jonan's. Eventually, the raiders targeted Jonan's home, killing his wife and child and leaving him for dead. His farm was burned to the ground. Weeks later, Jonan crafted this bow and rubbed the ashes of his farm and family into the grain of the wood. He later went on a murderous rampage, slaying each of the bandits where he found them, and later killing anyone they associated with.  Sages debate how the bow became enchanted, but most believe that, after Jonan's death, it was blessed by a god. Some say it was blessed by Tyr, some say by Hoar, and others say by Bhaal. Theories tend to revolve around whether the speaker believes Jonan's actions were just, vengeful, or murderous.
+
+STATISTICS:
+
+Damage: +3
+THACO: +4
+Weight: 3
+Speed Factor: 4
+Proficiency Type: Long Bow
+Type: 2-handed
+Minimum Strength of 12 required~
+
+@104 = ~War Hammer~ 
+@105 = ~Blood of the Gloomfrost~ 
+@106 = ~Mounted knights cannot effectively use long pole weapons while on horseback, and as a result, many weapons have been fitted with shorter shafts so they may be wielded with just one hand. Maces and flails are two previous examples of this - the war hammer is another. The horseman's war hammer is the descendent of the Lucerne hammer. It is made entirely of steel, with rondels protecting and strengthening the grip. Rondels are small disks of metal, often shaped into decorative designs. The shaft is about 18 inches long.
+
+STATISTICS:
+
+Damage: 1D4 +1
+Damage Type: Crushing
+Weight: 6
+Speed Factor: 4
+Proficiency Type: Hammers
+Type: 1-handed~
+@107 = ~This weapon was forged by a blind dwarf named Tiernon who lived in the arctic wastes to the north of the Spine of the world. Although Tiernon was a skilled craftsman and artisan, he required the aid of a group of adventurers to create this weapon, as some of their power went into the weapon during it's casting. The weapon itself is made from the ice of the Gloomfrost Glacier, but it is only slightly cold to the touch and does not melt, even when exposed to the hottest flames.
+
+STATISTICS:
+
+Damage: 1D4 +5
+THAC0: +4
+Damage Type: Crushing
+Special: +10% Fire Resistance, +10% Cold Resistance, Storm Shield 1/Day, 5% chance of healing 2-12 points of damage
+Weight: 3
+Speed Factor: 1
+Proficiency Type: Hammer
+Type: 1-handed~
+
+@108 = ~Battle Axe +3 "Hellfire"~
+@109 = ~Magical battle axes are normally crafted by dwarves to help defend their warriors against their harsher neighbors. This magical axe has seen many battles but its enchantments and craftsmanship make it a very capable weapon still. This one happens to do extra damage that being fire.
+
+STATISTICS:
+
+THAC0: +3 bonus
+Damage: 1D8 +3
++2D4 Fire Damage
+Damage type: slashing
+Weight: 5
+Speed Factor: 5
+Proficiency Type: Axe
+Type: 1-handed
+Requires: 10 Strength~
+
+@110 = ~Short Sword~ 
+@111 = ~Short Sword +4 "Inferno"~ 
+@112 = ~The short sword is the first type of sword to come into existence. In the simplest of terms, a short sword can be considered a dagger with a blade so long that it can no longer be called a dagger. The term short sword does not exist in sword classifications. However, it has come to be used to describe a double-edged blade about two feet in length. The sword tip is usually pointed, ideal for thrusting.  
+
+STATISTICS:
+
+Damage: 1D6
+Damage type: piercing
+Weight: 3
+Speed Factor: 3
+Proficiency Type: Short Sword
+Type: 1-handed
+Requires: 5 Strength~
+@113 = ~The short sword is the first type of sword to come into existence. In the simplest of terms, a short sword can be considered a dagger with a blade so long that it can no longer be called a dagger.  The term short sword does not exist in sword classifications. However, it has come to be used to describe a double-edged blade about two feet in length. The sword tip is usually pointed, ideal for thrusting. 
+
+STATISTICS:
+
+Damage: 1D6 +4, +1 Fire
+THAC0: +3
+Damage type: piercing
+Weight: 3
+Speed Factor: 1
+Proficiency Type: Short Sword
+Type: 1-handed
+Requires: 5 Strength~
+
+@114 = ~Strange Armor~ 
+@115 = ~Black Dragon Scale~ 
+@116 = ~This armor has an unusual texture and appearance. From a distance, it appears to be common leather. Close inspection reveals that it is, in fact, made of thin, very flexible black scales.
+~ 
+@117 = ~This armor was crafted by the dwarven smiths and priests of Clan Battlehammer when one of their own, Bruenhal, led a band of heroes in the defeat of a black dragon far to the south. Some dwarves turn up their noses at the thought of wearing armor made from the remains of a dragon, but Bruenhal proudly wore the armor until the end of his days.
+
+STATISTICS:
+
+Armor Class: 4
+Resistance Bonus: 
+  +25% Acid Resistance
+  +2 Save vs. Spells
+Weight: 10~
+
+@118 = ~Robe of the High Templar~
+@119 = ~This powerful Mage Robe offers protection from all forms of physical attack while at the same time increasing one's magical resistance and saving throws. Due to the nature of its enchantment, it can only be worn by mages of good and neutral alignments.
+
+STATISTICS:
+
+Armor Class: +2 Bonus
+Magic Resistance: 25%
+Saving Throw: +3 bonus
+Weight: 6~
+
+@120 = ~Quarterstaff~ 
+@121 = ~Staff of Nature~
+@122 = ~The simplest and humblest of staff weapons, the quarterstaff is a length of wood ranging six to nine feet in length. High quality quarterstaves are made of stout oak and are shod with metal at both ends. The quarterstaff must be wielded with both hands.  
+
+STATISTICS:
+
+Damage: 1D6
+Damage type: crushing
+Weight: 4
+Speed Factor: 4
+Proficiency Type: Staff
+Type: 2-handed
+Requires: 5 Strength~
+@123 = ~The simplest and humblest of staff weapons, the quarterstaff is a length of wood ranging six to nine feet in length. High quality quarterstaves are made of stout oak and are shod with metal at both ends. The quarterstaff must be wielded with both hands.  
+
+STATISTICS:
+
+Damage: 1D6 +3, +2 Cold, +2 Fire
+THACO Bonus: +3
+Special: 1 Bonus spell for levels 1-5
+Damage type: crushing
+Weight: 2
+Speed Factor: 3
+Proficiency Type: Staff
+Type: 2-handed
+Requires: 6 Strength~
+
+@124 = ~Girdle of Protection~
+@125 = ~This belt will protect the wearer from damage done in their adventuring life.  
+
+STATISTICS
+
++1 to AC
+Cast Blade Barrier three times per day~
+
+@126 = ~Battleaxe +3 "The Stunner"~ 
+@127 = ~This ax was made by the mad dwarf Magnuson Thorhammer. In his creation to craft the perfect ax he forgot one crucial item and the result is the user suffers -2 to their constitution since they feel sickly.  
+
+STATISTICS: 
+
+Special:
+ +2 Dexterity
+-2 Constitution
+Combat Abilities: 
+Gain one extra attack per round 
+20% chance of stunning opponent for 20 seconds 
+
+Thac0: +3 
+Damage: 1D8 +3 
+Weight: 10 
+Speed Factor: 1 
+Proficiency Type: Axe 
+Type: 1-Handed 
+Requirements: 10 strength~
+
+@128 = ~Pole Axe~ 
+@129 = ~Pole  Axe +2~ 
+@130 = ~The most common version of the pole axe is a stout pole about six feet in length with a single-edged, trumpet-shaped blade mounted on one end.  
+
+STATISTICS:
+
+Damage: 1D8
+Damage type: slashing
+Weight: 7
+Speed Factor: 7
+Proficiency Type: Axe
+Type: 1-handed
+Requires: 10 Strength~
+@131 = ~The most common version of the pole axe is a stout pole about six feet in length with a single-edged, trumpet-shaped blade mounted on one end.  
+  
+
+STATISTICS:
+
+Damage: 1D10 +2
+THACO: +2 bonus
+Damage type: piercing
+Weight: 12
+Speed Factor: 7
+Proficiency Type: Halberd
+Type: 2-handed
+Requires: 13 Strength~
+
+@132 = ~Boots~ 
+@133 = ~Boots of Stealth~ 
+@134 = ~Boots are normally hand-made by cobblers. Common boots are made by using a form, but good boots are designed for the foot of an individual. 
+
+STATISTICS:
+
+Weight: 4~
+@135 = ~Boot of Stealth is a must have item for theives and rangers who need stealth bonuses. 
+
+STATISTICS:
+
+Hide in Shadows Bonus: +30%
+Weight: 4~
+
+@136 = ~Cloak of the Ballister~ 
+@137 = ~Ballister was a halfling thief who was very profitable in his trade. One day he picked the wrong pocket and was never heard or seen again.
+
+STATISTICS
+
+Special Abilities: 
+20% Find Traps
+20% Pick Pockets~ 
+
+@138 = ~Bow~ 
+@139 = ~Bow of Immolation~ 
+@140 = ~Short bows were the first to be developed, although they were not called such. This is more of a default term that refers to anything which is not a long bow. Short bow staves are about 5' feet long on the average. As the years passed, attempts were made to increase bow ranges. Bows were either given longer staves or flexibility was increased with no change to the length.  The former resulted in what is now called the long bow. 
+STATISTICS: 
+Damage: 1d6 
+Weight: 2 
+Speed Factor: 6 
+Proficiency 
+Type: Bow 
+Weapons Type: 2-handed~
+@141 = ~Bow of Immolation will not only fire normal arrows but also fireballs at an enemy. 
+
+STATISTICS:
+
+THAC0: +2
+Damage: +2
+Weight: 2
+Speed Factor: 4
+Proficiency Type: Bow Weapons
+Type: 2-handed~
+
+@142 = ~Robe~ 
+@143 = ~Monk's Robe of Shadows~ 
+@144 =  ~Since the age of Netheril, mages have learned to bestow a wide variety of magical properties upon the everyday objects that surround them. A favorite item of such enchantment is the common robe. It is lightweight, affordable, and holds its enchantment well, thereby making it ideal equipment for a mage. Due to their magical heritage, however, only single-, dual-, and multi-class mages may wear these enchanted robes.~
+@145 = ~Ungh Chi was a noble monk of the Order of the Valiant. They were a noble order that was dedicated in fighting evil dragons across the realms. Master Chi was after a red dragon when in Amn and was never heard from again.
+
+STATISTICS:
+
+Fire Resistance: +20% bonus
+Stealth: +20% bonus
+Thac0 +1
+Weight: 1~
+
+@146 = ~Gabrielle's Gauntlets~
+@147 = ~Gabrielle was a mighty fighter/mage in the kings army. One day she and group of the royal guard were ambushed by a band of 1000 orcs. Unlike some popular cheesy hero's she did not survive. 
+
+STATISTICS
+
+THAC0: +3 Bonus
++1 to Strength
+Special: Gain one extra attack per round 
+Weight: 1~
+
+@148 = ~Kali's Bane~ 
+@149 = ~Kali's Bane belonged to the ancient goddess, Kali the goddess of war and death. In war she would go berserk at the sight of blood, always wanting more to feed her undying hunger. She suffered the fate of other gods of that long ago era and faded from history.
+
+STATISTICS:
+
+Combat Abilities: Each successful hit casts Larloch's Minor Drain on the target (no save) and level drain
+
+-2 to wisdom
+-2 to intelligence
+
+THACO: +3 bonus
+Damage: 2D4 +3
+Damage type: slashing
+Weight:  5
+Speed Factor: 3
+Proficiency Type: Bastard Sword
+Type: 1-handed
+Requires: 11 Strength~
+
+@150 = ~Dagger of Sacrifice~ 
+@151 = ~Dagger of Sacrifice "Kali's Curse".
+
+The words "Death" and "Blood" are engraved on the blade.
+
+Damage: 1D4 +4
+THACO: +4 bonus
+Effect: 20% Chance of Level Drain
+5% chance of death. You or your enemy?
+Damage type: piercing
+Weight: 1
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: 1-handed
+Requires: 3 Strength~
+
+
+@152 = ~Death Touch~ 
+
+@153 = ~Daystar (Enhanced)~ 
+@154 = ~Sunblade: Daystar
+Whether created specifically for use in the service of Torm or appropriated at some point in the long history of the church, Paladins of the Loyal Fury have made good use of Daystar in their battles against evil undead. Through magic or blessing it is empowered with the Sunray, a force of pure life energy so potent that it slays both living and unliving.
+
+STATISTICS:
+Special Abilities (once per day):
+Sunray
+ Damage: 3D6 (save vs. spells or be blinded for 10 rounds)
+ Undead: an additional 1d6 points of damage per level of caster (save vs. spells or be destroyed)
+ Range: 20 ft
+ Area: 20 ft radius
+
+New Ability
+User is immune to level drain when equipped.
+
+THACO: +3 bonus, +4 vs. evil creatures
+Damage: 1D8 +3, +4 vs. evil creatures, does double damage against undead
+Damage type: slashing
+Weight: 2
+Speed Factor: 3
+Proficiency Type: Long sword
+Type: 1-handed
+Requires: 6 Strength~
+
+@155 = ~Heart of the Damned~ 
+@156 = ~Lilith's Heart~ 
+@157 = ~This is the heart that used to beat in the evil body of Lilith. It may have a use if you talk to the right magical shop keeper. Some say a heart of a vampire combined with a weapon will make it more powerful. ~
+
+@158 = ~Robe of the Good Archmagi (Enhanced)~ 
+@159 = ~This powerful Mage Robe offers protection from all forms of physical attack while at the same time increasing one's magical resistance and saving throws. Due to the nature of its enchantment, it can only be worn by mages of good alignment.
+
+STATISTICS:
+
+Armor Class: 3
+Magic Resistance: 15%
+Saving Throw: +1 bonus
+Weight: 6~
+
+@160 = ~Metaspell Influence Amulet (Enhanced)~ 
+@161 = ~Amulet of Metaspell Influence: 'The Amplifier'
+Known for its ability to enhance spellcasting, the Amulet of Metaspell Influence is highly sought after by magic practitioners. It was created by Elairdrin Mellwith who resided in the Star Mountains.  His reasons for fabricating such an item stemmed from his womanizing habits, and to this extent the Amplifier served his purpose well. It was later taken from him by a mage with a more destructive intent, but records detailing the change of hands vary widely. 
+
+STATISTICS:
+
+Special: Memorize two extra first, second and third level spells.~
+
+@162 = ~Pole  Axe +2~ 
+@163 = ~The most common version of the pole axe is a stout pole about six feet in length with a single-edged, trumpet-shaped blade mounted on one end.  
+  
+
+STATISTICS:
+
+Damage: 1D10 +2
+THACO: +2 bonus
+Damage type: piercing
+Weight: 12
+Speed Factor: 7
+Proficiency Type: Halberd
+Type: 2-handed
+Requires: 13 Strength~
+
+@164 = ~Improved Sword of Balduran~
+@165 = ~Sword of Balduran
+The Sword of Balduran was the favored weapon of the famous adventurer who founded the city of Baldur's Gate. It is part of a set of weapons and armor that was stolen from the museum in the city of Baldur's Gate.
+
+STATISTICS:
+
+Equipped Abilities:
++10% to lore
++10% Magic Resistance
++1 to AC
+Damage: 1D8 +2
+THACO: +2 bonus
+Damage type: slashing
+Weight: 3
+Speed Factor: 3
+Proficiency Type: Long Sword
+Type: 1-handed
+Requires: 5 Strength~
+
+@166 = ~Improved Helm of Balduran~
+@167 = ~The fabled helm of Balduran, legendary founder of Baldur's Gate, has long been rumored to wield powerful protective magic. The exact nature of this magic, however, has not yet been determined.
+
+STATISTICS:
+
+Armor Class Bonus: 1
+Hit Point Max: +10
+Saving Throws: +1 bonus
+THACO: +1 bonus
+Special: Protects Against Critical Hits
+Weight: 1~
+
+@168 = ~Improved Plate of Balduran~
+@169 = ~Plate of Balduran
+This plate was worn by the famous hero Balduran. It is part of a set of weapons and armor that was stolen from the museum in the city of Baldur's Gate.
+
+STATISTICS:
+
+Equipped Abilities:
+ +4 hit points
+ +1 Charisma bonus
+ +10 to fire resistance
+Armor Class: -1
+Weight: 50
+Requires: 15 Strength~
+
+@170 = ~Improved Shield of Balduran~
+@171 = ~Improved Shield of Balduran +3
+This shield was worn by the hero Balduran. It is part of a set of weapons and armor that was stolen from the museum in the city of Baldur's Gate.
+
+STATISTICS:
+
+Equipped Abilities:
+ Reflects beholder rays
+ +1 to Strength
+Armor Class Bonus: 4
+Weight: 5
+Requires: 12 Strength~
+
+@172 = ~Improved Cloak of Balduran~
+@173 = ~Cloak of Balduran: 'Cloak of Balduran'
+This cloak was reputedly worn by Balduran, the founder of Baldur's Gate. Though it was never used in combat, it provides protection worthy of any great leader.  
+
+STATISTICS:
+
+Armor Class: +2 bonus
+Saving Throws: +1 bonus
+Magic Resistance: 25%
+Weight: 3
+Not usable by:~
+
+@174 = ~Moonblade~
+@175 = ~This potent weapon was created by the smiths of ancient Myth Drannor. Moonblades are used in the long process of selecting a ruler for the isle of Evermeet. A Moonblade chooses its owner, and in the case of this sword it has chosen the elf, Xan. Only Xan can use this blade, anyone else who tries will find themselves unable to lift the sword. This particular Moonblade gives resistance to fire and gives its user a bonus to his armor class.
+
+STATISTICS:
+
+Damage: 1D8 +3
+THAC0: +3
+Damage type: slashing
+Bonus to hit: 3
+Bonus to damage: 3
+Special:
+ +1 bonus to Armor Class
+ +50% Fire Resistance
+Weight: 4
+Speed Factor: 5
+Proficiency Type: Small Sword
+Type: 1-handed~
+
+@176 = ~Magically Enhanced Goods~
+@177 = ~Magically Enhanced Scrolls~
+
+@178 = ~Miriam Delsol~
+@179 = ~Miriam Delsol~
+@180 = ~ Yes?~ [MELISS01]
+@181 = ~Stupid cretins.~ [MIRI02]
+@182 = ~Stupid cretins.~ [MIRI02]
+@183 = ~ Poison or no, you'll be dead quick enough!~ [STHFE06]
+@184 = ~ Ooooh, this is not a good day!~ [GNOMEF08]
+@185 = ~ I must escape!~ [MELISS06]
+@186 = ~ Maybe I be you, now.~ [PPDILI01]
+@187 = ~These are troubled times.~ [MIRI01]
+@188 = ~Loyality to one's lord.~ [MIRI03]
+@189 = ~ Doom awaits thee!~ [MELISS02]
+@190 = ~ You shall suffer!~ [MELISS03]
+@191 = ~ This shall not take long.~ [BODHIX04]
+@192 = ~ Be honored, for you shall feed me!~ [VAMPFX06]
+@193 = ~ I shall feast on your heart!~ [VAMPFX05]
+@194 = ~In these times only the strong survive.~ [MIRI04]
+@195 = ~ You shall suffer!~ [MELISS03]
+@196 = ~~ [MELISS04]
+@197 = ~~ [WOMLC04]
+@198 = ~ You won't get away with it!~ [GNOMEF05]
+@199 = ~I have nothing else to say.~ [MIRI06]
+@200 = ~These are troubled times.~ [MIRI01]
+@201 =  ~Yeah?~ [GENFG01]
+@202 = ~ You live so long as I tolerate it.~ [BODHIX01]
+@203 = ~ Yes?~ [MELISS01]
+@204 = ~I'll kill you slow for touching me like that.~ [MIRI09]
+@205 = ~Your life means nothing to me.~ [GENFT06]
+@206 = ~Stupid cretins.~ [MIRI02]
+@207 = ~Stupid cretins.~ [MIRI02]
+@208 = ~I'll kill you slow for touching me like that.~ [MIRI09]
+@209 = ~Stupid cretins.~ [MIRI02]
+@210 = ~Your life means nothing to me.~ [GENFT06]
+@211 = ~Stupid cretins.~ [MIRI02]
+@212 = ~I'll not speak a word after what you did!~
+@213 = ~Stupid cretins.~ [MIRI02]
+@214 = ~These are troubled times.~ [MIRI01]
+@215 = ~ Prepare, for the final sleep comes for you.~ [BODHIX05]
+@216 = ~Stupid cretins.~ [MIRI02]
+@217 = ~Think before you act fool.~ [MIRI10]
+@218 = ~Think before you act fool.~ [MIRI10]
+@219 = ~A secret is only a secret if kept to one's self.~ [MIRI05]
+@220 = ~Ahh! Somebody hide me!~ [MIRI07]
+@221 =  ~Miriam does not reveal much about herself or her history. What is known is that she's a vampire that has existed for a few hundred years. She has come from a village along the Sword Coast which was destroyed by her when they found out what she was and tried to kill her. Multiple personalities ravage her mind which makes it hard to understand her at times, but there is truth in her words if you look hard enough, she does possess a unique insight into things. Out of sheer boredom she has joined you.~
+@222 =  ~Studded Leather~
+@223 =  ~Miriam's Armor~
+@224 = ~Studded leather armor has little in common with normal leather armor. Instead of a hardened shell, studded leather offers hundreds of metal rivets affixed to a supple backing.  The numerous studs form a flexible coat of metal that helps to turn aside slashing and cutting attacks, while the leather is little more than a means of securing the rivets in place.
+
+STATISTICS:
+
+Armor Class: 7
+Weight: 25
+Requires: 6 Strength~
+@225 =  ~Miriam's Armor
+Miriam's shadowy armor was a gift from her lover Akkari, a vampire mage. It was created to help vampires survive outside during the day time, there are very few known to exist. It is light and flowing, with powerful enchantments woven into the fabric to prevent the true light of the sun from vaporizing Miriam's vampiric flesh. She is still weakened under its glare, however.
+
+As a fledgling vampire, Miriam has the standard undead immunities to hold, charm, death magic and poison. She is resistant to cold and electrical damage. She regenerates one hit point every two seconds.~
+
+@226 =  ~Miriam's Armor
+Miriam's shadowy armor was a gift from her lover Akkari, a vampire mage. It was created to help vampires survive outside during the day time, there are very few known to exist. It is light and flowing, with powerful enchantments woven into the fabric to prevent the true light of the sun from vaporizing Miriam's vampiric flesh. She is still weakened under its glare, however.
+
+As a mature vampire, Miriam has the standard undead immunities to hold, charm, death magic and poison. She cannot be harmed by non-magical weapons. She is resistant to cold and electrical damage. She regenerates one hit point every two seconds.~
+
+@227 =  ~Miriam's Armor
+Miriam's shadowy armor was a gift from her lover Akkari, a vampire mage. It was created to help vampires survive outside during the day time, there are very few known to exist. It is light and flowing, with powerful enchantments woven into the fabric to prevent the true light of the sun from vaporizing Miriam's vampiric flesh. She is still weakened under its glare, however.
+
+As a elder vampire, Miriam has the standard undead immunities to hold, charm, death magic and poison. She cannot be harmed by non-magical or +1 weapons. She is resistant to cold and electrical damage. She regenerates one hit point every two seconds.~
+
+@228 =  ~Miriam's Armor
+Miriam's shadowy armor was a gift from her lover Akkari, a vampire mage. It was created to help vampires survive outside during the day time, there are very few known to exist. It is light and flowing, with powerful enchantments woven into the fabric to prevent the true light of the sun from vaporizing Miriam's vampiric flesh. She is still weakened under its glare, however.
+
+As a vampire matriarch, Miriam has the standard undead immunities to hold, charm, death magic and poison. She cannot be harmed by non-magical, +1 or +2 weapons. She is resistant to cold and electrical damage. She regenerates two hit points every second.~
+
+@229 = ~Miriam's Claws~
+@230 = ~Miriam's Claws
+Like those of all vampires, Miriam's claws are a conduit to the negative material plane. Her icy touch counts as a +2 weapon, deals 1d6+2 points of damage and drains one level from her target.~
+@231 = ~Miriam's Claws
+Like those of all vampires, Miriam's claws are a conduit to the negative material plane. Her icy touch counts as a +2 weapon, deals 1d6+2 points of damage and drains 2 levels from her target.~
+@232 = ~Miriam's Claws
+Like those of all vampires, Miriam's claws are a conduit to the negative material plane. Her icy touch counts as a +3 weapon, deals 1d6+3 points of damage and drains 3 levels from her target.~
+@233 = ~Miriam's Claws
+Like those of all vampires, Miriam's claws are a conduit to the negative material plane. Her icy touch counts as a +4 weapon, deals 1d6+4 points of damage and drains 4 levels from her target.~
+@234 = ~Miriam's Claws
+Like those of all vampires, Miriam's claws are a conduit to the negative material plane. Her icy touch counts as a +5 weapon, deals 1d6+5 points of damage and drains 5 levels from her target.~
+@235 = ~Miriam's Super Duper claws of death.~
+
+@236 = ~Blinded by sunlight.~
+@237 = ~Vampire Tales 2.0 (rework for EET compatibility)~
+@238 = ~You do not appear to have TOB installed.~

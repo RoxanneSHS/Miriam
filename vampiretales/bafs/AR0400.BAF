@@ -1,0 +1,11 @@
+IF
+	OR(2)
+		TimeGT(DUSK_START)
+		TimeLT(DAWN_START)
+	Global("CreateCMGMiriam","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("CreateCMGMiriam","GLOBAL",1)
+                CreateCreature("CMGMIRI",[1853.2453],6)
+
+END

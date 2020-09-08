@@ -1,0 +1,48 @@
+@2000 = ~Anello del Destino~
+@2001 = ~L’Anello del Destino é immune al passaggio del tempo. Questo anello rende il possessore immune agli incantesimi del Fermare il Tempo. 
+
+STATISTICHE:
+
+Immune al Fermare il Tempo
+-20 ai punti ferita
+-2 alla Destrezza~ 
+    
+@2002 = ~Ascia Polare~ 
+@2003 = ~Ascia Polare +4 "Colpo Ardente"~ 
+@2004 = ~La versione più comune dell’ascia polare consiste in un robusto palo di circa 120 centimetri di lunghezza con una lama singola, a forma di tromba, montata da una parte.  
+
+STATISTICHE:
+
+Danno: 1D10
+Tipo di danno: tagliente
+Peso: 7
+Fattore velocità: 7
+Tipo di competenza: Ascia
+Tipo: ad una mano
+Richiede: 10 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago 
+ Ladro~
+@2005 = ~Le asce Colpo Ardente sono molto rare da trovare poiché ne sono state create poche. Si dice che furono create da un sopravvissuto della città perduta di Nethril.
+
+STATISTICHE:
+
++10 di resistenza al fuoco
+Possibilità di risucchio di livello al contatto
+
+THAC0: +4 di bonus
+Danno: 1D10 +4
+1D4 di danno da Fuoco
+Tipo di danno: perforante
+Peso: 12
+Fattore velocità: 9
+Tipo di competenza: Alabarde
+Tipo: a due mani
+Richiede: 13 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago
+ Ladro~ 

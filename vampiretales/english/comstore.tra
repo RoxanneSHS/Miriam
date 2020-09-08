@@ -1,0 +1,195 @@
+@1 = ~Symbol of Corellon Larethian~
+
+@2 = ~This magical symbol of the elven god, Corellon Larethian was given to many of the warriors in the Hand of the Seldarine. This symbol is a reminder of the epic battle Corellon fought against Gruumsh One-Eye.  Anyone wearing this will find special focus while battling orcs.
+
+STATISTICS:
+
+THAC0: +2~
+
+@3 = ~Clasp of Bron's Cloak~
+
+@4 = ~This small talisman was the clasp of a cloak owned by the notoriously tough warrior known as Bron Balhon. On at least ten different instances during Bron's life, he was reported as dead after getting himself involved in some horrible situation.  Some enemies shot him full of crossbow bolts and pushed him into the ocean with lead weights only to be killed by him a month later in a tavern four hundred miles away.  On another occasion, Bron's cowardly companions abandoned him when they were attacked by dire wolves in the wilderness.  Two weeks later, Bron swaggered into their camp wearing wolfskins.  Whether all of the tales surrounding Bron are true or not, it is known that Bron is believed to have met his end in the Spine of the World mountains, fighting polar worms.
+
+STATISTICS:
+
+Gives the wearer 5% resistance to Piercing, Slashing, and Missile Attacks.
+Not Usable By:~
+
+@5 = ~Confusion Arrows +3~
+
+@6 = ~Besides its superb craftsmanship, tiny runes of power can be seen etched all along the surface. It's obvious a lot of time and effort went into its creation and although not apparent at first, a slight blue glow can be seen emanating from the runes.
+
+STATISTICS:
+
+Damage: 1D6 +3 
+THAC0: +3
+Damage type: Missile (piercing)
+Special: 10% chance target becomes Confused
+Weight: 0
+Launcher: Bow~
+
+@7 = ~Arrows of Freezing Death +3~
+
+@8 = ~The arrow of ice is magically enhanced so as to burst into a rolling ball of ice and cold when fired. When the arrow strikes its victim, a shock of cold will travel through its body, both burning and numbing to the very core.
+
+STATISTICS:
+
+Damage: 1D6 +3
+Damage type: missile (piercing)
+Special: 1D2 cold damage (no save)
+15% chance of target being frozen to death
+Weight: 0
+Launcher: Bow~
+
+@9 = ~The Celebrant's Blade~
+
+@10 = ~This beautiful axe was carefully made by Briath Silverhand, a master craftsman and devoted worshipper of Moradin.  Briath created the weapon to celebrate the completion of a glorious monument to his god, the father of the dwarven race.  He placed it in the monument should a hero need it to liberate Dorn's Deep at some future date.
+
+STATISTICS:
+
+Damage: 1D8 +4
+THAC0: +4
+Damage Type: Slashing
+Weight: 5
+Speed Factor: 3
+Proficiency Type: Axe
+Type: 1-handed~
+
+@11 = ~Lonesome Road~
+
+@12 = ~This was the weapon of a cursed soul, doomed to wander the length and breadth of Faerun for his crimes against the elves of Myth Drannor.  Denell Harband was a human involved with the creation of the "Halfaxe Trail."  Under the orders of his commander, Halvan the Dark, he forged ahead through elven forests despite protests and repeated attacks.  When he was finally captured by the elves, he stated emphatically that he was free of guilt because he was just following his orders.  The elven council deemed that Denell be placed under a High Geas to carry his axe from the Sword Coast of Faerun to its borders in the east, and from the Great Glacier to Lurien.  It took Denell thirty years to complete his task.  When he finished, he was an accomplished warrior, weathered and beaten by years on foreign roads.  On his way back to his home, he passed by Harrowdale and saw a wooden statue of Halvan the Dark raised proudly in a small town square.  With a single-handed blow, he lodged his huge axe into Halvan's forehead.  Never breaking stride, he returned to his hut where he lived out the rest of his days as a reclusive farmer.
+
+STATISTICS:
+
+Damage: 1D10 +3
+THAC0: +3
+Special: +1 to Constitution while equipped
+Damage type: Slashing
+Weight: 10
+Speed Factor: 6
+Proficiency Type: Axe
+Type: 2-handed~
+
+@13 = ~Fire's Edge~
+
+@14 = ~Fire's Edge was a creation of a derro dwarf in the Underdark. He had a thing with fire and all his weapons were crafted to do fire damage. He met his fate, as rumours go, in the frozen Dalelands of the North.
+
+STATISTICS:
+
+Combat Ability: 2d4 fire damage 
+Damage: 3D6 +3
+THAC0 +3
+Damage type (melee): slashing
+Damage type (thrown): missile (piercing)
+Special: Returns to user's hand once thrown
+Weight: 2
+Speed Factor: 1
+Proficiency Type: Axe
+Type: 1-handed
+Requires: 4 Strength~
+
+@15 = ~Elven Chainmail of the Hand +3~
+
+@16 = ~During the Golden Age between the Elves of the Seldarine's Hand and the Dwarves of Dorn Deep, special version of the illustrious elven chainmail were made that added protection against the harsh weather conditions of the north.
+
+STATISTICS:
+
+Armor Class: 2
+Resistance Bonus: +20% Cold Resistance
+Weight: 15~
+
+@17 = ~Halberd +3, Auril's Bane~
+
+@18 = ~Auril's Bane is the weapon of choice of the guards of Auril's Temples. They are most likely found in the Northlands of the cold.
+
+STATISTICS:
+
+THAC0: +3 bonus
+Damage: 1D10 +3, +1D3 cold damage
+10% chance a successful hit will freeze the target.
+Damage type: piercing
+Weight: 12
+Speed Factor: 4
+Proficiency Type: Halberd
+Type: 2-handed
+Requires: 13 Strength~
+
+@19 = ~Hammer of the Storm Lord +3~
+
+@20 = ~The "Hammer of Storms" is another name that it is known by. Gilgleam, High Priest of Talos, loved lightining so much that he "captured" and enchanted it into his war hammer. So mighty that he thought himself to be, he went out and picked a fight with a 1,000 orcs and lost.
+
+STATISTICS:
+
+Bonus:
+15% lighting resistance
+Thac0: +3 bonus
+Damage: 2D4 +3 +2D4 electrical damage
+Damage type: crushing
+Weight: 4
+Speed Factor: 1
+Proficiency Type: Warhammer
+Type: 1-handed
+Requires: 18 Strength~
+
+@21 = ~Bathed-In-Blood~
+
+@22 = ~Kheros the Red wore this blood-red suit of plate mail through many of the years that he fought for the church of Tempus.  He was born as the son of humble farmers near Calaunt.  When he was a young man, he set off for the city to hire himself out as a mercenary.  After a number of successful endeavors, Kheros became a short-term member of many adventuring companies.  Along the way, despite his many victories, Kheros became disgusted and terrified by the sight of blood.
+
+His fear eventually spiraled out of control, consuming him with madness. Priests of Tempus found the huge warrior and took him into safe-keeping.  The priests believed that they could cure Kheros of his fear.  Over several years, Kheros learned the ways of the Tempuran religion, eventually becoming a priest.  His final step in overcoming his fear was being submerged in a tub of blood until he almost drowned.  All the time he was held down, he never struggled, flinched or tried to escape.  In his later years, he had a suit of armor made to remind him of his past.
+
+STATISTICS:
+
+Armor Class: -1
+Weight: 55~
+
+@23 = ~Kontik's Ring of Wizardry~
+
+@24 = ~Kontik, a powerful wizard in the service of Auril, claimed this ring from a defeated enemy wizard, Nill the Infernal. An archmage who specialized in fire magic, Nill created the ring over a period of five years. The powerful item aided Nill in his far-ranging travels. Unfortunately for Nill, it did not protect him from Kontik's powerful minions and spells. It is constructed of an extremely unusual grayish-white metal called tungsten.
+
+STATISTICS:
+
+Doubles the amount of 1st level spells a mage can memorize
+Doubles the amount of 2nd level spells a mage can memorize
+All cold damage inflicted by the character is increased by 15%~
+
+@25 = ~The Snow Maiden's Reaver~
+
+@26 = ~The only material parts of this icy weapon are the hilt, grip, and pommel, wrought from shining silver and steel. It was created in 1099 DR by the chosen of Auril, Ihanora the Merciful. Ihanora roamed the north, leading ruthless attacks against all those who attempted to find solace from the cold or fight its effects. She traveled with a motley crew of yetis, polar worms, frost giants, and a white dragon, freezing everything in her wake. Ihanora was defeated in 1108 DR by the notorious Red Mask Brigade, headed by the ruthless killer known as Bitter Harley.
+
+STATISTICS:
+
+Damage: 2D4 +2
+THAC0: +2
+Special: 2% chance of turning the target to solid ice
+Damage Type: Cold
+Weight: 10
+Speed Factor:  6
+Proficiency Type: Great Sword
+Type: 1-handed~
+
+@27 = ~The Argent Shield~
+
+@28 = ~This silver shield once resided in the Hand of the Seldarine, where it was used to protect its bearer from harmful magic and attacks.  Because of its racial attunement, the marauding orcs and goblins left it in the tower.  Maiden Ilmadia grabbed it from the ruins.
+
+STATISTICS:
+
+Armor Class Bonus: 3
+Resistance Bonus: +25% Magic Resistance
+Weight: 5
+Only Usable By:
+Elves
+Half-Elves~
+
+@29 = ~Large Cold Shield +4~
+
+@30 = ~A mighty shield that came from "The Frozen North" this shield will protect those from the freezing cold.
+
+STATISTICS:
+Gives a 20% cold resistence
+Armor Class Bonus: 3
+Special: +1 vs. Missile Weapons
+Weight: 4
+Requires: 10 Strength~
+
+@31 = ~Asgrim the Insane~
+@32 = ~Asgrim's Goods~

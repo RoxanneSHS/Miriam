@@ -1,0 +1,44 @@
+@2000 = ~Anillo del Destino~ 
+@2001 = ~El Anillo del Destino es inmune al paso del tiempo. Este anillo hace que el portador sea inmune a los hechizos de parar el tiempo.
+
+CARACTERÍSTICAS:
+
+Inmune a los hechizos de Parar el Tiempo
+-20 Puntos de golpe
+-2 A la destreza~
+@2002 = ~Hacha Polar~ 
+@2003 = ~Hacha Polar +4 "Golpe Ardiente"~
+@2004 = ~La versión más común del hacha de polar es un palo fuerte de unos 120 cm. con una cuchilla de un filo en forma de cuña en uno de sus extremos.
+CARACTERÍSTICAS:
+
+Daño: 1D10
+Tipo de daño: cuchillada
+Peso: 7
+Factor de velocidad: 7
+Talento marcial: Hacha
+
+No lo puede usar:
+El druida
+El clérigo
+El mago
+El ladrón~ 
+@2005 = ~El Hacha "Golpe Ardiente" es rara de encontrar y pocas han sido hechas. Se rumorea que han sido creadas por un sobreviviente de la ciudad perdida de Nethril-
+
+CARACTERÍSTICAS
++10 de resistencia al fuego
+Posibilidad de drenar un nivel al contacto
+
+GAC0: +4
+Daño: 1D10+4
+1D4 de daño por fuego
+Tipo de daño: cortante
+Peso: 12
+Factor de velocidad: 9
+Talento marcial: Alabarda
+Tipo: a dos manos
+
+No utilizable por:
+ Druida
+ Clérigo
+ Mago
+ Ladrón~

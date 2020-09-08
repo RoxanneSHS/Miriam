@@ -1,0 +1,237 @@
+@1 = ~Símbolo de Corelon Larezhian~ 
+@2 = ~Este símbolo mágico del dios élfico, Corelon Larezhian, fue dado a muchos de los guerreros en mano de los Seldarine. Este símbolo es un recordatorio de la batalla épica que Corelon luchó contra Gruumsh el Tuerto. Cualquier persona usando éste, se encontrará prestando especial atención contra los orcos.
+
+CARACTERÍSTICAS:
+
+GAC0: +2~
+@3 = ~Broche de Capa de Bron~ 
+@4 = ~Este talismán pequeño fue el broche de una capa de propiedad del guerrero conocido por su dureza como Bron Balhon. Por lo menos diez casos durante la vida de Bron, fue reportado como muerto después de ser envuelto en una situación horrible. Algunos enemigos le acribillaron a virotes de ballesta y lo empujaron al mar con pesas de plomo, sólo para ser asesinado por él un mes más tarde en una taberna a cuatrocientas millas de distancia. En otra ocasión, los cobardes compañeros de Bron lo abandonaron cuando fueron atacados por los horribles lobos en el desierto. Dos semanas más tarde, Bron contoneándose en su campamento apareció usando pieles de lobo. Todos los cuentos que rodean a Bron susurran de ser verdaderas o no. Se sabe que Bron que encontró su final en la columna vertebral de las montañas del mundo, en lucha contra gusanos polares.
+
+CARACTERÍSTICAS:
+
+Da al usuario 5% de resistencia a la perforación, cuchilladas, y ataques con misiles.
+~
+@5 = ~Flechas de la Confusión +3~ 
+@6 = ~Además de su magnífica artesanía, pequeñas runas de poder pueden verse grabadas a lo largo de la superficie. Es obvio que una gran cantidad de tiempo y esfuerzo se hizo en su creación y, aunque no se desprende en primer lugar, un resplandor azul ligero se puede ver que emana de las runas.
+
+CARACTERÍSTICAS:
+
+Daño: 1D6 3 +3
+GAC0: 3
+Tipo de daño: Misiles (perforación)
+Especial: 10% de probabilidad de que el objetivo quede confundido
+Peso: 0
+Lanzador: Arco
+
+No utilizable por:
+Clérigo
+Druida
+Mago~
+@7 = ~Flechas de muerte helada +3~
+@8 = ~La flecha de hielo es por arte de magia con la capacidad de estallar en una bola de hielo y frío cuando se dispare. Cuando la flecha golpea a su víctima, un choque de frío, viajará a través de su cuerpo, con tanto ardor y entumecimiento hacia su misma esencia.
+
+CARACTERÍSTICAS:
+
+Daño: 1D6+3
+Tipo de daño: los misiles (Perforante)
+Especial: 1D2 de daño por frío (Sin tirada de salvación)
+15% de posibilidades de que el objetivo sea congelado hasta morir
+Peso: 0
+Lanzador: Arco
+
+No utilizable por:
+Clérigo
+Druida
+Mago~ 
+@9 = ~Hoja del celebrante~
+@10 = ~Esta hermosa hacha fue cuidadosamente hecha por Briath Silverhand, un maestro artesano y devoto fiel de Moradin. Briath creó el arma para celebrar la finalización de un glorioso monumento a su dios, el padre de la raza de los enanos. La colocó en el monumento para que cuando un héroe la necesite libere a Dorn en una fecha futura.
+
+CARACTERÍSTICAS:
+
+Daño: 1D8+4
+GAC0: +4
+Tipo de daño: cortante
+Peso: 5
+Factor de Velocidad: 3
+Tipo de competencia: Hacha
+Tipo: una mano
+
+No utilizable por:
+Druida
+Clérigo
+Mago
+Ladrón~ 
+@11 = ~Camino de Lonesome~
+@12 = ~Este fue el arma de un alma maldita, condenada a vagar a lo largo y ancho de Faerûn por sus crímenes contra los elfos de Myth Drannor. Denell Harband era un ser humano involucrado en la creación de la "Mediahacha del Sendero". Bajo las órdenes de su comandante, Halvan el Oscuro, avanzaron a través de los bosques de los elfos a pesar de las protestas y los ataques repetidos. Cuando finalmente fue capturado por los elfos, declaró enfáticamente que él era libre de culpa porque se limitaba a cumplir sus órdenes. El consejo élfico consideró que Denell sea incluido en un Alto Geas para llevar el hacha desde la Costa de la Espada de Faerûn a sus fronteras en el este, y desde el gran glaciar de Lurien. Le tomó a Denell treinta años completar su tarea. Cuando terminó, fue un guerrero consumado, degradado y golpeado por años en las carreteras de extranjeros. En su camino de regreso a su casa, pasó por Harrowdale y vio una estatua de madera de Halvan el Oscuro, planteadas con orgullo en una plaza pequeña. Con un sólo golpe de mano, presentó su enorme hacha en la frente Halvan. Nunca paso de última hora, regresó a su choza donde vivió el resto de sus días como granjero solitario.
+
+CARACTERÍSTICAS:
+
+Daño: 1D10+3
+GAC0: 3
+Especial: +1 a la Constitución
+Tipo de daño: cortante
+Peso: 10
+Factor de velocidad: 6
+Talento marcial: Hacha
+Tipo: a dos manos
+
+No utilizable por:
+Druida
+Clérigo
+Mago
+Ladrón~
+@13 = ~Filo de Fuego~ 
+@14 = ~Filo de Fuego fue una creación de un enano derro en la Infraoscuridad. Tenía una cosa con el fuego y todas sus armas fueron hechas a mano para hacer daño por fuego. Conoció su destino, mientras los rumores iban en las Tierras Heladas del Valle del Norte.
+
+CARACTERÍSTICAS:
+
+Habilidad de Combate: 2D4 daño por fuego
+Daño: 3D6+3
+GAC0: +3
+Daños de tipo (de cuerpo a cuerpo): cuchillada
+Tipo de daño (lanzamiento): misiles (perforante)
+Especial: Vuelve a la mano del usuario, una vez lanzado
+Peso: 2
+Factor de velocidad: 1
+Talento marcial: Hacha
+Tipo: una mano
+
+No utilizable por:
+Los personajes buenos
+Druida
+Clérigo
+Mago
+Ladrón~
+@15 = ~Cota de Mallas Élficas de la Mano +3~ 
+@16 = ~Durante la Edad de Oro entre los Elfos de la mano de Seldarine y los enanos de Dorn Profundo, hicieron la versión especial de la cota de malla élfica que tiene protección adicional contra las duras condiciones climáticas del norte.
+
+CARACTERÍSTICAS:
+
+Clase de Armadura: 2
+ +20% Resistencia frío
+
+Peso: 15
+
+No utilizable por:
+Druida
+Mago~
+@17 = ~Alabarda +3 "La Ruina de Auril"~
+@18 = ~La Ruina de Auril es el arma elegida por los guardianes del templo de Auril. Es más probable encontrarles en las tierras del norte del frío.
+
+CARACTERÍSTICAS:
+
+GAC0: +3 
+Daño: 1D10 +3, +1D3 de daño por frío
+10% posibilidad de congelar al objetivo
+Tipo de daño: Perforante
+Peso: 12
+Factor de velocidad: 4
+Talento marcial: Alabarda
+Tipo: a dos manos
+
+No lo puede usar:
+Druida
+Clérigo
+Mago
+Ladrón~
+@19 = ~Martillo del Señor de la Tormenta +3~ 
+@20 = ~El "Martillo de las Tormentas" es otro nombre por el que es conocido. Gilgleam, Sumo Sacerdote de Talos, fue encantado tanto por su resplandor que fue "capturado" en su martillo de guerra. Tan poderoso que él creía ser, salió y tomó una pelea con un 1.000 orcos y perdió.
+
+CARACTERÍSTICAS:
+
+Especial:
+15% la resistencia de iluminación
+GAC0:+ 3 de bonificación
+2D4 +3 +2D4 daños eléctricos
+Tipo de daño: aplastamiento
+Peso: 4
+Factor de velocidad: 1
+Talento marcial: Martillo de guerra
+Tipo: una mano
+
+Requiere: 18 de fuerza
+
+No utilizable por:
+Druida
+Mago
+Ladrón~
+@21 = ~Bañado en Sangre~ 
+@22 = ~Kheros el Rojo vistió esta armadura rojo-sangre por muchos de los años que luchó para la iglesia de Tempus. Nació como hijo de campesinos humildes, cerca de Calaunt. Cuando él era un hombre joven, partió para la ciudad para ser contratado como un mercenario. Después de una serie de esfuerzos exitosos, Kheros se convirtió en un miembro de corto plazo de muchas aventuras. En el camino, a pesar de sus muchas victorias, Kheros se disgustó y aterrorizó por la visión de la sangre.
+
+Su temor a la larga fue un espiral fuera de control, consumiéndole con la locura. Los sacerdotes de Tempus encontraron al gran guerrero y lo tomaron en custodia. Los sacerdotes creían que podían curar a Kheros de su miedo. Durante varios años, Kheros aprendió las formas de la religión Tempurana, llegando a ser un sacerdote. Su último paso en la superación de su miedo era ser sumergido en una tina de sangre hasta casi ahogarse. Todo el tiempo se le mantuvo abajo, nunca tuvo problemas, no se estremeció, o trató de escapar. En sus últimos años, tenía una armadura hecha para recordarle su pasado.
+
+CARACTERÍSTICAS:
+
+Clase de Armadura: -1
+Peso: 55
+
+No utilizable por:
+Druida
+Mago
+Ladrón
+Bardo~ 
+@23 = ~Anillo de Hechicería de Kontik~
+@24 = ~Kontik, un mago poderoso al servicio de Auril, reclamó este anillo de un mago enemigo derrotado, Nill el Infernal. Un archimago que se especializó en la magia del fuego, Nill creó el anillo en un período de cinco años. El poderoso anillo ayudó a Nill en sus largos viajes. Desafortunadamente para Nill, no puedo protegerlo de los esbirros de Kontik y sus hechizos. Su construcción es de un gris muy inusual, de un metal blanco llamado tungsteno.
+
+CARACTERÍSTICAS:
+
+Duplica la cantidad de conjuros de nivel 1 que un mago puede memorizar
+Duplica la cantidad de conjuros de nivel 2 que un mago puede memorizar
+Todos los daños causados por el frío se incrementan en un 15%.
+
+Sólo utilizable por:
+Magos (simple, doble, y multiclase)~ 
+@25 = ~Saqueadora de Nieve de Maiden~
+@26 = ~Sólo la empuñadura, el puño, y el pomo, son de hielo y se la ha forjado de brillante plata y acero. Fue creada en 1099 DR por la elegida de Auril, Ihanora la Misericordiosa. Ihanora recorrió el norte, sufriendo ataques despiadados por los que trataron de encontrar refugio del frío o combatir sus efectos. Ella viajó con un grupo de yetis atigrados, gusanos polares, gigantes de hielo, y un dragón blanco, congelando todo con su estela. Ihanora fue derrotada en 1108 por la famosa Brigada de la Máscara Roja, encabezada por el despiadado asesino conocido como Bitter Harley.
+
+CARACTERÍSTICAS:
+
+Daño: 2D4+2
+GAC0: 2
+Especial: 2% de probabilidad de convertir el objetivo en hielo sólido
+Tipo de daño: Frío
+Peso: 10
+Factor de velocidad: 6
+Talento marcial: Gran Espada
+Tipo: una mano
+
+No utilizable por:
+Druida
+Clérigo
+Mago
+Ladrón~
+@27 = ~Escudo Argento~
+@28 = ~Este escudo de plata, una vez residió en la mano de los Seldarine, utilizado para proteger a su portador de la magia y los ataques dañinos. Debido a su sintonía racial, los orcos y goblins que merodeaban lo dejaron en la torre. Ilmadia Maiden lo tomó de las ruinas.
+
+CARACTERÍSTICAS:
+
+Clase de Armadura: 3
+ +25% de Resistencia Mágica
+Peso: 5
+
+Sólo utilizable por:
+Elfos
+Semielfos
+
+No utilizable por:
+Druida
+Ladrón
+Mago
+Bardo~
+@29 = ~Gran Escudo de Frío +4~
+@30 = ~Un poderoso escudo venido de "El Polo Norte". Este protegerá al que lo use de la helada.
+
+CARACTERÍSTICAS:
+Ofrece una resistencia de 20% al frío
+Clase de Armadura: 3
+Especial: + 1 contra Misiles
+Peso: 4
+
+No utilizable por:
+Bardo
+Druida
+Mago
+Ladrón
+Bardo~
+@31 = ~Asgrim el Loco~
+@32 = ~Artículos de Asgrim~

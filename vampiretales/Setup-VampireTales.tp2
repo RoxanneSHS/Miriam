@@ -394,7 +394,7 @@ EXTEND_BOTTOM ~AR0400.bcs~ ~vampiretales/bafs/AR0400.baf~
 
 EXTEND_TOP ~ar1202.bcs~ ~vampiretales/scriptsadd/addenco.baf~
 
-EXTEND_TOP ~ar0902.bcs~ ~vampiretales/scriptsadd/addmerch.baf~
+EXTEND_TOP ~ar0308.bcs~ ~vampiretales/scriptsadd/addmerch.baf~
 
 COMPILE ~vampiretales/bafs/CGAVATAR.baf~
 

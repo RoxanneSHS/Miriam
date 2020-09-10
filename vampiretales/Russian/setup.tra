@@ -1,551 +1,596 @@
 
-@400 = ~Ratava Sartsym~ 
+@400 = ~Ратава Сарцым~ 
  
-@401 = ~Marial Delsol~ 
+@401 = ~Мариал Делсол~ 
 
-@402 = ~Lilith~ 
+@402 = ~Лилит~ 
   
-@403 = ~Blood Raven~ 
+@403 = ~Кровавый ворон~ 
 
-@100 = ~Long Bow~ 
-@101 = ~The Black Bow~ 
-@102 = ~The long bow is similar to the short bow, except that the staff is about as high as the archer is, usually 6 to 6.5 feet. It has two advantages over the short bow: better range and hence, it is much more accurate.
+@100 = ~Длинный лук~ 
+@101 = ~Чёрный лук~ 
+@102 = ~Длинный лук похож на короткий лук, за исключением того, что он примерно такой же длины, как лучник, обычно от 6 до 6,5 футов. У него два преимущества перед коротким луком: лучшая дальность стрельбы и большая точность.
 
-STATISTICS:
+ПАРАМЕТРЫ:
 
-Damage:  
 THAC0: +1
-Weight: 3
-Speed Factor: 7
-Proficiency Type: Long Bow
-Type: 2-handed
-Minimum Strength of 12 required~
-@103 = ~A rough bow with a dusty appearance, the Black Bow was created as an instrument of vengeance by a Cormyrean settler in the Western Heartlands of Faerun. A former soldier named Jonan of Suzail, after years of campaigning in the name of the crown, finally returned home to marry his childhood sweetheart. Through all of his years in the military, he remained true to his love and saved his earnings. He and his new wife moved west in the hopes that they would find frontier land to settle. In the lands north of Baldur's Gate and east of the Trollbark Forest, Jonan built his home and farm.  Within five years, there were raiders in the area, and farms were being destroyed all around Jonan's. Eventually, the raiders targeted Jonan's home, killing his wife and child and leaving him for dead. His farm was burned to the ground. Weeks later, Jonan crafted this bow and rubbed the ashes of his farm and family into the grain of the wood. He later went on a murderous rampage, slaying each of the bandits where he found them, and later killing anyone they associated with.  Sages debate how the bow became enchanted, but most believe that, after Jonan's death, it was blessed by a god. Some say it was blessed by Tyr, some say by Hoar, and others say by Bhaal. Theories tend to revolve around whether the speaker believes Jonan's actions were just, vengeful, or murderous.
+Фактор скорости: 7
+Оружейный навык: длинный лук
+Тип: двуручное
+Требования: 12 сила
 
-STATISTICS:
+Вес: 3~
+@103 = ~Грубый лук с грязным внешним видом, Чёрный Лук был создан, как инструмент мести кормирским поселенцем в Западном Сердцеземье Фаэруна. Бывший солдат по имени Джонан из Сюзейла, после многих лет кампании во имя короны, наконец вернулся домой, чтобы жениться на своей возлюбленной. На протяжении всех лет службы в армии он оставался верным своей любимой и копил заработки. Он и его новая жена переехали на запад в надежде, что они найдут приграничные земли для поселения. В землях к северу от Врат Балдура и к востоку от Леса Троллей Джонан построил свой дом и ферму. В течение пяти лет в этом районе действовали бандиты, и фермы вокруг дома Джонана были разорены. В конце концов, бандиты напали и на дом Джонана, убив его жену и ребёнка, и оставив его умирать. Его ферма сгорела дотла. Спустя несколько недель Джонан сделал этот лук и втёр пепел своей фермы и семьи в его древесину. Позже он начал кровавую месть, убивая всех бандитов, где бы он их ни находил, а затем убивал всех, с кем они были связаны. Мудрецы спорят о том, как лук стал заколдованным, но большинство считают, что после смерти Джонана он был благословлён богом. Некоторые говорят, что благословлён Тиром, другие - Хоаром, третьи - Баалом, в зависимости от того, считают ли говорящие действия Джонана справедливостью, местью или убийством.
 
-Damage: +3
-THACO: +4
-Weight: 3
-Speed Factor: 4
-Proficiency Type: Long Bow
-Type: 2-handed
-Minimum Strength of 12 required~
+ПАРАМЕТРЫ:
 
-@104 = ~War Hammer~ 
-@105 = ~Blood of the Gloomfrost~ 
-@106 = ~Mounted knights cannot effectively use long pole weapons while on horseback, and as a result, many weapons have been fitted with shorter shafts so they may be wielded with just one hand. Maces and flails are two previous examples of this - the war hammer is another. The horseman's war hammer is the descendent of the Lucerne hammer. It is made entirely of steel, with rondels protecting and strengthening the grip. Rondels are small disks of metal, often shaped into decorative designs. The shaft is about 18 inches long.
-
-STATISTICS:
-
-Damage: 1D4 +1
-Damage Type: Crushing
-Weight: 6
-Speed Factor: 4
-Proficiency Type: Hammers
-Type: 1-handed~
-@107 = ~This weapon was forged by a blind dwarf named Tiernon who lived in the arctic wastes to the north of the Spine of the world. Although Tiernon was a skilled craftsman and artisan, he required the aid of a group of adventurers to create this weapon, as some of their power went into the weapon during it's casting. The weapon itself is made from the ice of the Gloomfrost Glacier, but it is only slightly cold to the touch and does not melt, even when exposed to the hottest flames.
-
-STATISTICS:
-
-Damage: 1D4 +5
+Урон: +3
 THAC0: +4
-Damage Type: Crushing
-Special: +10% Fire Resistance, +10% Cold Resistance, Storm Shield 1/Day, 5% chance of healing 2-12 points of damage
-Weight: 3
-Speed Factor: 1
-Proficiency Type: Hammer
-Type: 1-handed~
+Фактор скорости: 4
+Оружейный навык: длинный лук
+Тип: двуручное
+Требования: 12 сила
 
-@108 = ~Battle Axe +3 "Hellfire"~
-@109 = ~Magical battle axes are normally crafted by dwarves to help defend their warriors against their harsher neighbors. This magical axe has seen many battles but its enchantments and craftsmanship make it a very capable weapon still. This one happens to do extra damage that being fire.
+Вес: 3~
 
-STATISTICS:
+@104 = ~Боевой молот~ 
+@105 = ~Кровь мрачного холода~ 
+@106 = ~Конные рыцари не могут эффективно использовать оружие с длинной рукоятью, находясь верхом на лошади, и в результате многие виды оружия были оснащены более короткими рукоятями, чтобы ими можно было сражаться только одной рукой. Булавы и цепы - один из примеров этого, боевой молот - другой. Боевой молот всадника является потомком люцернского молота. Он полностью сделан из стали, с ронделями, защищающими и укрепляющими захват. Рондели - это небольшие металлические диски, часто образующие декоративные узоры. Рукоять имеет длину около 18 дюймов.
 
-THAC0: +3 bonus
-Damage: 1D8 +3
-+2D4 Fire Damage
-Damage type: slashing
-Weight: 5
-Speed Factor: 5
-Proficiency Type: Axe
-Type: 1-handed
-Requires: 10 Strength~
+ПАРАМЕТРЫ:
 
-@110 = ~Short Sword~ 
-@111 = ~Short Sword +4 "Inferno"~ 
-@112 = ~The short sword is the first type of sword to come into existence. In the simplest of terms, a short sword can be considered a dagger with a blade so long that it can no longer be called a dagger. The term short sword does not exist in sword classifications. However, it has come to be used to describe a double-edged blade about two feet in length. The sword tip is usually pointed, ideal for thrusting.  
+Урон: 1d4 +1
+Тип урона: дробящий
+Фактор скорости: 4
+Оружейный навык: молот
+Тип: одноручное
 
-STATISTICS:
+Вес: 6~
+@107 = ~Это оружие было выковано слепым дварфом по имени Тирнон, жившим в арктических пустошах к северу от Хребта мира. Хотя Тирнон был искусным мастером и ремесленником, ему потребовалась помощь группы искателей приключений для создания этого оружия, поскольку часть их силы ушла в оружие во время его создания. Само оружие сделано из льда Ледника Мрачного Холода, но на ощупь оно лишь немного холодное и не тает даже под воздействием самого горячего пламени.
 
-Damage: 1D6
-Damage type: piercing
-Weight: 3
-Speed Factor: 3
-Proficiency Type: Short Sword
-Type: 1-handed
-Requires: 5 Strength~
-@113 = ~The short sword is the first type of sword to come into existence. In the simplest of terms, a short sword can be considered a dagger with a blade so long that it can no longer be called a dagger.  The term short sword does not exist in sword classifications. However, it has come to be used to describe a double-edged blade about two feet in length. The sword tip is usually pointed, ideal for thrusting. 
+ПАРАМЕТРЫ:
 
-STATISTICS:
+Урон: 1D4 +5
+THAC0: +4
+Тип урона: дробящий
 
-Damage: 1D6 +4, +1 Fire
+Особые свойства:
+ Сопротивление огню: +10%
+ Сопротивление холоду: +10%
+ Щит бури 1 раз в день
+ 5% шанс исцелить 2-12 пунктов урона
+
+Фактор скорости: 1
+Оружейный навык: молот
+Тип: одноручное
+
+Вес: 3~
+
+@108 = ~Боевой топор +3 "Адский огонь"~
+@109 = ~Магические боевые топоры обычно изготавливаются дварфами, чтобы защитить своих воинов от суровых соседей. Этот топор видел много сражений, но его чары и качество изготовления делают его очень мощным оружием. Этот экземпляр наносит дополнительный урон огнём.
+
+ПАРАМЕТРЫ:
+
 THAC0: +3
-Damage type: piercing
-Weight: 3
-Speed Factor: 1
-Proficiency Type: Short Sword
-Type: 1-handed
-Requires: 5 Strength~
+Урон: 1d8+3 
++2d4 урон огнём
+Тип урона: рубящий
+Фактор скорости: 5
+Оружейный навык: топор
+Тип: одноручное
+Требования: 10 сила
 
-@114 = ~Strange Armor~ 
-@115 = ~Black Dragon Scale~ 
-@116 = ~This armor has an unusual texture and appearance. From a distance, it appears to be common leather. Close inspection reveals that it is, in fact, made of thin, very flexible black scales.
-~ 
-@117 = ~This armor was crafted by the dwarven smiths and priests of Clan Battlehammer when one of their own, Bruenhal, led a band of heroes in the defeat of a black dragon far to the south. Some dwarves turn up their noses at the thought of wearing armor made from the remains of a dragon, but Bruenhal proudly wore the armor until the end of his days.
+Вес: 5~
 
-STATISTICS:
+@110 = ~Короткий меч~ 
+@111 = ~Короткий меч +4 "Инферно"~ 
+@112 = ~Короткий меч - это первый возникший тип меча. Проще говоря, короткий меч можно считать кинжалом с таким длинным лезвием, что его уже нельзя называть кинжалом. Термина «короткий меч» не существует в классификации мечей. Тем не менее, его стали использовать для обозначения обоюдоострого клинка длиной около двух футов. Кончик меча обычно заострён и идеален для колющих ударов.
 
-Armor Class: 4
-Resistance Bonus: 
-  +25% Acid Resistance
-  +2 Save vs. Spells
-Weight: 10~
+ПАРАМЕТРЫ:
 
-@118 = ~Robe of the High Templar~
-@119 = ~This powerful Mage Robe offers protection from all forms of physical attack while at the same time increasing one's magical resistance and saving throws. Due to the nature of its enchantment, it can only be worn by mages of good and neutral alignments.
+Урон: 1d6
+Тип урона: колющий
+Фактор скорости: 3
+Оружейный навык: короткий меч
+Тип: одноручное
+Требования: 5 сила
 
-STATISTICS:
+Вес: 3~
+@113 = ~Короткий меч - это первый возникший тип меча. Проще говоря, короткий меч можно считать кинжалом с таким длинным лезвием, что его уже нельзя называть кинжалом. Термина «короткий меч» не существует в классификации мечей. Тем не менее, его стали использовать для обозначения обоюдоострого клинка длиной около двух футов. Кончик меча обычно заострён и идеален для колющих ударов.
 
-Armor Class: +2 Bonus
-Magic Resistance: 25%
-Saving Throw: +3 bonus
-Weight: 6~
+ПАРАМЕТРЫ:
 
-@120 = ~Quarterstaff~ 
-@121 = ~Staff of Nature~
-@122 = ~The simplest and humblest of staff weapons, the quarterstaff is a length of wood ranging six to nine feet in length. High quality quarterstaves are made of stout oak and are shod with metal at both ends. The quarterstaff must be wielded with both hands.  
+Урон: 1d6+4, +1 огнём
+THAC0: +3
+Тип урона: колющий
+Фактор скорости: 1
+Оружейный навык: короткий меч
+Тип: одноручное
+Требования: 5 сила
 
-STATISTICS:
+Вес: 3~
 
-Damage: 1D6
-Damage type: crushing
-Weight: 4
-Speed Factor: 4
-Proficiency Type: Staff
-Type: 2-handed
-Requires: 5 Strength~
-@123 = ~The simplest and humblest of staff weapons, the quarterstaff is a length of wood ranging six to nine feet in length. High quality quarterstaves are made of stout oak and are shod with metal at both ends. The quarterstaff must be wielded with both hands.  
+@114 = ~Странная броня~ 
+@115 = ~Чешуя чёрного дракона~ 
+@116 = ~Этот доспех имеет необычную фактуру и внешний вид. Издалека кажется, что это обычная кожа. При внимательном рассмотрении выясняется, что на самом деле он сделан из тонких, очень гибких чёрных чешуек.~
+ 
+@117 = ~Эти доспехи были созданы кузнецами и жрецами клана Боевого Молота, когда один из них, Брюенхал, возглавил отряд героев в борьбе с чёрным драконом далеко на юге. Некоторые дварфы задирают нос при мысли о том, что они наденут доспехи, сделанные из останков дракона, но Брюенхал с гордостью носил эти доспехи до конца своих дней.
 
-STATISTICS:
+ПАРАМЕТРЫ:
 
-Damage: 1D6 +3, +2 Cold, +2 Fire
-THACO Bonus: +3
-Special: 1 Bonus spell for levels 1-5
-Damage type: crushing
-Weight: 2
-Speed Factor: 3
-Proficiency Type: Staff
-Type: 2-handed
-Requires: 6 Strength~
+Класс защиты: 4
+Особенности при экипировке: 
+  +25% сопротивление кислоте
+  +2 спасброски против заклинаний
 
-@124 = ~Girdle of Protection~
-@125 = ~This belt will protect the wearer from damage done in their adventuring life.  
+Вес: 10~
 
-STATISTICS
+@118 = ~Мантия верховного тамплиера~
+@119 = ~Эта магическая мантия предлагает защиту от всех форм физических атак, в то же время увеличивая магическое сопротивление и спасброски. Из-за характера зачарования, её могут носить только маги с добрым и нейтральным мировоззрением.
 
-+1 to AC
-Cast Blade Barrier three times per day~
+ПАРАМЕТРЫ:
 
-@126 = ~Battleaxe +3 "The Stunner"~ 
-@127 = ~This ax was made by the mad dwarf Magnuson Thorhammer. In his creation to craft the perfect ax he forgot one crucial item and the result is the user suffers -2 to their constitution since they feel sickly.  
+Класс защиты: +2
+Сопротивление магии: +25%
+Спасброски: +3
 
-STATISTICS: 
+Вес: 6~
 
-Special:
- +2 Dexterity
--2 Constitution
-Combat Abilities: 
-Gain one extra attack per round 
-20% chance of stunning opponent for 20 seconds 
+@120 = ~Посох~ 
+@121 = ~Посох природы~
+@122 = ~Самый простой и скромный из посохов представляет собой кусок древесины длиной от шести до девяти футов. Высококачественные посохи сделаны из прочного дуба и окованы металлом с обоих концов. Посох следует держать обеими руками.
 
-Thac0: +3 
-Damage: 1D8 +3 
-Weight: 10 
-Speed Factor: 1 
-Proficiency Type: Axe 
-Type: 1-Handed 
-Requirements: 10 strength~
+ПАРАМЕТРЫ:
 
-@128 = ~Pole Axe~ 
-@129 = ~Pole  Axe +2~ 
-@130 = ~The most common version of the pole axe is a stout pole about six feet in length with a single-edged, trumpet-shaped blade mounted on one end.  
+Урон: 1d6
+Тип урона: дробящий
+Фактор скорости: 4
+Оружейный навык: посох
+Тип: двуручное
+Требования: 5 сила
 
-STATISTICS:
+Вес: 4~
+@123 = ~Самый простой и скромный из посохов представляет собой кусок древесины длиной от шести до девяти футов. Высококачественные посохи сделаны из прочного дуба и окованы металлом с обоих концов. Посох следует держать обеими руками.
 
-Damage: 1D8
-Damage type: slashing
-Weight: 7
-Speed Factor: 7
-Proficiency Type: Axe
-Type: 1-handed
-Requires: 10 Strength~
-@131 = ~The most common version of the pole axe is a stout pole about six feet in length with a single-edged, trumpet-shaped blade mounted on one end.  
+ПАРАМЕТРЫ:
+
+Урон: 1d6+3, +2 холодом, +2 огнём
+THAC0: +3
+Особое свойство: 1 дополнительное заклинание с 1 по 5 уровень
+Тип урона: дробящий
+Фактор скорости: 3
+Оружейный навык: посох
+Тип: двуручное
+Требования: 6 сила
+
+Вес: 2~
+
+@124 = ~Пояс Защиты~
+@125 = ~Этот пояс защитит владельца от повреждений, получаемых им во время приключений.
+
+ПАРАМЕТРЫ:
+
+Класс защиты: +1
+Позволяет прочитать "Барьер клинков" 3 раза в день~
+
+@126 = ~Боевой топор +3 "Оглушитель"~ 
+@127 = ~Этот топор изготовил безумный дварф Магнусон Торхаммер. Создавая идеальный топор, он забыл об одном важном компоненте, и в результате владелец топора получает -2 к своему телосложению, так как чувствует себя плохо. 
+
+ПАРАМЕТРЫ: 
+
+Особые свойства:
+ +2 ловкость
+ -2 телосложение
+
+Боевые особенности: 
+ +1 атака за раунд 
+ 20% шанс оглушить противника на 20 секунд 
+
+THAC0: +3 
+Урон: 1d8+3 
+Фактор скорости: 1 
+Оружейный навык: топор 
+Тип: одноручное 
+Требования: 10 сила
+
+Вес: 10~
+
+@128 = ~Древковый топор~ 
+@129 = ~Алебарда +2~ 
+@130 = ~Наиболее распространённая версия древкового топора - это толстый шест длиной около шести футов с односторонним в форме рупора лезвием, укреплённым на одном конце.  
+
+ПАРАМЕТРЫ:
+
+Урон: 1d8
+Тип урона: рубящий
+Фактор скорости: 7
+Оружейный навык: топор
+Тип: одноручное
+Требования: 10 сила
+
+Вес: 7~
+@131 = ~Наиболее распространённая версия алебарды - это толстый шест длиной около шести футов с односторонним в форме рупора лезвием, укреплённым на одном конце. 
   
 
-STATISTICS:
+ПАРАМЕТРЫ:
 
-Damage: 1D10 +2
-THACO: +2 bonus
-Damage type: piercing
-Weight: 12
-Speed Factor: 7
-Proficiency Type: Halberd
-Type: 2-handed
-Requires: 13 Strength~
+Урон: 1d10+2
+THAC0: +2
+Тип урона: колющий
+Фактор скорости: 7
+Оружейный навык: алебарда
+Тип: двуручное
+Требования: 13 сила
 
-@132 = ~Boots~ 
-@133 = ~Boots of Stealth~ 
-@134 = ~Boots are normally hand-made by cobblers. Common boots are made by using a form, but good boots are designed for the foot of an individual. 
+Вес: 12~
 
-STATISTICS:
+@132 = ~Сапоги~ 
+@133 = ~Сапоги скрытности~ 
+@134 = ~Сапоги обычно шьют сапожники вручную. Обычные сапоги изготавливаются по форме, но хорошие сапоги рассчитаны на индивидуальные ноги. 
 
-Weight: 4~
-@135 = ~Boot of Stealth is a must have item for theives and rangers who need stealth bonuses. 
+ПАРАМЕТРЫ:
 
-STATISTICS:
+Вес: 4~
+@135 = ~Сапоги скрытности - обязательный предмет для воров и следопытов, которым нужны бонусы к скрытности.
 
-Hide in Shadows Bonus: +30%
-Weight: 4~
+ПАРАМЕТРЫ:
 
-@136 = ~Cloak of the Ballister~ 
-@137 = ~Ballister was a halfling thief who was very profitable in his trade. One day he picked the wrong pocket and was never heard or seen again.
+Скрыться в тенях: +30%
+Вес: 4~
 
-STATISTICS
+@136 = ~Плащ Баллистера~ 
+@137 = ~Баллистер был полуросликом вором, который был очень удачлив в своём деле. Но однажды он выбрал не тот карман, и больше его никто не слышал и не видел.
 
-Special Abilities: 
-20% Find Traps
-20% Pick Pockets~ 
+ПАРАМЕТРЫ:
 
-@138 = ~Bow~ 
-@139 = ~Bow of Immolation~ 
-@140 = ~Short bows were the first to be developed, although they were not called such. This is more of a default term that refers to anything which is not a long bow. Short bow staves are about 5' feet long on the average. As the years passed, attempts were made to increase bow ranges. Bows were either given longer staves or flexibility was increased with no change to the length.  The former resulted in what is now called the long bow. 
-STATISTICS: 
-Damage: 1d6 
-Weight: 2 
-Speed Factor: 6 
-Proficiency 
-Type: Bow 
-Weapons Type: 2-handed~
-@141 = ~Bow of Immolation will not only fire normal arrows but also fireballs at an enemy. 
+Специальные возможности: 
+ +20% поиск ловушек
+ +20% карманная кража~ 
 
-STATISTICS:
+@138 = ~Лук~ 
+@139 = ~Обжигающий лук~ 
+@140 = ~Первыми были изобретены короткие луки, хотя таковыми они не назывались. Это скорее термин по умолчанию, который относится ко всем лукам, которые не являются длинными. Короткий лук в среднем имеют длину около 5 футов. Шли годы, делались попытки увеличить дальность стрельбы. Луки получали или более длинную дугу, или увеличивали гибкость без изменения длины. Первое привело к тому, что сейчас называется длинным луком.
+
+ПАРАМЕТРЫ: 
+
+Урон: 1d6 
+Фактор скорости: 6 
+Оружейный навык: короткий лук 
+Тип: двуручное
+
+Вес: 2~
+@141 = ~Обжигающий лук будет стрелять во врага не только обычными стрелами, но и огнём.
+
+ПАРАМЕТРЫ:
 
 THAC0: +2
-Damage: +2
-Weight: 2
-Speed Factor: 4
-Proficiency Type: Bow Weapons
-Type: 2-handed~
+Урон: +2
+Фактор скорости: 4
+Оружейный навык: лук
+Тип: двуручное
 
-@142 = ~Robe~ 
-@143 = ~Monk's Robe of Shadows~ 
-@144 =  ~Since the age of Netheril, mages have learned to bestow a wide variety of magical properties upon the everyday objects that surround them. A favorite item of such enchantment is the common robe. It is lightweight, affordable, and holds its enchantment well, thereby making it ideal equipment for a mage. Due to their magical heritage, however, only single-, dual-, and multi-class mages may wear these enchanted robes.~
-@145 = ~Ungh Chi was a noble monk of the Order of the Valiant. They were a noble order that was dedicated in fighting evil dragons across the realms. Master Chi was after a red dragon when in Amn and was never heard from again.
+Вес: 2~
 
-STATISTICS:
+@142 = ~Мантия~ 
+@143 = ~Мантия теней монаха
+Одеяние теней монаха~ 
+@144 =  ~Со времён Нетерила маги научились наделять окружающие их повседневные предметы разнообразными магическими свойствами. Любимым предметом такого чародейства является обычный халат. Он лёгкий, доступный и хорошо держит чары, что делает его идеальным снаряжением мага. Однако из-за своего магического наследия только маги одного, двух и нескольких классов могут носить эту зачарованную одежду.~
+@145 = ~Унг Чи был монахом Ордена Доблестных. Это был благородный орден, посвятивший себя борьбе со злыми драконами по всему миру. Мастер Чи охотился за красным драконом, когда был в Амне, и больше о нём никто не слышал.
 
-Fire Resistance: +20% bonus
-Stealth: +20% bonus
-Thac0 +1
-Weight: 1~
+ПАРАМЕТРЫ:
 
-@146 = ~Gabrielle's Gauntlets~
-@147 = ~Gabrielle was a mighty fighter/mage in the kings army. One day she and group of the royal guard were ambushed by a band of 1000 orcs. Unlike some popular cheesy hero's she did not survive. 
+Сопротивление огню: +20%
+Тихая походка: +20%
+THAC0: +1
 
-STATISTICS
+Вес: 1~
 
-THAC0: +3 Bonus
-+1 to Strength
-Special: Gain one extra attack per round 
-Weight: 1~
+@146 = ~Рукавицы Габриеллы~
+@147 = ~Габриелла была могущественным воином/магом в королевской армии. Однажды она с отрядом королевской гвардии попала в засаду группы из 1000 орков. В отличие от некоторых популярных никуда не годных героев, она не выжила.
 
-@148 = ~Kali's Bane~ 
-@149 = ~Kali's Bane belonged to the ancient goddess, Kali the goddess of war and death. In war she would go berserk at the sight of blood, always wanting more to feed her undying hunger. She suffered the fate of other gods of that long ago era and faded from history.
+ПАРАМЕТРЫ:
 
-STATISTICS:
+THAC0: +3
++1 сила
+Особое свойство: +1 дополнительная атака за раунд 
 
-Combat Abilities: Each successful hit casts Larloch's Minor Drain on the target (no save) and level drain
+Вес: 1~
 
--2 to wisdom
--2 to intelligence
+@148 = ~Проклятие Кали~ 
+@149 = ~Меч Проклятие Кали принадлежал древней богине Кали, богине войны и смерти. На войне она приходила в ярость при виде крови, всегда желая большего, чтобы утолить свой неугасающий голод. Её постигла участь других богов той давней эпохи, и она исчезла из истории.
 
-THACO: +3 bonus
-Damage: 2D4 +3
-Damage type: slashing
-Weight:  5
-Speed Factor: 3
-Proficiency Type: Bastard Sword
-Type: 1-handed
-Requires: 11 Strength~
+ПАРАМЕТРЫ:
 
-@150 = ~Dagger of Sacrifice~ 
-@151 = ~Dagger of Sacrifice "Kali's Curse".
+Боевые особенности: Каждое успешное попадание накладывает на цель Малое увядание Ларлока (без спасброска) и откачку уровня.
 
-The words "Death" and "Blood" are engraved on the blade.
+ -2 мудрость
+ -2 интеллект
 
-Damage: 1D4 +4
-THACO: +4 bonus
-Effect: 20% Chance of Level Drain
-5% chance of death. You or your enemy?
-Damage type: piercing
-Weight: 1
-Speed Factor: 0
-Proficiency Type: Dagger
-Type: 1-handed
-Requires: 3 Strength~
+THAC0: +3
+Урон: 2D4 +3
+Тип урона: рубящий
+Фактор скорости: 3
+Оружейный навык: полуторный меч
+Тип: одноручное
+Требования: 11 сила
 
+Вес: 5~
 
-@152 = ~Death Touch~ 
+@150 = ~Кинжал жертвоприношения~ 
+@151 = ~Кинжал жертвоприношения "Проклятие Кали".
 
-@153 = ~Daystar (Enhanced)~ 
-@154 = ~Sunblade: Daystar
-Whether created specifically for use in the service of Torm or appropriated at some point in the long history of the church, Paladins of the Loyal Fury have made good use of Daystar in their battles against evil undead. Through magic or blessing it is empowered with the Sunray, a force of pure life energy so potent that it slays both living and unliving.
+Слова "смерть" и "кровь" выгравированы на его лезвии.
 
-STATISTICS:
-Special Abilities (once per day):
-Sunray
- Damage: 3D6 (save vs. spells or be blinded for 10 rounds)
- Undead: an additional 1d6 points of damage per level of caster (save vs. spells or be destroyed)
- Range: 20 ft
- Area: 20 ft radius
+ПАРАМЕТРЫ:
 
-New Ability
-User is immune to level drain when equipped.
+Урон: 1d4+4
+THAC0: +4
+Особые свойства: 
+ 20% шанс откачать уровень
+ 5% шанс смерти - тебе или твоему врагу?
+Тип урона: колющий
+Фактор скорости: 0
+Оружейный навык: кинжал
+Тип: одноручное
+Требования: 3 сила
 
-THACO: +3 bonus, +4 vs. evil creatures
-Damage: 1D8 +3, +4 vs. evil creatures, does double damage against undead
-Damage type: slashing
-Weight: 2
-Speed Factor: 3
-Proficiency Type: Long sword
-Type: 1-handed
-Requires: 6 Strength~
+Вес: 5~
 
-@155 = ~Heart of the Damned~ 
-@156 = ~Lilith's Heart~ 
-@157 = ~This is the heart that used to beat in the evil body of Lilith. It may have a use if you talk to the right magical shop keeper. Some say a heart of a vampire combined with a weapon will make it more powerful. ~
+@152 = ~Прикосновение смерти~ 
 
-@158 = ~Robe of the Good Archmagi (Enhanced)~ 
-@159 = ~This powerful Mage Robe offers protection from all forms of physical attack while at the same time increasing one's magical resistance and saving throws. Due to the nature of its enchantment, it can only be worn by mages of good alignment.
+@153 = ~Дневная звезда (улучшено)~ 
+@154 = ~Солнечный клинок: Дневная звезда
+Был ли он изготовлен специально для служения Торму или приобретён в какой-то момент долгой истории церкви, но паладины Ярости верных часто использовали Дневную звезду в битвах со злой нежитью. Благодаря магии или молитвам, она усилена Солнечным лучом – потоком чистой жизненной энергии столь мощным, что уничтожает и живых, и мертвецов.
 
-STATISTICS:
+ПАРАМЕТРЫ:
 
-Armor Class: 3
-Magic Resistance: 15%
-Saving Throw: +1 bonus
-Weight: 6~
+Особенности при экипировке (один раз в день):
 
-@160 = ~Metaspell Influence Amulet (Enhanced)~ 
-@161 = ~Amulet of Metaspell Influence: 'The Amplifier'
-Known for its ability to enhance spellcasting, the Amulet of Metaspell Influence is highly sought after by magic practitioners. It was created by Elairdrin Mellwith who resided in the Star Mountains.  His reasons for fabricating such an item stemmed from his womanizing habits, and to this extent the Amplifier served his purpose well. It was later taken from him by a mage with a more destructive intent, but records detailing the change of hands vary widely. 
+Солнечный луч
+ Урон: 3d6 (при провале спасброска против заклинаний цель будет ослеплена на 10 раундов)
+ Нежить: дополнительно 1d6 урона на уровень заклинателя (спасбросок против заклинаний отменяет)
+ Дальность: 20 футов
+ Зона действия: радиус 15 футов
 
-STATISTICS:
+Новое свойство:
+ Иммунитет к откачке уровней при экипировке
 
-Special: Memorize two extra first, second and third level spells.~
+THAC0: +3, +4 против злых существ
+Урон: 1d8+3, +4 против злых существ, двойной урон против нежити
+Тип урона: рубящий
+Фактор скорости: 3
+Оружейный навык: длинный меч
+Тип: одноручное
+Требования: 6 сила
 
-@162 = ~Pole  Axe +2~ 
-@163 = ~The most common version of the pole axe is a stout pole about six feet in length with a single-edged, trumpet-shaped blade mounted on one end.  
+Вес: 2~
+
+@155 = ~Сердце проклятого~ 
+@156 = ~Сердце Лилит~ 
+@157 = ~Это сердце, которое раньше билось в злобном теле Лилит. Оно может пригодиться, если ты поговоришь с нужным торговцем магического магазина. Говорят, что сердце вампира в сочетании с оружием может сделать оружие более мощным.~
+
+@158 = ~Мантия Доброго Архимага (улучшено)~ 
+@159 = ~Эта могучая волшебная мантия защищает владельца от всех видов физических атак, в то же время повышая сопротивление магии и улучшая спасброски. Она зачарована таким образом, что носить её могут только добрые маги.
+
+ПАРАМЕТРЫ:
+
+Класс защиты: 3
+Сопротивление магии: +15%
+Спасброски: +1
+
+Вес: 6~
+
+@160 = ~Амулет метамагического воздействия (улучшено)~ 
+@161 = ~Амулет метамагического воздействия: 'Усилитель'
+Известный своим свойством усиливать магические способности, амулет метамагического воздействия высоко ценится практикующими магами. Он был создан Элайрдином Меллвитом, жившим в Звёздных Горах. Артефакт обязан своим происхождением любви мага к женскому полу и неплохо помогал ему в этом отношении. Позже другой волшебник, у которого были гораздо менее безобидные намерения, отобрал у него амулет, но источники сильно разнятся, когда дело касается подробностей этого происшествия. 
+
+ПАРАМЕТРЫ:
+
+Особое свойство:
+ 2 дополнительных заклинания с 1 по 3 уровень~
+
+@162 = ~Алебарда +2~ 
+@163 = ~Наиболее распространённая версия алебарды - это толстый шест длиной около шести футов с односторонним в форме рупора лезвием, укреплённым на одном конце.  
   
 
-STATISTICS:
+ПАРАМЕТРЫ:
 
-Damage: 1D10 +2
-THACO: +2 bonus
-Damage type: piercing
-Weight: 12
-Speed Factor: 7
-Proficiency Type: Halberd
-Type: 2-handed
-Requires: 13 Strength~
+Урон: 1d10+2
+THAC0: +2 
+Тип урона: колющий
+Фактор скорости: 7
+Оружейный навык: алебарда
+Тип: двуручное
+Требования: 13 сила
 
-@164 = ~Improved Sword of Balduran~
-@165 = ~Sword of Balduran
-The Sword of Balduran was the favored weapon of the famous adventurer who founded the city of Baldur's Gate. It is part of a set of weapons and armor that was stolen from the museum in the city of Baldur's Gate.
+Вес: 12~
 
-STATISTICS:
+@164 = ~Улучшенный меч Балдурана~
+@165 = ~Меч Балдурана
+Меч Балдурана был любимым оружием знаменитого искателя приключений, основавшего Врата Балдура. Он – часть комплекта доспехов и оружия, который был похищен из музея в этом городе.
 
-Equipped Abilities:
-+10% to lore
-+10% Magic Resistance
-+1 to AC
-Damage: 1D8 +2
-THACO: +2 bonus
-Damage type: slashing
-Weight: 3
-Speed Factor: 3
-Proficiency Type: Long Sword
-Type: 1-handed
-Requires: 5 Strength~
+ПАРАМЕТРЫ:
 
-@166 = ~Improved Helm of Balduran~
-@167 = ~The fabled helm of Balduran, legendary founder of Baldur's Gate, has long been rumored to wield powerful protective magic. The exact nature of this magic, however, has not yet been determined.
+Особенности при экипировке:
+Знание легенд: +10%
+Сопротивление магии: +10%
+Класс защиты: +1
+Урон: 1d8+2
+THAC0: +2
+Тип урона: рубящий
+Фактор скорости: 3
+Оружейный навык: длинный меч
+Тип: одноручное
+Требования: 5 сила
 
-STATISTICS:
+Вес: 3~
 
-Armor Class Bonus: 1
-Hit Point Max: +10
-Saving Throws: +1 bonus
-THACO: +1 bonus
-Special: Protects Against Critical Hits
-Weight: 1~
+@166 = ~Улучшенный шлем Балдурана~
+@167 = ~Прославленный шлем Балдурана, легендарного основателя Врат Балдура, по слухам, обладает мощной защитной магией. Точная природа этой магии, однако, доныне неизвестна.
 
-@168 = ~Improved Plate of Balduran~
-@169 = ~Plate of Balduran
-This plate was worn by the famous hero Balduran. It is part of a set of weapons and armor that was stolen from the museum in the city of Baldur's Gate.
+ПАРАМЕТРЫ:
 
-STATISTICS:
+Свойства при экипировке:
+– ТНАС0: +1
+– Класс защиты: +1
+– Спасброски: +1
+– Здоровье: +10
+– Защищает от критических ударов
 
-Equipped Abilities:
- +4 hit points
- +1 Charisma bonus
- +10 to fire resistance
-Armor Class: -1
-Weight: 50
-Requires: 15 Strength~
+Вес: 1~
 
-@170 = ~Improved Shield of Balduran~
-@171 = ~Improved Shield of Balduran +3
-This shield was worn by the hero Balduran. It is part of a set of weapons and armor that was stolen from the museum in the city of Baldur's Gate.
+@168 = ~Улучшенная броня Балдурана~
+@169 = ~Броня Балдурана
+Эту броню носил известный герой Балдуран. Она – часть комплекта доспехов и оружия, который был похищен из музея в городе Врата Балдура.
 
-STATISTICS:
+ПАРАМЕТРЫ:
 
-Equipped Abilities:
- Reflects beholder rays
- +1 to Strength
-Armor Class Bonus: 4
-Weight: 5
-Requires: 12 Strength~
+Особенности при экипировке:
+ +4 здоровье
+ +1 харизма
+ +10% сопротивление огню
+Класс защиты: -1 (-5 против рубящего, -4 против колющего и метательного)
+Требования: 15 сила
 
-@172 = ~Improved Cloak of Balduran~
-@173 = ~Cloak of Balduran: 'Cloak of Balduran'
-This cloak was reputedly worn by Balduran, the founder of Baldur's Gate. Though it was never used in combat, it provides protection worthy of any great leader.  
+Вес: 50~
 
-STATISTICS:
+@170 = ~Улучшенный щит Балдурана~
+@171 = ~Улучшенный щит Балдурана +3
+Этот щит носил герой Балдуран. Он – часть комплекта доспехов и оружия, который был похищен из музея в городе Врата Балдура.
 
-Armor Class: +2 bonus
-Saving Throws: +1 bonus
-Magic Resistance: 25%
-Weight: 3
-Not usable by:~
+ПАРАМЕТРЫ:
 
-@174 = ~Moonblade~
-@175 = ~This potent weapon was created by the smiths of ancient Myth Drannor. Moonblades are used in the long process of selecting a ruler for the isle of Evermeet. A Moonblade chooses its owner, and in the case of this sword it has chosen the elf, Xan. Only Xan can use this blade, anyone else who tries will find themselves unable to lift the sword. This particular Moonblade gives resistance to fire and gives its user a bonus to his armor class.
+Свойства при экипировке:
+  Класс защиты: +4
+  Сила: +1
 
-STATISTICS:
+Боевые возможности:
+  Отражает лучи созерцателей
 
-Damage: 1D8 +3
+Требования: 12 сила
+
+Вес: 5~
+
+@172 = ~Улучшенный плащ Балдурана~
+@173 = ~Плащ Балдурана
+Этот плащ, по слухам, носил Балдуран, основатель Врат Балдура. Хотя одеяние никогда не использовалось в бою, защита, которую оно даёт, достойна великого правителя.  
+
+ПАРАМЕТРЫ:
+
+Класс защиты: +2
+Спасброски: +1
+Сопротивление магии: +25%
+
+Вес: 3~
+
+@174 = ~Лунный клинок~
+@175 = ~Это оружие выковали кузнецы древнего Миф Драннора. Лунные клинки используются в длительном процессе выбора правителя на острове Эвермит. Лунный клинок сам выбирает своего владельца, и в данном случае он выбрал эльфа Ксана. Только Ксан может пользоваться им, любой другой просто не сможет поднять оружие. Этот Лунный клинок даёт владельцу сопротивление огню и повышает класс защиты.
+
+ПАРАМЕТРЫ:
+
+Особые свойства:
+  Класс защиты: +1
+  Сопротивление огню: +50%
+
+Урон: 1d8+3
 THAC0: +3
-Damage type: slashing
-Bonus to hit: 3
-Bonus to damage: 3
-Special:
- +1 bonus to Armor Class
- +50% Fire Resistance
-Weight: 4
-Speed Factor: 5
-Proficiency Type: Small Sword
-Type: 1-handed~
+Тип урона: рубящий
+Фактор скорости: 5
+Оружейный навык: короткий меч
+Тип: одноручное
 
-@176 = ~Magically Enhanced Goods~
-@177 = ~Magically Enhanced Scrolls~
+Вес: 4~
 
-@178 = ~Miriam Delsol~
-@179 = ~Miriam Delsol~
-@180 = ~ Yes?~ [MELISS01]
-@181 = ~Stupid cretins.~ [MIRI02]
-@182 = ~Stupid cretins.~ [MIRI02]
-@183 = ~ Poison or no, you'll be dead quick enough!~ [STHFE06]
-@184 = ~ Ooooh, this is not a good day!~ [GNOMEF08]
-@185 = ~ I must escape!~ [MELISS06]
-@186 = ~ Maybe I be you, now.~ [PPDILI01]
-@187 = ~These are troubled times.~ [MIRI01]
-@188 = ~Loyality to one's lord.~ [MIRI03]
-@189 = ~ Doom awaits thee!~ [MELISS02]
-@190 = ~ You shall suffer!~ [MELISS03]
-@191 = ~ This shall not take long.~ [BODHIX04]
-@192 = ~ Be honored, for you shall feed me!~ [VAMPFX06]
-@193 = ~ I shall feast on your heart!~ [VAMPFX05]
-@194 = ~In these times only the strong survive.~ [MIRI04]
-@195 = ~ You shall suffer!~ [MELISS03]
+@176 = ~Магически улучшенные вещи~
+@177 = ~Магически улучшенные свитки~
+
+@178 = ~Мириам Делсол~
+@179 = ~Мириам Делсол~
+@180 = ~Да?~ [MELISS01]
+@181 = ~Тупые кретины.~ [MIRI02]
+@182 = ~Тупые кретины.~ [MIRI02]
+@183 = ~Яд или нет, ты скоро умрешь!~ [STHFE06]
+@184 = ~Оооох, это не лучший день!~ [GNOMEF08]
+@185 = ~Я должна спастись!~ [MELISS06]
+@186 = ~Может, теперь я буду тобой.~ [PPDILI01]
+@187 = ~Настали трудные времена.~ [MIRI01]
+@188 = ~Верность своему господину.~ [MIRI03]
+@189 = ~Тебя ждёт гибель!~ [MELISS02]
+@190 = ~Ты будешь страдать!~ [MELISS03]
+@191 = ~Это не займёт много времени.~ [BODHIX04]
+@192 = ~Гордись, ты меня накормишь!~ [VAMPFX06]
+@193 = ~Я полакомлюсь твоим сердцем!~ [VAMPFX05]
+@194 = ~В такое время выживают только сильные.~ [MIRI04]
+@195 = ~Ты будешь страдать!~ [MELISS03]
 @196 = ~~ [MELISS04]
 @197 = ~~ [WOMLC04]
-@198 = ~ You won't get away with it!~ [GNOMEF05]
-@199 = ~I have nothing else to say.~ [MIRI06]
-@200 = ~These are troubled times.~ [MIRI01]
-@201 =  ~Yeah?~ [GENFG01]
-@202 = ~ You live so long as I tolerate it.~ [BODHIX01]
-@203 = ~ Yes?~ [MELISS01]
-@204 = ~I'll kill you slow for touching me like that.~ [MIRI09]
-@205 = ~Your life means nothing to me.~ [GENFT06]
-@206 = ~Stupid cretins.~ [MIRI02]
-@207 = ~Stupid cretins.~ [MIRI02]
-@208 = ~I'll kill you slow for touching me like that.~ [MIRI09]
-@209 = ~Stupid cretins.~ [MIRI02]
-@210 = ~Your life means nothing to me.~ [GENFT06]
-@211 = ~Stupid cretins.~ [MIRI02]
-@212 = ~I'll not speak a word after what you did!~
-@213 = ~Stupid cretins.~ [MIRI02]
-@214 = ~These are troubled times.~ [MIRI01]
-@215 = ~ Prepare, for the final sleep comes for you.~ [BODHIX05]
-@216 = ~Stupid cretins.~ [MIRI02]
-@217 = ~Think before you act fool.~ [MIRI10]
-@218 = ~Think before you act fool.~ [MIRI10]
-@219 = ~A secret is only a secret if kept to one's self.~ [MIRI05]
-@220 = ~Ahh! Somebody hide me!~ [MIRI07]
-@221 =  ~Miriam does not reveal much about herself or her history. What is known is that she's a vampire that has existed for a few hundred years. She has come from a village along the Sword Coast which was destroyed by her when they found out what she was and tried to kill her. Multiple personalities ravage her mind which makes it hard to understand her at times, but there is truth in her words if you look hard enough, she does possess a unique insight into things. Out of sheer boredom she has joined you.~
-@222 =  ~Studded Leather~
-@223 =  ~Miriam's Armor~
-@224 = ~Studded leather armor has little in common with normal leather armor. Instead of a hardened shell, studded leather offers hundreds of metal rivets affixed to a supple backing.  The numerous studs form a flexible coat of metal that helps to turn aside slashing and cutting attacks, while the leather is little more than a means of securing the rivets in place.
+@198 = ~Тебе это с рук не сойдёт!~ [GNOMEF05]
+@199 = ~Мне нечего больше сказать.~ [MIRI06]
+@200 = ~Настали трудные времена.~ [MIRI01]
+@201 = ~Да?~ [GENFG01]
+@202 = ~Ты жив, пока я это терплю.~ [BODHIX01]
+@203 = ~Да?~ [MELISS01]
+@204 = ~Я убью тебя медленно за то, что ты так меня задел.~ [MIRI09]
+@205 = ~Твоя жизнь для меня ничего не значит.~ [GENFT06]
+@206 = ~Тупые кретины.~ [MIRI02]
+@207 = ~Тупые кретины.~ [MIRI02]
+@208 = ~Я убью тебя медленно за то, что ты так меня задел.~ [MIRI09]
+@209 = ~Тупые кретины.~ [MIRI02]
+@210 = ~Твоя жизнь для меня ничего не значит.~ [GENFT06]
+@211 = ~Тупые кретины.~ [MIRI02]
+@212 = ~Я не скажу ни слова после того, что ты сделал!~
+@213 = ~Тупые кретины.~ [MIRI02]
+@214 = ~Настали трудные времена.~ [MIRI01]
+@215 = ~Готовься, к тебе идёт вечный сон.~ [BODHIX05]
+@216 = ~Тупые кретины.~ [MIRI02]
+@217 = ~Подумай, прежде чем действовать глупо.~ [MIRI10]
+@218 = ~Подумай, прежде чем действовать глупо.~ [MIRI10]
+@219 = ~Секрет - это секрет, только если держать его в секрете.~ [MIRI05]
+@220 = ~Ах! Кто-нибудь, прикройте меня!~ [MIRI07]
+@221 = ~Мириам мало что рассказывает о себе или о своей истории. Что известно, так это то, что она вампирша, существующая несколько сотен лет. Она пришла из деревни на Побережье Меча, которая была разрушена ею, когда жители узнали, кто она, и попытались её убить. Множественные личности разрывают её разум, что порой затрудняет её понимание, но в её словах есть правда, и если достаточно внимательно прислушаться, она действительно обладает уникальным пониманием вещей. Она присоединилась к тебе от скуки.~
+@222 = ~Клёпаный кожаный доспех~
+@223 = ~Доспех Мириам~
+@224 = ~Клёпаный кожаный доспех имеет очень мало общего с обычным кожаным доспехом. В то время как кожа последнего представляет из себя жёсткий панцирь, материал, из которого изготовлен клёпаный доспех, мягок, пластичен и покрыт сотнями металлических заклёпок. Они расположены так близко друг к другу, что составляют единое гибкое металлическое полотно, способное отражать рубящие и режущие удары. Мягкая кожаная подкладка лишь удерживает заклёпки на месте.
 
-STATISTICS:
+ПАРАМЕТРЫ:
 
-Armor Class: 7
-Weight: 25
-Requires: 6 Strength~
-@225 =  ~Miriam's Armor
-Miriam's shadowy armor was a gift from her lover Akkari, a vampire mage. It was created to help vampires survive outside during the day time, there are very few known to exist. It is light and flowing, with powerful enchantments woven into the fabric to prevent the true light of the sun from vaporizing Miriam's vampiric flesh. She is still weakened under its glare, however.
+Класс защиты: 7
+Требования: 6 сила
 
-As a fledgling vampire, Miriam has the standard undead immunities to hold, charm, death magic and poison. She is resistant to cold and electrical damage. She regenerates one hit point every two seconds.~
+Вес: 25~
+@225 =  ~Доспех Мириам
+Темный доспех Мириам был подарком её возлюбленного Аккари, вампира-мага. Он был создан, чтобы помочь вампирам выжить на улице в дневное время, о существовании которого известно не многим. Он легкий и гибкий, с мощными чарами, вплетёнными в ткань, чтобы не дать яркому солнцу испарить вампирскую плоть Мириам. Однако она всё же слабеет под солнечными лучами.
 
-@226 =  ~Miriam's Armor
-Miriam's shadowy armor was a gift from her lover Akkari, a vampire mage. It was created to help vampires survive outside during the day time, there are very few known to exist. It is light and flowing, with powerful enchantments woven into the fabric to prevent the true light of the sun from vaporizing Miriam's vampiric flesh. She is still weakened under its glare, however.
+Как молодая вампирша, Мириам обладает стандартным иммунитетом нежити к удержанию, очарованию, смертельной магии и яду. Она устойчива к холоду и поражению электрическим током. Каждые 2 секунды она восстанавливает 1 пункт здоровья.~
 
-As a mature vampire, Miriam has the standard undead immunities to hold, charm, death magic and poison. She cannot be harmed by non-magical weapons. She is resistant to cold and electrical damage. She regenerates one hit point every two seconds.~
+@226 =  ~Доспех Мириам
+Темный доспех Мириам был подарком её возлюбленного Аккари, вампира-мага. Он был создан, чтобы помочь вампирам выжить на улице в дневное время, о существовании которого известно не многим. Он легкий и гибкий, с мощными чарами, вплетёнными в ткань, чтобы не дать яркому солнцу испарить вампирскую плоть Мириам. Однако она всё же слабеет под солнечными лучами.
 
-@227 =  ~Miriam's Armor
-Miriam's shadowy armor was a gift from her lover Akkari, a vampire mage. It was created to help vampires survive outside during the day time, there are very few known to exist. It is light and flowing, with powerful enchantments woven into the fabric to prevent the true light of the sun from vaporizing Miriam's vampiric flesh. She is still weakened under its glare, however.
+Как взрослая вампирша, Мириам обладает стандартным иммунитетом нежити к удержанию, очарованию, смертельной магии и яду. Ей нельзя навредить немагическим оружием. Она устойчива к холоду и поражению электрическим током. Каждые 2 секунды она восстанавливает 1 пункт здоровья.~
 
-As a elder vampire, Miriam has the standard undead immunities to hold, charm, death magic and poison. She cannot be harmed by non-magical or +1 weapons. She is resistant to cold and electrical damage. She regenerates one hit point every two seconds.~
+@227 =  ~Доспех Мириам
+Темный доспех Мириам был подарком её возлюбленного Аккари, вампира-мага. Он был создан, чтобы помочь вампирам выжить на улице в дневное время, о существовании которого известно не многим. Он легкий и гибкий, с мощными чарами, вплетёнными в ткань, чтобы не дать яркому солнцу испарить вампирскую плоть Мириам. Однако она всё же слабеет под солнечными лучами.
 
-@228 =  ~Miriam's Armor
-Miriam's shadowy armor was a gift from her lover Akkari, a vampire mage. It was created to help vampires survive outside during the day time, there are very few known to exist. It is light and flowing, with powerful enchantments woven into the fabric to prevent the true light of the sun from vaporizing Miriam's vampiric flesh. She is still weakened under its glare, however.
+Как старшая вампирша, Мириам обладает стандартным иммунитетом нежити к удержанию, очарованию, смертельной магии и яду. Ей нельзя навредить немагическим или +1 оружием. Она устойчива к холоду и поражению электрическим током. Каждые 2 секунды она восстанавливает 1 пункт здоровья.~
 
-As a vampire matriarch, Miriam has the standard undead immunities to hold, charm, death magic and poison. She cannot be harmed by non-magical, +1 or +2 weapons. She is resistant to cold and electrical damage. She regenerates two hit points every second.~
+@228 =  ~Доспех Мириам
+Темный доспех Мириам был подарком её возлюбленного Аккари, вампира-мага. Он был создан, чтобы помочь вампирам выжить на улице в дневное время, о существовании которого известно не многим. Он легкий и гибкий, с мощными чарами, вплетёнными в ткань, чтобы не дать яркому солнцу испарить вампирскую плоть Мириам. Однако она всё же слабеет под солнечными лучами.
 
-@229 = ~Miriam's Claws~
-@230 = ~Miriam's Claws
-Like those of all vampires, Miriam's claws are a conduit to the negative material plane. Her icy touch counts as a +2 weapon, deals 1d6+2 points of damage and drains one level from her target.~
-@231 = ~Miriam's Claws
-Like those of all vampires, Miriam's claws are a conduit to the negative material plane. Her icy touch counts as a +2 weapon, deals 1d6+2 points of damage and drains 2 levels from her target.~
-@232 = ~Miriam's Claws
-Like those of all vampires, Miriam's claws are a conduit to the negative material plane. Her icy touch counts as a +3 weapon, deals 1d6+3 points of damage and drains 3 levels from her target.~
-@233 = ~Miriam's Claws
-Like those of all vampires, Miriam's claws are a conduit to the negative material plane. Her icy touch counts as a +4 weapon, deals 1d6+4 points of damage and drains 4 levels from her target.~
-@234 = ~Miriam's Claws
-Like those of all vampires, Miriam's claws are a conduit to the negative material plane. Her icy touch counts as a +5 weapon, deals 1d6+5 points of damage and drains 5 levels from her target.~
-@235 = ~Miriam's Super Duper claws of death.~
+Как вампирша матриарх, Мириам обладает стандартным иммунитетом нежити к удержанию, очарованию, смертельной магии и яду. Ей нельзя навредить немагическим, +1 или +2 оружием. Она устойчива к холоду и поражению электрическим током. Каждую 1 секунду она восстанавливает 2 пункта здоровья.~
 
-@236 = ~Blinded by sunlight.~
+@229 = ~Когти Мириам~
+@230 = ~Когти Мириам
+Как и у всех вампиров, когти Мириам являются каналом к негативному материальному плану. Её ледяное прикосновение считается оружием +2, наносит 1d6+2 урона и откачивает 1 уровень у цели.~
+@231 = ~Когти Мириам
+Как и у всех вампиров, когти Мириам являются каналом к негативному материальному плану. Её ледяное прикосновение считается оружием +2, наносит 1d6+2 урона и откачивает 2 уровня у цели.~
+@232 = ~Когти Мириам
+Как и у всех вампиров, когти Мириам являются каналом к негативному материальному плану. Её ледяное прикосновение считается оружием +3, наносит 1d6+3 урона и откачивает 3 уровня у цели.~
+@233 = ~Когти Мириам
+Как и у всех вампиров, когти Мириам являются каналом к негативному материальному плану. Её ледяное прикосновение считается оружием +4, наносит 1d6+4 урона и откачивает 4 уровня у цели.~
+@234 = ~Когти Мириам
+Как и у всех вампиров, когти Мириам являются каналом к негативному материальному плану. Её ледяное прикосновение считается оружием +5, наносит 1d6+5 урона и откачивает 5 уровней у цели.~
+@235 = ~Супер когти смерти Мириам.~
+
+@236 = ~Ослепление солнечным светом~
 @237 = ~Vampire Tales 2.0 (rework for EET compatibility)~
 @238 = ~You do not appear to have TOB installed.~

@@ -1,18 +1,9 @@
 BACKUP ~vampiretales/backup~
 AUTHOR ~"http://www.chosenofmystra.com"~
 
-/*ALWAYS
-  ACTION_DEFINE_ARRAY VampRreload BEGIN setup harper comstore END
-  LAF HANDLE_CHARSETS
-    INT_VAR
-      infer_charsets = 1
-    STR_VAR
-      tra_path = EVAL ~%MOD_FOLDER%~
-      reload_array = VampRreload
-  END
-END*/
-
 AUTO_TRA ~vampiretales/%s~
+
+VERSION ~2.1~
 
 LANGUAGE ~English~ 
          ~English~
@@ -33,11 +24,6 @@ LANGUAGE ~Russian (Translation by yota13)~
 
 
 BEGIN @237
-
-PRINT ~/ ****************************************~
-PRINT ~*Vampire Tales Version 2.0 For BG2:EE/EET*~
-PRINT ~*http://www.chosenofmystra.com   	*~
-PRINT ~*****************************************~
 
 DEFINE_PATCH_MACRO CMG_VAMPIRE_ITEMS BEGIN
 	WRITE_LONG 0x1e 0

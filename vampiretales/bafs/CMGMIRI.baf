@@ -98,6 +98,7 @@ IF
 	AreaType(OUTDOOR)
 	AreaType(DAYNIGHT)
 	!TimeOfDay(NIGHT)
+	!HasItemEquiped("Ohhcloak",Myself)
 THEN
 	RESPONSE #100
 		ReallyForceSpellRES("MIRIAM",Myself) // Blighted by the SunLight
